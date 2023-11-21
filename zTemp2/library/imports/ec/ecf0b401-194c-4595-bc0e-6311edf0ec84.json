@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dipan",
+    "texture": "56863221-2490-4fe6-9d1c-7898cab38936",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      779,
+      807
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      779,
+      807
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

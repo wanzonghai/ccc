@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gou",
+    "texture": "40d0f8fc-3795-4e63-8e1d-d4cd0c3b28b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
