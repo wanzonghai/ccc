@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ykvuar",
+    "texture": "0583dbe6-e0c3-4f1f-88ca-07ebd1380685",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      210
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      210
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ltcapw",
+    "texture": "65d2bf3b-8c65-479c-aa4e-7ce907bd6edc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1080,
+      1180
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1080,
+      1180
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

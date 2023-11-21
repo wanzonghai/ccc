@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poivbxblrs",
+    "texture": "2897d9a9-d1ad-4643-a238-eb1651b4f386",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      543,
+      186
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      543,
+      186
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

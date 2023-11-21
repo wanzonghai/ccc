@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gsepuydifl",
+    "texture": "c0c6a4a3-3187-48a3-9fe6-279ef6c674d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      163
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      163
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

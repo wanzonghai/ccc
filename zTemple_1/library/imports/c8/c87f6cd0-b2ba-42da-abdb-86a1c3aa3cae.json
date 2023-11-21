@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ncznooa",
+    "texture": "c8898491-69b0-46f6-90b1-a326a342b290",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1139,
+      520
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1139,
+      520
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

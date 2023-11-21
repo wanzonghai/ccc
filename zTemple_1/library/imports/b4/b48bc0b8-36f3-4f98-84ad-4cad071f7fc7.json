@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qoopni",
+    "texture": "25573238-aab6-4991-9af8-47dc20993437",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      513,
+      177
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      513,
+      177
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

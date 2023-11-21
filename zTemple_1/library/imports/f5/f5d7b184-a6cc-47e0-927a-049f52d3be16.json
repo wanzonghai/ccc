@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ksarz",
+    "texture": "4ee04579-f219-4f6c-9907-cc48f692eac9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      210
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      210
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

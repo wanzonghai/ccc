@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kzhzagoi",
+    "texture": "f3fd26c5-09fe-49ce-8d33-6099e44c7fca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

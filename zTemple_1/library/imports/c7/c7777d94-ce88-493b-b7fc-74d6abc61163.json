@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gkegpe",
+    "texture": "138c0c34-565f-4430-9f7f-14d89ac6307f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      193,
+      199
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      193,
+      199
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

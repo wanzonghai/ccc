@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bbowaix",
+    "texture": "80ef648f-c1da-4805-8aad-07fb0d9bd8c4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1920,
+      520
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1920,
+      520
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

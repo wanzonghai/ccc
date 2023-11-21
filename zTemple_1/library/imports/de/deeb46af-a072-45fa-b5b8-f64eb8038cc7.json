@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tzaovtduar",
+    "texture": "85079f59-46d3-4ee0-b47e-b6969c01a8d3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1117,
+      526
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1117,
+      526
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

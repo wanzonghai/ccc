@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qurbh",
+    "texture": "6cd641c8-6c24-48df-a0cb-59c747a2b2f8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      513,
+      177
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      513,
+      177
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

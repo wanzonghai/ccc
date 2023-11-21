@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wrzin",
+    "texture": "8497169e-d0b1-4c58-b241-63ac8c84c1b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

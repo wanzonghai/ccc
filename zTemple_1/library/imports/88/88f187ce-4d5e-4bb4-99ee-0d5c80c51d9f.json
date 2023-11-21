@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pzhehizx",
+    "texture": "f9e55b82-c242-4e6c-9b79-37fb01e14df7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      41,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      41,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

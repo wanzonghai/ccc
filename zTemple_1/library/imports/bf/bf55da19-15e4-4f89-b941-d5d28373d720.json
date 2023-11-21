@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ehuilhcscp",
+    "texture": "e9e0a481-360c-457e-bbdd-fffb2601ab30",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      513,
+      177
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      513,
+      177
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
