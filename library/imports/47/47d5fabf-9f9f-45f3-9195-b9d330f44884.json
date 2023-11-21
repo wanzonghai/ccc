@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wideilu",
+    "texture": "a0936999-c381-4bf0-9241-98b3040be8d1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      499,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      499,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

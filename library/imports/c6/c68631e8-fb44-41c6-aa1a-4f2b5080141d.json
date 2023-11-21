@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "evpeuupa",
+    "texture": "f951647f-d983-41ac-b6dd-182a549f3426",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

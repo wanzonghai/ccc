@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rdlaemqm",
+    "texture": "f7eb32ab-22b8-4fe4-ac86-f44044395e0f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

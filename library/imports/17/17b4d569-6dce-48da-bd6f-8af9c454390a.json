@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cuintnqus",
+    "texture": "156755ba-3c59-4da1-bd53-5343e1b6e335",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

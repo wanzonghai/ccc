@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "waapnv",
+    "texture": "fe3367fe-0e86-4bbf-bfb7-13ab5ec94c6e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      553,
+      133
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      553,
+      133
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

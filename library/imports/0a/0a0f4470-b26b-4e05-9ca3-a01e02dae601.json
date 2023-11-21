@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wvwkxk",
+    "texture": "2ffed201-43b5-4258-83e5-1f0ddbaeffe6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      682,
+      844
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      682,
+      844
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
