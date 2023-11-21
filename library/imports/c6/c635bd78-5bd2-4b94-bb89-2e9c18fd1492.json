@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cmydbtyirr",
+    "texture": "02310c6d-55c2-4366-834d-7dc78f95d6a2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      257,
+      230
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      257,
+      230
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

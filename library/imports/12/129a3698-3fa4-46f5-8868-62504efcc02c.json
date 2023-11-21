@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fzwmfci",
+    "texture": "237d438d-0562-4faa-9117-601bc4879d25",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      257,
+      246
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      257,
+      246
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jlanbsj",
+    "texture": "d4d5c850-c001-4d4d-8a61-b07eccca6cf6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      815,
+      658
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      815,
+      658
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

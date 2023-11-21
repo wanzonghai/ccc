@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "awsdaqbys",
+    "texture": "a68aafb1-2ec7-4b0b-9e13-bb338297ef97",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1920,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1920,
+      134
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

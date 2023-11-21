@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mhbtuq",
+    "texture": "d091f8a4-5add-43e6-a8c2-792a1688d8c5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      815,
+      658
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      815,
+      658
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

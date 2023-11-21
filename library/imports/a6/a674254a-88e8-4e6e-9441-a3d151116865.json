@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "policyShowAni",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "rule2": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 528.459
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 264.478
+            },
+            {
+              "frame": 0.15,
+              "value": 277.077
+            },
+            {
+              "frame": 0.2,
+              "value": 363.871
+            },
+            {
+              "frame": 0.25,
+              "value": 298.075
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

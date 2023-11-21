@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flmwsqblrs",
+    "texture": "7c43db0c-b49a-49e7-9fad-b61e5c6a027b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      377,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      377,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

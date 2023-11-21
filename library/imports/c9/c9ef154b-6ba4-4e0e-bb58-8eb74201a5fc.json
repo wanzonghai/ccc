@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "uvcrbg",
+    "texture": "6142277d-d90d-424a-b482-350999ae6e9f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      233,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      233,
+      75
+    ],
+    "capInsets": [
+      24,
+      27,
+      102,
+      31
+    ]
+  }
+}

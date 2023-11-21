@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jsespydwev",
+    "texture": "b30451ed-9741-40bc-bb5f-a131a46eef94",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jkjinrai",
+    "texture": "791c1e77-3649-45d0-9151-1ecb94835c75",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      257,
+      456
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      257,
+      456
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "obferg",
+    "texture": "5c3b5c8c-7440-4c99-8e90-a04be41d266c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      247,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      247,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

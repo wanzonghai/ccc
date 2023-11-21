@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qixha",
+    "texture": "d21a9cb3-5025-4b01-8ef6-194d6b71af76",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      765,
+      750
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      765,
+      750
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

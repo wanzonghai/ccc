@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "upinn",
+    "texture": "e57cda9f-0c7c-46ca-80f9-c1e48d60c3e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      131,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      134
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

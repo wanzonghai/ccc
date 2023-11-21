@@ -1,0 +1,9 @@
+{
+  "__type__": "cc.ParticleAsset",
+  "_name": "Rcoin",
+  "_objFlags": 0,
+  "_native": ".plist",
+  "spriteFrame": {
+    "__uuid__": "59d20e1c-0a04-45e4-ab5b-83bb9c8a6ab7"
+  }
+}

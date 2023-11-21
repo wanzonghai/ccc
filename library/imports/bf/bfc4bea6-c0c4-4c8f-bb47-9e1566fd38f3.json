@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pmdoyc",
+    "texture": "92ce046a-cbdd-48aa-8c18-7a3a371248a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      838,
+      503
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      838,
+      503
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

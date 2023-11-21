@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cfndr",
+    "texture": "b6514c4b-4062-4d6f-816d-563faae07c43",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      765,
+      750
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      765,
+      750
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
