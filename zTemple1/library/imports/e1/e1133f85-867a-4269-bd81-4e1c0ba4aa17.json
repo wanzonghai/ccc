@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mfsvurx",
+    "texture": "304cf23f-fc9d-459a-a75c-4cfc095eaf94",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      146,
+      145
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      145
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

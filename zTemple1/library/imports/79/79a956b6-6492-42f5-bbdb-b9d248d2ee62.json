@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "clcpd",
+    "texture": "acd4bda6-d2b6-4c2f-affa-402e6ab1ff26",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1332,
+      803
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1332,
+      803
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

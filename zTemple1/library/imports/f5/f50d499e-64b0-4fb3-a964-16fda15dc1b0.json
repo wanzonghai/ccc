@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "apfimam",
+    "texture": "b2d16940-0b75-4f65-a19c-d9b791e9029c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      397,
+      872
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      397,
+      872
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ylfol",
+    "texture": "6c0d5f05-2695-4d89-9939-fee3c252d4b9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1539,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1539,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

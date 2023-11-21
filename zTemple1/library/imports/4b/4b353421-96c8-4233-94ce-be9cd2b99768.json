@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rpzekf",
+    "texture": "2f16ee35-a271-4a86-91be-8578fec44c7e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      115,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

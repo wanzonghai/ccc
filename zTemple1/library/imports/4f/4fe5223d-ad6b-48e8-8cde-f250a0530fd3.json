@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "omecyivg",
+    "texture": "48c9c929-39cc-4852-abed-14c7120d6de6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      613
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      613
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

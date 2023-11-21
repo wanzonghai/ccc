@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kihnfyqu",
+    "texture": "84db716a-d5fc-4f68-bd34-87ae52650bc7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

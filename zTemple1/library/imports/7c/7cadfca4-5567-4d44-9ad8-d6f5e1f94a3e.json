@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "igfsuorhw",
+    "texture": "e00cf5a7-0356-4970-910b-435789c3c10b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      137
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      137
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

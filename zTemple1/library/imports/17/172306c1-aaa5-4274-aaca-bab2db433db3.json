@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iryosol",
+    "texture": "07323262-3d75-4f3d-820e-626234fa859d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

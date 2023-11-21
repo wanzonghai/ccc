@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gvfvltdjo",
+    "texture": "84d79586-1575-4393-9e21-c96fe2324a65",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nxxuw",
+    "texture": "586398d9-557f-4d4f-8f52-4a4f64194854",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      307,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      307,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

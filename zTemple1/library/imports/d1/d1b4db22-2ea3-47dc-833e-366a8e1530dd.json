@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vpwepcdo",
+    "texture": "57922f61-307e-4c10-ac45-8c7762c7899b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      830,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      830,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

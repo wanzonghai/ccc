@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qdulz",
+    "texture": "85cd31a8-93e1-4f28-bbe1-f5ef1743f2a6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1190,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1190,
+      127
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

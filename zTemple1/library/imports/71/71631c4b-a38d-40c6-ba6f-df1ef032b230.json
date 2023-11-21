@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jplmdoliwt",
+    "texture": "b5ec6644-d565-4b50-87ba-5a93775f171c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      173,
+      124
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      173,
+      124
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

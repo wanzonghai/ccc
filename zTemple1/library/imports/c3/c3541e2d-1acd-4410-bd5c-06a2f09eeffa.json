@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qmevwb",
+    "texture": "8815836c-7928-41cc-a468-2cb54d1eb899",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1539,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1539,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

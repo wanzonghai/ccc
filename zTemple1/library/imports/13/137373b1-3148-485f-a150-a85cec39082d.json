@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "udpkmikw",
+    "texture": "d67c5320-da7c-4fd3-99f2-60b3563d3a04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      320,
+      399
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      320,
+      399
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

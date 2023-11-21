@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tyxnunu",
+    "texture": "74fbd20a-9b5a-484b-920b-b1957bea486e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

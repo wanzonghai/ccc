@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ohobd",
+    "texture": "289d85e3-12b4-4893-8d6e-753d5605724d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      965,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      965,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

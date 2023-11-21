@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hkcanxu",
+    "texture": "9ed374b0-9a01-4822-9d3e-ff50999baebc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

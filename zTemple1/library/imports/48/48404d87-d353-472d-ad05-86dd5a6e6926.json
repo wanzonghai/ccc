@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kzaoush",
+    "texture": "3e23bc84-c225-4e28-a5cf-176dd8e2a223",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      421,
+      516
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      421,
+      516
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
