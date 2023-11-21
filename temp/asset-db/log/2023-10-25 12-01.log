@@ -1,0 +1,1634 @@
+2023-10-25 12:01:18-debug: asset-db:worker-init (897ms)
+2023-10-25 12:01:18-debug: Preimport db internal success
+2023-10-25 12:01:18-debug: Preimport db assets success
+2023-10-25 12:01:18-debug: asset-db:worker-effect-data-processing (118ms)
+2023-10-25 12:01:21-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-10-25 12:01:21-debug: Start up the 'internal' database...
+2023-10-25 12:01:21-debug: asset-db:worker-init-script (26ms)
+2023-10-25 12:01:21-debug: start asset-db with asset: 419
+2023-10-25 12:01:21-debug: Start up the 'assets' database...
+2023-10-25 12:01:21-debug: asset-db:worker-startup-database[internal] (3186ms)
+2023-10-25 12:01:21-debug: start asset-db with asset: 63
+2023-10-25 12:01:21-debug: Asset DB is ready!
+2023-10-25 12:01:21-debug: asset-db:worker-startup-database[assets] (3146ms)
+2023-10-25 12:01:21-debug: init worker message success
+2023-10-25 12:01:22-debug: builder:worker-init (1111ms)
+2023-10-25 12:01:24-debug: programming:execute-script (2ms)
+2023-10-25 12:01:36-debug: refresh db internal success
+2023-10-25 12:01:36-debug: asset-db:worker-effect-data-processing (156ms)
+2023-10-25 12:01:37-debug: refresh db assets success
+2023-10-25 12:01:37-debug: asset-db:refresh-all-database (195ms)
+2023-10-25 12:01:59-debug: refresh db internal success
+2023-10-25 12:01:59-debug: asset-db:worker-effect-data-processing (148ms)
+2023-10-25 12:01:59-debug: refresh db assets success
+2023-10-25 12:01:59-debug: asset-db:refresh-all-database (186ms)
+2023-10-25 12:02:21-debug: refresh db internal success
+2023-10-25 12:02:22-debug: asset-db:worker-effect-data-processing (148ms)
+2023-10-25 12:02:22-debug: refresh db assets success
+2023-10-25 12:02:22-debug: asset-db:refresh-all-database (185ms)
+2023-10-25 12:02:44-debug: refresh db internal success
+2023-10-25 12:02:44-debug: asset-db:worker-effect-data-processing (169ms)
+2023-10-25 12:02:44-debug: refresh db assets success
+2023-10-25 12:02:44-debug: asset-db:refresh-all-database (218ms)
+2023-10-25 12:03:09-debug: refresh db internal success
+2023-10-25 12:03:09-debug: asset-db:worker-effect-data-processing (138ms)
+2023-10-25 12:03:09-debug: refresh db assets success
+2023-10-25 12:03:09-debug: asset-db:refresh-all-database (170ms)
+2023-10-25 12:05:36-debug: Start record console... {file(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\log\android2023-10-25 12-05.log)}
+2023-10-25 12:05:36-debug: =================================== build Task (android) Start ================================
+2023-10-25 12:05:36-debug: Start build task, options:{"name":"ROYALTEENPATTI","platform":"android","buildPath":"project://build","debug":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"polyfills":{"asyncFunctions":false},"experimentalEraseModules":false,"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"packAutoAtlas":true,"startScene":"acfff64a-ba74-485d-a9c9-b2a9ac7a7c7c","outputName":"android","scenes":[{"url":"db://assets/scenes/Hall.scene","uuid":"17583d7f-c175-44b7-b4aa-e7e2cd0feac3","inBundle":false},{"url":"db://assets/scenes/Login.scene","uuid":"acfff64a-ba74-485d-a9c9-b2a9ac7a7c7c","inBundle":false}],"web-desktop":[],"packages":{"android":{"packageName":"cfzzejdpia.istmlomqz.msjmejkfb","orientation":{"portrait":false,"upsideDown":false,"landscapeRight":true,"landscapeLeft":true},"apiLevel":34,"appABIs":["arm64-v8a","armeabi-v7a"],"useDebugKeystore":true,"keystorePath":"","keystorePassword":"","keystoreAlias":"","keystoreAliasPassword":"","appBundle":false,"androidInstant":false,"remoteUrl":"","sdkPath":"","ndkPath":"","renderBackEnd":{"vulkan":false,"gles3":true,"gles2":true},"swappy":false,"__version__":"1.0.1"},"cocos-service":{"configID":"2c77c7","services":[]},"native":{"encrypted":true,"xxteaKey":"dd9k+YJ/tEo4C2Us","compressZip":false,"JobSystem":"none","__version__":"1.0.2"}},"__version__":"1.3.5","android":[]}
+2023-10-25 12:05:36-debug: Build with Cocos Creator 3.7.4
+2023-10-25 12:05:36-debug: cocos-service:(onBeforeBuild) start...0%
+2023-10-25 12:05:36-debug: // ---- build task cocos-service：onBeforeBuild ----
+2023-10-25 12:05:36-debug: Process: heapTotal 228.93MB heapUsed 210.80MB rss 565.96MB
+2023-10-25 12:05:36-debug: // ---- build task cocos-service：onBeforeBuild ---- (197ms)
+2023-10-25 12:05:36-debug: cocos-service:(onBeforeBuild) in 197 ms1%
+2023-10-25 12:05:36-debug: scene:(onBeforeBuild) start...1%
+2023-10-25 12:05:36-debug: // ---- build task scene：onBeforeBuild ----
+2023-10-25 12:05:36-debug: Process: heapTotal 227.81MB heapUsed 200.25MB rss 562.58MB
+2023-10-25 12:05:36-debug: // ---- build task scene：onBeforeBuild ---- (11ms)
+2023-10-25 12:05:36-debug: scene:(onBeforeBuild) in 11 ms2%
+2023-10-25 12:05:36-debug: Start lock asset db...2%
+2023-10-25 12:05:36-debug: Query all assets info in project
+2023-10-25 12:05:36-log: Asset DB is paused with build!
+2023-10-25 12:05:36-debug: BuildAssetLibrary query-assets with assets 538
+2023-10-25 12:05:36-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-10-25 12:05:36-debug:   Number of all scenes: 2
+2023-10-25 12:05:36-debug:   Number of all scripts: 15
+2023-10-25 12:05:36-debug: native:(onAfterInit) start...2%
+2023-10-25 12:05:36-debug:   Number of other assets: 378
+2023-10-25 12:05:36-debug: // ---- build task native：onAfterInit ----
+2023-10-25 12:05:36-debug: Process: heapTotal 227.81MB heapUsed 202.44MB rss 562.53MB
+2023-10-25 12:05:36-debug: Native engine root:D:\AppData\cocos\editors\Creator\Creator\3.7.4\resources\resources\3d\engine\native
+2023-10-25 12:05:36-debug: // ---- build task native：onAfterInit ---- (176ms)
+2023-10-25 12:05:36-debug: native:(onAfterInit) in 176 ms3%
+2023-10-25 12:05:36-debug: android:(onAfterInit) start...3%
+2023-10-25 12:05:36-debug: // ---- build task android：onAfterInit ----
+2023-10-25 12:05:36-debug: Process: heapTotal 229.06MB heapUsed 204.65MB rss 565.98MB
+2023-10-25 12:05:36-debug: // ---- build task android：onAfterInit ---- (9ms)
+2023-10-25 12:05:36-debug: cocos-service:(onAfterInit) start...4%
+2023-10-25 12:05:36-debug: android:(onAfterInit) in 9 ms4%
+2023-10-25 12:05:36-debug: // ---- build task cocos-service：onAfterInit ----
+2023-10-25 12:05:36-debug: Process: heapTotal 229.06MB heapUsed 204.75MB rss 565.99MB
+2023-10-25 12:05:37-debug: // ---- build task cocos-service：onAfterInit ---- (162ms)
+2023-10-25 12:05:37-debug: cocos-service:(onAfterInit) in 162 ms4%
+2023-10-25 12:05:37-debug: 加载刷新项目脚本 start4%
+2023-10-25 12:05:37-debug: // ---- build task 加载刷新项目脚本 ----
+2023-10-25 12:05:37-debug: Process: heapTotal 229.06MB heapUsed 204.85MB rss 566.00MB
+2023-10-25 12:05:37-debug: reload all scripts.
+2023-10-25 12:05:37-debug: Incremental keys: 
+2023-10-25 12:05:37-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\ce\cee638a986ad8fae09398db255647defcaa6612a.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\ce\cee638a986ad8fae09398db255647defcaa6612a.js is not in module cache!
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2023-10-25 12:05:37-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\c1\c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\c1\c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js is not in module cache!
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/c1/c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js" loaded.
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\dc\dc470d400dc17fe44c04ed0c44faa0d1668fe9c3.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\dc\dc470d400dc17fe44c04ed0c44faa0d1668fe9c3.js is not in module cache!
+2023-10-25 12:05:37-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/dc/dc470d400dc17fe44c04ed0c44faa0d1668fe9c3.js" loaded.
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\0f\0ff6396fa839be48d7949beacf6bda2a657d69d2.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\0f\0ff6396fa839be48d7949beacf6bda2a657d69d2.js is not in module cache!
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/0f/0ff6396fa839be48d7949beacf6bda2a657d69d2.js" loaded.
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\22\22f10d931ca99dae7b16eb47e04bc6545b986c49.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\22\22f10d931ca99dae7b16eb47e04bc6545b986c49.js is not in module cache!
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\be\be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\be\be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js is not in module cache!
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\9c\9ca722dc76d37cad5bc9823813cb73575723409e.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\9c\9ca722dc76d37cad5bc9823813cb73575723409e.js is not in module cache!
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\06\06e91d62a192d81b90d0d4560fee8bed90dba712.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\06\06e91d62a192d81b90d0d4560fee8bed90dba712.js is not in module cache!
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\24\24b2f6d9cd82d4ad492ab0c2fa029a1c07aa850e.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\24\24b2f6d9cd82d4ad492ab0c2fa029a1c07aa850e.js is not in module cache!
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\16\16a99cd7bb7de009a2bf73102c7be015ed783d63.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\16\16a99cd7bb7de009a2bf73102c7be015ed783d63.js is not in module cache!
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\7e\7ef3ab5d2ead7c032ca0c01af984ee9b1236d386.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\7e\7ef3ab5d2ead7c032ca0c01af984ee9b1236d386.js is not in module cache!
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\b7\b7e0cc3bc063d80bda6da1505830495d92431ecf.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\b7\b7e0cc3bc063d80bda6da1505830495d92431ecf.js is not in module cache!
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\48\48ff8936cc036d12fc397f987a78e3b40f7d04b9.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\48\48ff8936cc036d12fc397f987a78e3b40f7d04b9.js is not in module cache!
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/7e/7ef3ab5d2ead7c032ca0c01af984ee9b1236d386.js" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/06/06e91d62a192d81b90d0d4560fee8bed90dba712.js" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/b7/b7e0cc3bc063d80bda6da1505830495d92431ecf.js" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/16/16a99cd7bb7de009a2bf73102c7be015ed783d63.js" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/48/48ff8936cc036d12fc397f987a78e3b40f7d04b9.js" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/24/24b2f6d9cd82d4ad492ab0c2fa029a1c07aa850e.js" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/9c/9ca722dc76d37cad5bc9823813cb73575723409e.js" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/22/22f10d931ca99dae7b16eb47e04bc6545b986c49.js" loaded.
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\fa\fa463bd823cd2fbd7a721267db6ed1eeb2ab6b1a.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\fa\fa463bd823cd2fbd7a721267db6ed1eeb2ab6b1a.js is not in module cache!
+2023-10-25 12:05:37-debug: [[Executor]] Register HallScene
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/fa/fa463bd823cd2fbd7a721267db6ed1eeb2ab6b1a.js" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Register LoginScene
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\ce\cee94f8ed1a4ca86024139d425ca8771914d13f4.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\ce\cee94f8ed1a4ca86024139d425ca8771914d13f4.js is not in module cache!
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/ce/cee94f8ed1a4ca86024139d425ca8771914d13f4.js" loaded.
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\ff\ff29a85c19a7651f0735c349a04d77e13b9ac522.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\ff\ff29a85c19a7651f0735c349a04d77e13b9ac522.js is not in module cache!
+2023-10-25 12:05:37-debug: [[Executor]] Register NativeJSBridgeIns
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/ff/ff29a85c19a7651f0735c349a04d77e13b9ac522.js" loaded.
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\57\57583dbc96f792bb6297552be81928cfbe57e450.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\57\57583dbc96f792bb6297552be81928cfbe57e450.js is not in module cache!
+2023-10-25 12:05:37-debug: [[Executor]] Register RedUtil
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/57/57583dbc96f792bb6297552be81928cfbe57e450.js" loaded.
+2023-10-25 12:05:37-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\f6\f69071f2062809c6c105b659e2714dff788894dd.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\f6\f69071f2062809c6c105b659e2714dff788894dd.js is not in module cache!
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/f6/f69071f2062809c6c105b659e2714dff788894dd.js" loaded.
+2023-10-25 12:05:37-debug: [[Executor]] Module "pack:///chunks/c1/c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js" loaded.
+2023-10-25 12:05:37-debug: // ---- build task 加载刷新项目脚本 ---- (49ms)
+2023-10-25 12:05:37-debug: run build task 加载刷新项目脚本 success in 49 ms √6%
+2023-10-25 12:05:37-debug: 查询 Asset Bundle start6%
+2023-10-25 12:05:37-debug: // ---- build task 查询 Asset Bundle ----
+2023-10-25 12:05:37-debug: Process: heapTotal 229.22MB heapUsed 209.20MB rss 567.27MB
+2023-10-25 12:05:37-debug: // ---- build task 查询 Asset Bundle ---- (16ms)
+2023-10-25 12:05:37-debug: run build task 查询 Asset Bundle success in 16 ms √7%
+2023-10-25 12:05:37-debug: 查询使用的资源以及资源包配置 start7%
+2023-10-25 12:05:37-debug: // ---- build task 查询使用的资源以及资源包配置 ----
+2023-10-25 12:05:37-debug: Process: heapTotal 230.22MB heapUsed 205.44MB rss 569.88MB
+2023-10-25 12:05:37-debug: init bundle assets
+2023-10-25 12:05:37-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2023-10-25 12:05:37-debug: Number of scenes: 2
+2023-10-25 12:05:37-debug: Start sort share asset in bundle
+2023-10-25 12:05:37-debug: Start sort share asset in bundle internal with assets 20}
+2023-10-25 12:05:37-debug: Start sort share asset in bundle resources with assets 3}
+2023-10-25 12:05:37-debug: Start sort share asset in bundle main with assets 4}
+2023-10-25 12:05:37-debug: Number of assets: 97
+2023-10-25 12:05:37-debug: Number of asset bundle: 3
+2023-10-25 12:05:37-debug: // ---- build task 查询使用的资源以及资源包配置 ---- (27ms)
+2023-10-25 12:05:37-debug: run build task 查询使用的资源以及资源包配置 success in 27 ms √8%
+2023-10-25 12:05:37-debug: 整理脚本分组与脚本数据 start8%
+2023-10-25 12:05:37-debug: // ---- build task 整理脚本分组与脚本数据 ----
+2023-10-25 12:05:37-debug: Process: heapTotal 230.47MB heapUsed 206.90MB rss 568.05MB
+2023-10-25 12:05:37-debug: sort script group...
+2023-10-25 12:05:37-debug: run build task 整理脚本分组与脚本数据 success in 0 ms √9%
+2023-10-25 12:05:37-debug: // ---- build task 整理纹理压缩任务 ----
+2023-10-25 12:05:37-debug: 整理纹理压缩任务 start9%
+2023-10-25 12:05:37-debug: Process: heapTotal 230.47MB heapUsed 206.98MB rss 568.05MB
+2023-10-25 12:05:37-debug: Number of image-compress task: 4
+2023-10-25 12:05:37-debug: // ---- build task 整理纹理压缩任务 ---- (10ms)
+2023-10-25 12:05:37-debug: run build task 整理纹理压缩任务 success in 10 ms √11%
+2023-10-25 12:05:37-debug: 初步划分 JSON 合并分组 start11%
+2023-10-25 12:05:37-debug: // ---- build task 初步划分 JSON 合并分组 ----
+2023-10-25 12:05:37-debug: Process: heapTotal 230.47MB heapUsed 207.27MB rss 568.07MB
+2023-10-25 12:05:37-debug: Number of json group with bundle(internal): 1
+2023-10-25 12:05:37-debug: Start sort the json group of bundle(resources)...
+2023-10-25 12:05:37-debug: Number of json group with bundle(resources) 1
+2023-10-25 12:05:37-debug: Start sort the json group of bundle(main)...
+2023-10-25 12:05:37-debug: Number of json group with bundle(main) 3
+2023-10-25 12:05:37-debug: Number of json group: 4
+2023-10-25 12:05:37-debug: // ---- build task 初步划分 JSON 合并分组 ---- (1ms)
+2023-10-25 12:05:37-debug: run build task 初步划分 JSON 合并分组 success in 1 ms √12%
+2023-10-25 12:05:37-debug: 整理合并压缩 Texture2D 的 JSON 数据 start12%
+2023-10-25 12:05:37-debug: // ---- build task 整理合并压缩 Texture2D 的 JSON 数据 ----
+2023-10-25 12:05:37-debug: Process: heapTotal 230.47MB heapUsed 207.43MB rss 568.09MB
+2023-10-25 12:05:37-debug: // ---- build task 整理合并压缩 Texture2D 的 JSON 数据 ---- (1ms)
+2023-10-25 12:05:37-debug: run build task 整理合并压缩 Texture2D 的 JSON 数据 success in 1 ms √13%
+2023-10-25 12:05:37-debug: 收集 importMap 信息 start13%
+2023-10-25 12:05:37-debug: // ---- build task 收集 importMap 信息 ----
+2023-10-25 12:05:37-debug: Process: heapTotal 230.47MB heapUsed 207.53MB rss 568.15MB
+2023-10-25 12:05:37-debug: run build task 收集 importMap 信息 success in 0 ms √14%
+2023-10-25 12:05:37-debug: native:(onBeforeBuildAssets) start...14%
+2023-10-25 12:05:37-debug: // ---- build task native：onBeforeBuildAssets ----
+2023-10-25 12:05:37-debug: Process: heapTotal 230.47MB heapUsed 207.63MB rss 568.16MB
+2023-10-25 12:05:37-debug: native:(onBeforeBuildAssets) in 0 ms17%
+2023-10-25 12:05:37-debug: 构建自动图集 start17%
+2023-10-25 12:05:37-debug: // ---- build task 构建自动图集 ----
+2023-10-25 12:05:37-debug: Process: heapTotal 230.47MB heapUsed 207.71MB rss 568.16MB
+2023-10-25 12:05:37-debug: Start collect pack info from bundleds
+2023-10-25 12:05:37-debug: init texturePacker with packInfo 2
+2023-10-25 12:05:37-debug: start pack images
+2023-10-25 12:05:37-debug: Start pack atlas with cache.
+2023-10-25 12:05:37-debug: Start trim sprite image in pack AlatLoad...
+2023-10-25 12:05:37-debug: determine atlas size...
+2023-10-25 12:05:37-debug: Start generate atlas image...
+2023-10-25 12:05:37-debug: Start trim sprite image in pack AlaHall...
+2023-10-25 12:05:37-debug: determine atlas size...
+2023-10-25 12:05:37-debug: Start generate atlas image...
+2023-10-25 12:05:37-debug: sort pack result
+2023-10-25 12:05:37-debug: remove spriteAtlas._uuid : {asset(ba770580-97db-4073-b0ff-79cd08163a8e)}
+2023-10-25 12:05:37-debug: remove spriteAtlas._uuid : {asset(ba770580-97db-4073-b0ff-79cd08163a8e)}
+2023-10-25 12:05:37-debug: remove spriteAtlas._uuid : {asset(ba770580-97db-4073-b0ff-79cd08163a8e)}
+2023-10-25 12:05:37-debug: pack atlas success
+2023-10-25 12:05:37-debug: builder: pack atlas (509ms)
+2023-10-25 12:05:37-debug: // ---- build task 构建自动图集 ---- (564ms)
+2023-10-25 12:05:37-debug: run build task 构建自动图集 success in 564 ms √23%
+2023-10-25 12:05:37-debug: 图片拷贝压缩任务 start23%
+2023-10-25 12:05:37-debug: // ---- build task 图片拷贝压缩任务 ----
+2023-10-25 12:05:37-debug: Process: heapTotal 230.97MB heapUsed 208.45MB rss 604.16MB
+2023-10-25 12:05:37-debug: Get cache compress image failed with {"option":{"mtime":1697774309086.8357,"src":"E:\\Cocos\\Project\\ROYALTEENPATTI\\library\\34\\34af8651-e384-4c0f-9ca5-c1ae73e045ff.png","compressOptions":{"astc_8x8":{"quality":"medium"},"etc1_rgb":{"quality":"fast"},"jpg":{"quality":80}}},"suffix":[],"dest":"E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\CompressTexture\\34\\34af8651-e384-4c0f-9ca5-c1ae73e045ff.png"}
+2023-10-25 12:05:37-debug: Get cache compress image failed with {"option":{"mtime":1697783831527.3538,"src":"E:\\Cocos\\Project\\ROYALTEENPATTI\\library\\58\\5845f5bf-1e37-4110-8dce-f4663fdd3edf.png","compressOptions":{"astc_8x8":{"quality":"medium"},"etc1_rgb":{"quality":"fast"},"jpg":{"quality":80}}},"suffix":[],"dest":"E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\CompressTexture\\58\\5845f5bf-1e37-4110-8dce-f4663fdd3edf.png"}
+2023-10-25 12:05:37-debug: Get cache compress image failed with {"option":{"mtime":1697783831524.4348,"src":"E:\\Cocos\\Project\\ROYALTEENPATTI\\library\\f2\\f2bf58a0-8f41-4ae3-bf32-72be2938b333.png","compressOptions":{"astc_8x8":{"quality":"medium"},"etc1_rgb":{"quality":"fast"},"jpg":{"quality":80}}},"suffix":[],"dest":"E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\CompressTexture\\f2\\f2bf58a0-8f41-4ae3-bf32-72be2938b333.png"}
+2023-10-25 12:05:37-debug: start compress astcE:\Cocos\Project\ROYALTEENPATTI\library\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.pngE:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.astcastc_8x8
+2023-10-25 12:05:37-debug: astc compressed command: astcenc.exe -cl E:\Cocos\Project\ROYALTEENPATTI\library\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.png E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.astc 8x8 -medium
+2023-10-25 12:05:37-debug: start compress etcE:\Cocos\Project\ROYALTEENPATTI\library\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.pngE:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.pkmetc1_rgb
+2023-10-25 12:05:37-debug: etc compress command :  .\etcpack.exe E:\Cocos\Project\ROYALTEENPATTI\library\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.png E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\34 -c etc1 -s fast
+2023-10-25 12:05:37-log: [compress etc][malitc-1]Compressing. Output file: E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.pkm
+2023-10-25 12:05:38-log: [compress astc]Source image============    Source:                     E:\Cocos\Project\ROYALTEENPATTI\library\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.png    Color profile:              LDR    Dimensions:                 2D, 2560x1080    Components:                 4Compressor settings===================    Color profile:              LDR linear    Block size:                 8x8    Bitrate:                    2.00 bpp    Radius mean/stdev:          0 texels    RGB power:                  1    RGB base weight:            1    RGB mean weight:            0    RGB stdev weight:           0    RGB mean/stdev mixing:      0    Alpha power:                1    Alpha base weight:          1    Alpha mean weight:          0    Alpha stdev weight:         0    RGB alpha scale weight:     0    R component weight:         1    G component weight:         1    B component weight:         1    A component weight:         1    Deblock artifact setting:   0    Partition cutoff:           3 partitions    Partition index cutoff:     26 partition ids    PSNR cutoff:                35.6826 dB    2.2+ partition cutoff:      1.2    3.2+ partition cutoff:      1.25    2 plane correlation cutoff: 0.65    Block mode centile cutoff:  76%    Max refinement cutoff:      3 iterations    Compressor thread count:    24Performance metrics===================    Total time:                  0.3325 s    Coding time:                 0.2707 s    Coding rate:                10.2140 MT/s
+2023-10-25 12:05:38-debug: [compress astc]Child process exit width code 0
+2023-10-25 12:05:38-log: Compress astc success {link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.astc)}
+2023-10-25 12:05:38-debug: start compress astcE:\Cocos\Project\ROYALTEENPATTI\library\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.pngE:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.astcastc_8x8
+2023-10-25 12:05:38-debug: astc compressed command: astcenc.exe -cl E:\Cocos\Project\ROYALTEENPATTI\library\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.png E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.astc 8x8 -medium
+2023-10-25 12:05:38-log: [compress astc]Source image============    Source:                     E:\Cocos\Project\ROYALTEENPATTI\library\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.png    Color profile:              LDR    Dimensions:                 2D, 1574x184    Components:                 4Compressor settings===================    Color profile:              LDR linear    Block size:                 8x8    Bitrate:                    2.00 bpp    Radius mean/stdev:          0 texels    RGB power:                  1    RGB base weight:            1    RGB mean weight:            0    RGB stdev weight:           0    RGB mean/stdev mixing:      0    Alpha power:                1    Alpha base weight:          1    Alpha mean weight:          0    Alpha stdev weight:         0    RGB alpha scale weight:     0    R component weight:         1    G component weight:         1    B component weight:         1    A component weight:         1    Deblock artifact setting:   0    Partition cutoff:           3 partitions    Partition index cutoff:     26 partition ids    PSNR cutoff:                35.6826 dB    2.2+ partition cutoff:      1.2    3.2+ partition cutoff:      1.25    2 plane correlation cutoff: 0.65    Block mode centile cutoff:  76%    Max refinement cutoff:      3 iterations    Compressor thread count:    24Performance metrics===================    Total time:                  0.0640 s    Coding time:                 0.0553 s    Coding rate:                 5.2340 MT/s
+2023-10-25 12:05:38-debug: [compress astc]Child process exit width code 0
+2023-10-25 12:05:38-log: Compress astc success {link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.astc)}
+2023-10-25 12:05:38-debug: start compress astcE:\Cocos\Project\ROYALTEENPATTI\library\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.pngE:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.astcastc_8x8
+2023-10-25 12:05:38-debug: astc compressed command: astcenc.exe -cl E:\Cocos\Project\ROYALTEENPATTI\library\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.png E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.astc 8x8 -medium
+2023-10-25 12:05:38-log: [compress astc]Source image============    Source:                     E:\Cocos\Project\ROYALTEENPATTI\library\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.png    Color profile:              LDR    Dimensions:                 2D, 2560x1080    Components:                 4Compressor settings===================    Color profile:              LDR linear    Block size:                 8x8    Bitrate:                    2.00 bpp    Radius mean/stdev:          0 texels    RGB power:                  1    RGB base weight:            1    RGB mean weight:            0    RGB stdev weight:           0    RGB mean/stdev mixing:      0    Alpha power:                1    Alpha base weight:          1    Alpha mean weight:          0    Alpha stdev weight:         0    RGB alpha scale weight:     0    R component weight:         1    G component weight:         1    B component weight:         1    A component weight:         1    Deblock artifact setting:   0    Partition cutoff:           3 partitions    Partition index cutoff:     26 partition ids    PSNR cutoff:                35.6826 dB    2.2+ partition cutoff:      1.2    3.2+ partition cutoff:      1.25    2 plane correlation cutoff: 0.65    Block mode centile cutoff:  76%    Max refinement cutoff:      3 iterations    Compressor thread count:    24Performance metrics===================    Total time:                  0.2256 s    Coding time:                 0.1592 s    Coding rate:                17.3626 MT/s
+2023-10-25 12:05:38-debug: [compress astc]Child process exit width code 0
+2023-10-25 12:05:38-log: Compress astc success {link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.astc)}
+2023-10-25 12:05:40-log: [compress etc][malitc-4]Compression time: 2444 ms
+2023-10-25 12:05:41-log: [compress etc][malitc-5]RMSE: 7.67828[malitc-6]PSNR: 35.1967[malitc-7]Perceptually weighted RMSE: 6.91605[malitc-8]Perceptual PSNR: 36.1049
+2023-10-25 12:05:41-debug: [compress etc]Child process exit width code 0
+2023-10-25 12:05:41-log: compress etc success {link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.pkm)}
+2023-10-25 12:05:41-debug: start compress etcE:\Cocos\Project\ROYALTEENPATTI\library\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.pngE:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.pkmetc1_rgb
+2023-10-25 12:05:41-debug: etc compress command :  .\etcpack.exe E:\Cocos\Project\ROYALTEENPATTI\library\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.png E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\58 -c etc1 -s fast
+2023-10-25 12:05:41-log: [compress etc][malitc-1]Compressing. Output file: E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.pkm
+2023-10-25 12:05:41-log: [compress etc][malitc-4]Compression time: 70 ms
+2023-10-25 12:05:41-log: [compress etc][malitc-5]RMSE: 10.0165[malitc-6]PSNR: 32.8877[malitc-7]Perceptually weighted RMSE: 10.1956[malitc-8]Perceptual PSNR: 32.7337
+2023-10-25 12:05:41-debug: [compress etc]Child process exit width code 0
+2023-10-25 12:05:41-log: compress etc success {link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.pkm)}
+2023-10-25 12:05:41-debug: start compress etcE:\Cocos\Project\ROYALTEENPATTI\library\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.pngE:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.pkmetc1_rgb
+2023-10-25 12:05:41-debug: etc compress command :  .\etcpack.exe E:\Cocos\Project\ROYALTEENPATTI\library\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.png E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\f2 -c etc1 -s fast
+2023-10-25 12:05:41-log: [compress etc][malitc-1]Compressing. Output file: E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.pkm
+2023-10-25 12:05:43-log: [compress etc][malitc-4]Compression time: 2575 ms
+2023-10-25 12:05:44-log: [compress etc][malitc-5]RMSE: 5.78777[malitc-6]PSNR: 37.6518[malitc-7]Perceptually weighted RMSE: 5.15655[malitc-8]Perceptual PSNR: 38.6548
+2023-10-25 12:05:44-debug: [compress etc]Child process exit width code 0
+2023-10-25 12:05:44-log: compress etc success {link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.pkm)}
+2023-10-25 12:05:44-debug: builder:compress-texture (6220ms)
+2023-10-25 12:05:44-debug: Num of sorted image asset: 3
+2023-10-25 12:05:44-debug: // ---- build task 图片拷贝压缩任务 ---- (6241ms)
+2023-10-25 12:05:44-debug: run build task 图片拷贝压缩任务 success in 6241 ms √30%
+2023-10-25 12:05:44-debug: 将资源拷贝到指定位置 start30%
+2023-10-25 12:05:44-debug: // ---- build task 将资源拷贝到指定位置 ----
+2023-10-25 12:05:44-debug: Process: heapTotal 230.97MB heapUsed 207.05MB rss 581.88MB
+2023-10-25 12:05:44-debug: Asset Bundle(internal) handle assets: 20
+2023-10-25 12:05:44-debug: Asset Bundle(resources) handle assets: 6
+2023-10-25 12:05:44-debug: Asset Bundle(main) handle assets: 45
+2023-10-25 12:05:44-debug: run build task 将资源拷贝到指定位置 success in 15 ms √37%
+2023-10-25 12:05:44-debug: 将分组后的 json 与散文件构建到指定位置 start37%
+2023-10-25 12:05:44-debug: // ---- build task 将分组后的 json 与散文件构建到指定位置 ----
+2023-10-25 12:05:44-debug: // ---- build task 将资源拷贝到指定位置 ---- (15ms)
+2023-10-25 12:05:44-debug: Process: heapTotal 230.97MB heapUsed 208.97MB rss 583.47MB
+2023-10-25 12:05:44-debug: Json group(0846c28f0) compile success，json number: 6
+2023-10-25 12:05:44-debug: Json group(0c2dd4a30) compile success，json number: 6
+2023-10-25 12:05:44-debug: Json group(0a453de53) compile success，json number: 6
+2023-10-25 12:05:44-debug: Json group(06353a628) compile success，json number: 6
+2023-10-25 12:05:44-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading/AlatLoad.pac)})
+2023-10-25 12:05:44-debug: Json group(0c72fc00a) compile success，json number: 6
+2023-10-25 12:05:44-debug: Json group(0d33a9949) compile success，json number: 6
+2023-10-25 12:05:44-debug: Json group(0d212da1e) compile success，json number: 6
+2023-10-25 12:05:44-debug: // ---- build task 将分组后的 json 与散文件构建到指定位置 ---- (81ms)
+2023-10-25 12:05:44-debug: run build task 将分组后的 json 与散文件构建到指定位置 success in 81 ms √43%
+2023-10-25 12:05:44-debug: 打包脚本 start43%
+2023-10-25 12:05:44-debug: Process: heapTotal 230.97MB heapUsed 209.83MB rss 582.59MB
+2023-10-25 12:05:44-debug: // ---- build task 打包脚本 ----
+2023-10-25 12:05:44-debug: Caught exception during build core-js: WebpackOptionsValidationError: Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema. - configuration.entry should be an non-empty array.   -> A non-empty array of non-empty stringsThis may indicates the core-js polyfill is not necessary. See https://github.com/zloirock/core-js/issues/822
+2023-10-25 12:05:47-debug: 构建项目脚本 start...43%
+2023-10-25 12:05:47-debug: Process: heapTotal 278.57MB heapUsed 258.03MB rss 712.71MB
+2023-10-25 12:05:47-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+2023-10-25 12:05:48-log: [build-script]enter sub process 25200, D:\AppData\cocos\editors\Creator\Creator\3.7.4\CocosCreator.exe,D:\AppData\cocos\editors\Creator\Creator\3.7.4\resources\app.asar\builtin\builder\static\sub-process-index
+2023-10-25 12:05:50-warn: [build-script][[Build.Script.Rollup]] Circular dependency: file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/manages/GameMgr.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts[warning][[Build.Script.Rollup]] Circular dependency: file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/manages/GameMgr.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/manages/AudioMgr.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts
+2023-10-25 12:05:53-debug: excute-script over with build-script 5769ms
+2023-10-25 12:05:53-debug: Copy externalScripts success!
+2023-10-25 12:05:53-debug: 构建项目脚本 in (5803 ms) √43%
+2023-10-25 12:05:53-debug: Process: heapTotal 241.96MB heapUsed 210.63MB rss 656.04MB
+2023-10-25 12:05:53-debug: 构建引擎脚本 start...43%
+2023-10-25 12:05:53-debug: {"debug":false,"sourceMaps":false,"includeModules":["2d","animation","audio","base","dragon-bones","gfx-webgl","gfx-webgl2","intersection-2d","particle-2d","physics-2d-box2d","profiler","spine","tiled-map","tween","ui","video","webview"],"engineVersion":"3.7.4","platform":"NATIVE","md5Map":[],"engineName":"src/cocos-js","useCache":true,"targets":"chrome 80","flags":{"DEBUG":false},"entry":"D:\\AppData\\cocos\\editors\\Creator\\Creator\\3.7.4\\resources\\resources\\3d\\engine"}
+2023-10-25 12:05:53-debug: Use cache engine: {link(C:\Users\admin\AppData\Local\Temp\CocosCreator\3.7.4\builder\engine\2e704eaf027ec619357f91bf28e3da61)}
+2023-10-25 12:05:53-debug: 构建引擎脚本 in (132 ms) √43%
+2023-10-25 12:05:53-debug: // ---- build task 打包脚本 ---- (9120ms)
+2023-10-25 12:05:53-debug: run build task 打包脚本 success in 9120 ms √50%
+2023-10-25 12:05:53-debug: // ---- build task 压缩 Zip Bundle ----
+2023-10-25 12:05:53-debug: Process: heapTotal 244.96MB heapUsed 212.53MB rss 658.22MB
+2023-10-25 12:05:53-debug: 压缩 Zip Bundle start50%
+2023-10-25 12:05:53-debug: // ---- build task 压缩 Zip Bundle ---- (1ms)
+2023-10-25 12:05:53-debug: run build task 压缩 Zip Bundle success in 1 ms √57%
+2023-10-25 12:05:53-debug: native:(onAfterBuildAssets) start...57%
+2023-10-25 12:05:53-debug: Process: heapTotal 244.96MB heapUsed 212.62MB rss 658.34MB
+2023-10-25 12:05:53-debug: // ---- build task native：onAfterBuildAssets ----
+2023-10-25 12:05:53-debug: // ---- build task native：onAfterBuildAssets ---- (1ms)
+2023-10-25 12:05:53-debug: native:(onAfterBuildAssets) in 1 ms59%
+2023-10-25 12:05:53-debug: 给所有的资源加上 MD5 后缀 start59%
+2023-10-25 12:05:53-debug: // ---- build task 给所有的资源加上 MD5 后缀 ----
+2023-10-25 12:05:53-debug: Process: heapTotal 244.96MB heapUsed 211.39MB rss 658.59MB
+2023-10-25 12:05:53-debug: run build task 给所有的资源加上 MD5 后缀 success in 0 ms √69%
+2023-10-25 12:05:53-debug: 初始化 settings.json 与 config.json start69%
+2023-10-25 12:05:53-debug: // ---- build task 初始化 settings.json 与 config.json ----
+2023-10-25 12:05:53-debug: Process: heapTotal 244.96MB heapUsed 211.46MB rss 658.59MB
+2023-10-25 12:05:53-debug: // ---- build task 初始化 settings.json 与 config.json ---- (1ms)
+2023-10-25 12:05:53-debug: run build task 初始化 settings.json 与 config.json success in 1 ms √69%
+2023-10-25 12:05:53-debug: builder.tasks.settings.macro 字段未在编辑器多语言内定义
+2023-10-25 12:05:53-debug: builder.tasks.settings.macro start69%
+2023-10-25 12:05:53-debug: Process: heapTotal 244.96MB heapUsed 211.55MB rss 658.74MB
+2023-10-25 12:05:53-debug: // ---- build task builder.tasks.settings.macro ----
+2023-10-25 12:05:53-debug: // ---- build task builder.tasks.settings.macro ---- (6ms)
+2023-10-25 12:05:53-debug: 整理部分构建选项内数据到 settings.json start70%
+2023-10-25 12:05:53-debug: run build task builder.tasks.settings.macro success in 6 ms √70%
+2023-10-25 12:05:53-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-10-25 12:05:53-debug: Process: heapTotal 244.96MB heapUsed 211.64MB rss 658.75MB
+2023-10-25 12:05:53-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (18ms)
+2023-10-25 12:05:53-debug: run build task 整理部分构建选项内数据到 settings.json success in 18 ms √71%
+2023-10-25 12:05:53-debug: // ---- build task custom joint texture layouts ----
+2023-10-25 12:05:53-debug: custom joint texture layouts start71%
+2023-10-25 12:05:53-debug: Process: heapTotal 245.43MB heapUsed 212.19MB rss 660.05MB
+2023-10-25 12:05:53-debug: // ---- build task custom joint texture layouts ---- (12ms)
+2023-10-25 12:05:53-debug: run build task custom joint texture layouts success in 12 ms √71%
+2023-10-25 12:05:53-debug: custom joint physics start71%
+2023-10-25 12:05:53-debug: // ---- build task custom joint physics ----
+2023-10-25 12:05:53-debug: Process: heapTotal 245.43MB heapUsed 212.27MB rss 660.05MB
+2023-10-25 12:05:53-debug: run build task custom joint physics success in 0 ms √72%
+2023-10-25 12:05:53-debug: 填充脚本数据到 settings.json start72%
+2023-10-25 12:05:53-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-10-25 12:05:53-debug: Process: heapTotal 245.43MB heapUsed 212.34MB rss 660.05MB
+2023-10-25 12:05:53-debug: run build task 填充脚本数据到 settings.json success in 0 ms √72%
+2023-10-25 12:05:53-debug: // ---- build task 填充场景数据到 settings.json ----
+2023-10-25 12:05:53-debug: 填充场景数据到 settings.json start72%
+2023-10-25 12:05:53-debug: Process: heapTotal 245.43MB heapUsed 212.41MB rss 660.13MB
+2023-10-25 12:05:53-debug: run build task 填充场景数据到 settings.json success in 0 ms √73%
+2023-10-25 12:05:53-debug: 整理资源分组，生成 packedAssets 以及 rawAssets 数据 start73%
+2023-10-25 12:05:53-debug: // ---- build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 ----
+2023-10-25 12:05:53-debug: Process: heapTotal 245.43MB heapUsed 212.48MB rss 660.20MB
+2023-10-25 12:05:53-debug: run build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 success in 0 ms √73%
+2023-10-25 12:05:53-debug: 从 suffixMap 生成 md5AssetsMap 到 settings.json start73%
+2023-10-25 12:05:53-debug: // ---- build task 从 suffixMap 生成 md5AssetsMap 到 settings.json ----
+2023-10-25 12:05:53-debug: options.md5Cache is false.
+2023-10-25 12:05:53-debug: Process: heapTotal 245.43MB heapUsed 212.58MB rss 660.29MB
+2023-10-25 12:05:53-debug: // ---- build task 从 suffixMap 生成 md5AssetsMap 到 settings.json ---- (1ms)
+2023-10-25 12:05:53-debug: run build task 从 suffixMap 生成 md5AssetsMap 到 settings.json success in 1 ms √74%
+2023-10-25 12:05:53-debug: cocos-service:(onBeforeCompressSettings) start...74%
+2023-10-25 12:05:53-debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+2023-10-25 12:05:53-debug: Process: heapTotal 245.43MB heapUsed 212.69MB rss 660.41MB
+2023-10-25 12:05:53-debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (188ms)
+2023-10-25 12:05:53-debug: cocos-service:(onBeforeCompressSettings) in 188 ms76%
+2023-10-25 12:05:53-debug: 生成 import-map.json start76%
+2023-10-25 12:05:53-debug: // ---- build task 生成 import-map.json ----
+2023-10-25 12:05:53-debug: Process: heapTotal 223.18MB heapUsed 209.64MB rss 653.18MB
+2023-10-25 12:05:53-debug: // ---- build task 生成 import-map.json ---- (2ms)
+2023-10-25 12:05:53-debug: run build task 生成 import-map.json success in 2 ms √77%
+2023-10-25 12:05:53-debug: 压缩 config.json 与 settings.json start77%
+2023-10-25 12:05:53-debug: // ---- build task 压缩 config.json 与 settings.json ----
+2023-10-25 12:05:53-debug: Process: heapTotal 223.18MB heapUsed 209.72MB rss 653.19MB
+2023-10-25 12:05:53-debug: // ---- build task 压缩 config.json 与 settings.json ---- (1ms)
+2023-10-25 12:05:53-debug: run build task 压缩 config.json 与 settings.json success in 1 ms √78%
+2023-10-25 12:05:53-debug: 保存 config.json start78%
+2023-10-25 12:05:53-debug: Process: heapTotal 223.18MB heapUsed 209.86MB rss 653.25MB
+2023-10-25 12:05:53-debug: // ---- build task 保存 config.json ----
+2023-10-25 12:05:53-debug: // ---- build task 保存 config.json ---- (3ms)
+2023-10-25 12:05:53-debug: run build task 保存 config.json success in 3 ms √79%
+2023-10-25 12:05:53-debug: 保存 settings.json start79%
+2023-10-25 12:05:53-debug: // ---- build task 保存 settings.json ----
+2023-10-25 12:05:53-debug: Process: heapTotal 223.18MB heapUsed 209.96MB rss 653.18MB
+2023-10-25 12:05:53-debug: // ---- build task 保存 settings.json ---- (3ms)
+2023-10-25 12:05:53-debug: run build task 保存 settings.json success in 3 ms √79%
+2023-10-25 12:05:53-debug: 保存 settings.json start79%
+2023-10-25 12:05:53-debug: // ---- build task 保存 settings.json ----
+2023-10-25 12:05:53-debug: Process: heapTotal 224.12MB heapUsed 211.44MB rss 654.59MB
+2023-10-25 12:05:53-debug: run build task 保存 settings.json success in 0 ms √80%
+2023-10-25 12:05:53-debug: 整理静态模板文件 start80%
+2023-10-25 12:05:53-debug: Process: heapTotal 226.64MB heapUsed 210.14MB rss 654.27MB
+2023-10-25 12:05:53-debug: // ---- build task 整理静态模板文件 ----
+2023-10-25 12:05:53-debug: // ---- build task 整理静态模板文件 ---- (44ms)
+2023-10-25 12:05:53-debug: run build task 整理静态模板文件 success in 44 ms √81%
+2023-10-25 12:05:53-debug: native:(onAfterCompressSettings) start...81%
+2023-10-25 12:05:53-debug: // ---- build task native：onAfterCompressSettings ----
+2023-10-25 12:05:53-debug: Process: heapTotal 227.06MB heapUsed 211.87MB rss 656.95MB
+2023-10-25 12:05:53-debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 ON)","CC_USE_GLES2":"set(CC_USE_GLES2 ON)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY OFF)","APP_NAME":"set(APP_NAME ROYALTEENPATTI)","COCOS_X_PATH":"set(COCOS_X_PATH \"D:/AppData/cocos/editors/Creator/Creator/3.7.4/resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_ANTIALIAS_FXAA":"set(ENABLE_ANTIALIAS_FXAA OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY OFF)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER OFF)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER OFF)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SOCKET":"set(USE_SOCKET OFF)","USE_WEBSOCKET_SERVER":"set(USE_WEBSOCKET_SERVER OFF)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_VULKAN":"set(CC_USE_VULKAN OFF)"}
+2023-10-25 12:05:53-log: While replace template content, file E:\Cocos\Project\ROYALTEENPATTI\build\android\proj\main.cpp
+2023-10-25 12:05:53-log: While replace template content, file E:\Cocos\Project\ROYALTEENPATTI\build\android\proj\main.m
+2023-10-25 12:05:53-log: While replace template content, file E:\Cocos\Project\ROYALTEENPATTI\native\engine\android/entry/src/main/config.json
+2023-10-25 12:05:53-debug: Start encrypte scripts...
+2023-10-25 12:05:53-debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 ON)","CC_USE_GLES2":"set(CC_USE_GLES2 ON)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"set(XXTEAKEY \"dd9k+YJ/tEo4C2Us\")","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY OFF)","APP_NAME":"set(APP_NAME ROYALTEENPATTI)","COCOS_X_PATH":"set(COCOS_X_PATH \"D:/AppData/cocos/editors/Creator/Creator/3.7.4/resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_ANTIALIAS_FXAA":"set(ENABLE_ANTIALIAS_FXAA OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY OFF)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER OFF)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER OFF)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SOCKET":"set(USE_SOCKET OFF)","USE_WEBSOCKET_SERVER":"set(USE_WEBSOCKET_SERVER OFF)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_VULKAN":"set(CC_USE_VULKAN OFF)"}
+2023-10-25 12:05:53-debug: Encrypte scriptes success
+2023-10-25 12:05:53-log: update settings.properties
+2023-10-25 12:05:53-log: AndroidAPI level 34
+2023-10-25 12:05:53-log: update gradle.properties
+2023-10-25 12:05:53-log: android instant not configured
+2023-10-25 12:05:53-debug: // ---- build task native：onAfterCompressSettings ---- (81ms)
+2023-10-25 12:05:53-debug: native:(onAfterCompressSettings) in 81 ms82%
+2023-10-25 12:05:53-debug: cocos-service:(onAfterCompressSettings) start...82%
+2023-10-25 12:05:53-debug: // ---- build task cocos-service：onAfterCompressSettings ----
+2023-10-25 12:05:53-debug: Process: heapTotal 227.06MB heapUsed 213.16MB rss 658.37MB
+2023-10-25 12:05:54-debug: // ---- build task cocos-service：onAfterCompressSettings ---- (288ms)
+2023-10-25 12:05:54-debug: cocos-service:(onAfterCompressSettings) in 288 ms83%
+2023-10-25 12:05:54-debug: native:(onAfterBuild) start...83%
+2023-10-25 12:05:54-debug: // ---- build task native：onAfterBuild ----
+2023-10-25 12:05:54-debug: Process: heapTotal 227.06MB heapUsed 211.79MB rss 658.33MB
+2023-10-25 12:05:54-debug: // ---- build task native：onAfterBuild ---- (9ms)
+2023-10-25 12:05:54-debug: native:(onAfterBuild) in 9 ms84%
+2023-10-25 12:05:54-debug: cocos-service:(onAfterBuild) start...84%
+2023-10-25 12:05:54-debug: Process: heapTotal 227.06MB heapUsed 211.89MB rss 657.98MB
+2023-10-25 12:05:54-debug: // ---- build task cocos-service：onAfterBuild ----
+2023-10-25 12:05:54-debug: // ---- build task cocos-service：onAfterBuild ---- (249ms)
+2023-10-25 12:05:54-debug: cocos-service:(onAfterBuild) in 249 ms86%
+2023-10-25 12:05:54-log: Asset DB is resume!
+2023-10-25 12:05:54-debug: builder:build-project-total (18141ms)
+2023-10-25 12:05:54-debug: build success in 18141 ms!
+2023-10-25 12:05:54-debug: ================================ build Task (android) Finished in (18148)ms ================================
+2023-10-25 12:05:54-debug: Stop record console. {file(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\log\android2023-10-25 12-05.log)}
+2023-10-25 12:54:46-debug: refresh db internal success
+2023-10-25 12:54:46-debug: asset-db:worker-effect-data-processing (229ms)
+2023-10-25 12:54:46-debug: refresh db assets success
+2023-10-25 12:54:46-debug: asset-db:refresh-all-database (275ms)
+2023-10-25 14:08:48-debug: refresh db internal success
+2023-10-25 14:08:48-debug: asset-db:worker-effect-data-processing (194ms)
+2023-10-25 14:08:48-debug: %cImport%c: E:\Cocos\Project\ROYALTEENPATTI\assets\scripts\module\HallScene.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-25 14:08:48-debug: refresh db assets success
+2023-10-25 14:08:48-debug: asset-db:refresh-all-database (230ms)
+2023-10-25 14:08:49-debug: Start record console... {file(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\log\android2023-10-25 12-05.log)}
+2023-10-25 14:08:49-debug: =================================== build Task (android) Start ================================
+2023-10-25 14:08:49-debug: Build with Cocos Creator 3.7.4
+2023-10-25 14:08:49-debug: Start build task, options:{"name":"ROYALTEENPATTI","platform":"android","buildPath":"project://build","debug":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"polyfills":{"asyncFunctions":false},"experimentalEraseModules":false,"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"packAutoAtlas":true,"startScene":"acfff64a-ba74-485d-a9c9-b2a9ac7a7c7c","outputName":"android","scenes":[{"url":"db://assets/scenes/Hall.scene","uuid":"17583d7f-c175-44b7-b4aa-e7e2cd0feac3","inBundle":false},{"url":"db://assets/scenes/Login.scene","uuid":"acfff64a-ba74-485d-a9c9-b2a9ac7a7c7c","inBundle":false}],"web-desktop":[],"packages":{"android":{"packageName":"cfzzejdpia.istmlomqz.msjmejkfb","orientation":{"portrait":false,"upsideDown":false,"landscapeRight":true,"landscapeLeft":true},"apiLevel":34,"appABIs":["arm64-v8a","armeabi-v7a"],"useDebugKeystore":true,"keystorePath":"","keystorePassword":"","keystoreAlias":"","keystoreAliasPassword":"","appBundle":false,"androidInstant":false,"remoteUrl":"","sdkPath":"","ndkPath":"","renderBackEnd":{"vulkan":false,"gles3":true,"gles2":true},"swappy":false,"__version__":"1.0.1"},"cocos-service":{"configID":"2c77c7","services":[]},"native":{"encrypted":true,"xxteaKey":"dd9k+YJ/tEo4C2Us","compressZip":false,"JobSystem":"none","__version__":"1.0.2"}},"__version__":"1.3.5","android":[]}
+2023-10-25 14:08:49-debug: cocos-service:(onBeforeBuild) start...0%
+2023-10-25 14:08:49-debug: // ---- build task cocos-service：onBeforeBuild ----
+2023-10-25 14:08:49-debug: Process: heapTotal 239.51MB heapUsed 216.51MB rss 346.04MB
+2023-10-25 14:08:50-debug: cocos-service:(onBeforeBuild) in 256 ms1%
+2023-10-25 14:08:50-debug: // ---- build task cocos-service：onBeforeBuild ---- (256ms)
+2023-10-25 14:08:50-debug: scene:(onBeforeBuild) start...1%
+2023-10-25 14:08:50-debug: // ---- build task scene：onBeforeBuild ----
+2023-10-25 14:08:50-debug: Process: heapTotal 239.51MB heapUsed 216.79MB rss 344.91MB
+2023-10-25 14:08:50-debug: // ---- build task scene：onBeforeBuild ---- (13ms)
+2023-10-25 14:08:50-debug: scene:(onBeforeBuild) in 13 ms2%
+2023-10-25 14:08:50-debug: Start lock asset db...2%
+2023-10-25 14:08:50-log: Asset DB is paused with build!
+2023-10-25 14:08:50-debug: Query all assets info in project
+2023-10-25 14:08:50-debug: BuildAssetLibrary query-assets with assets 538
+2023-10-25 14:08:50-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-10-25 14:08:50-debug:   Number of all scenes: 2
+2023-10-25 14:08:50-debug:   Number of all scripts: 15
+2023-10-25 14:08:50-debug:   Number of other assets: 378
+2023-10-25 14:08:50-debug: // ---- build task native：onAfterInit ----
+2023-10-25 14:08:50-debug: native:(onAfterInit) start...2%
+2023-10-25 14:08:50-debug: Process: heapTotal 239.51MB heapUsed 218.97MB rss 344.99MB
+2023-10-25 14:08:50-debug: Native engine root:D:\AppData\cocos\editors\Creator\Creator\3.7.4\resources\resources\3d\engine\native
+2023-10-25 14:08:50-debug: // ---- build task native：onAfterInit ---- (39ms)
+2023-10-25 14:08:50-debug: android:(onAfterInit) start...3%
+2023-10-25 14:08:50-debug: native:(onAfterInit) in 39 ms3%
+2023-10-25 14:08:50-debug: // ---- build task android：onAfterInit ----
+2023-10-25 14:08:50-debug: Process: heapTotal 239.51MB heapUsed 213.29MB rss 345.39MB
+2023-10-25 14:08:50-debug: // ---- build task android：onAfterInit ---- (11ms)
+2023-10-25 14:08:50-debug: android:(onAfterInit) in 11 ms4%
+2023-10-25 14:08:50-debug: cocos-service:(onAfterInit) start...4%
+2023-10-25 14:08:50-debug: // ---- build task cocos-service：onAfterInit ----
+2023-10-25 14:08:50-debug: Process: heapTotal 239.51MB heapUsed 213.40MB rss 345.41MB
+2023-10-25 14:08:50-debug: // ---- build task cocos-service：onAfterInit ---- (176ms)
+2023-10-25 14:08:50-debug: cocos-service:(onAfterInit) in 176 ms4%
+2023-10-25 14:08:50-debug: 加载刷新项目脚本 start4%
+2023-10-25 14:08:50-debug: // ---- build task 加载刷新项目脚本 ----
+2023-10-25 14:08:50-debug: reload all scripts.
+2023-10-25 14:08:50-debug: Process: heapTotal 239.51MB heapUsed 213.49MB rss 345.41MB
+2023-10-25 14:08:50-debug: Incremental keys: 
+2023-10-25 14:08:50-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-10-25 14:08:50-debug: Unregister DebugViewRuntimeControl
+2023-10-25 14:08:50-debug: Unregister HallScene
+2023-10-25 14:08:50-debug: Unregister LoginScene
+2023-10-25 14:08:50-debug: Unregister NativeJSBridgeIns
+2023-10-25 14:08:50-debug: Unregister RedUtil
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/c1/c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/dc/dc470d400dc17fe44c04ed0c44faa0d1668fe9c3.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/0f/0ff6396fa839be48d7949beacf6bda2a657d69d2.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/22/22f10d931ca99dae7b16eb47e04bc6545b986c49.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/9c/9ca722dc76d37cad5bc9823813cb73575723409e.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/06/06e91d62a192d81b90d0d4560fee8bed90dba712.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/24/24b2f6d9cd82d4ad492ab0c2fa029a1c07aa850e.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/16/16a99cd7bb7de009a2bf73102c7be015ed783d63.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/48/48ff8936cc036d12fc397f987a78e3b40f7d04b9.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/7e/7ef3ab5d2ead7c032ca0c01af984ee9b1236d386.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/b7/b7e0cc3bc063d80bda6da1505830495d92431ecf.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/fa/fa463bd823cd2fbd7a721267db6ed1eeb2ab6b1a.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/ce/cee94f8ed1a4ca86024139d425ca8771914d13f4.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/ff/ff29a85c19a7651f0735c349a04d77e13b9ac522.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/57/57583dbc96f792bb6297552be81928cfbe57e450.js'
+2023-10-25 14:08:50-debug: Invalidating 'pack:///chunks/f6/f69071f2062809c6c105b659e2714dff788894dd.js'
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-10-25 14:08:50-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\c1\c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\c1\c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js is not in module cache!
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/c1/c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/0f/0ff6396fa839be48d7949beacf6bda2a657d69d2.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/dc/dc470d400dc17fe44c04ed0c44faa0d1668fe9c3.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/06/06e91d62a192d81b90d0d4560fee8bed90dba712.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/7e/7ef3ab5d2ead7c032ca0c01af984ee9b1236d386.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/b7/b7e0cc3bc063d80bda6da1505830495d92431ecf.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/16/16a99cd7bb7de009a2bf73102c7be015ed783d63.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/48/48ff8936cc036d12fc397f987a78e3b40f7d04b9.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/24/24b2f6d9cd82d4ad492ab0c2fa029a1c07aa850e.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/9c/9ca722dc76d37cad5bc9823813cb73575723409e.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/22/22f10d931ca99dae7b16eb47e04bc6545b986c49.js" loaded.
+2023-10-25 14:08:50-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\a8\a8c8cdcf6b0cdabd1e882952f95e21b5a03285ec.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\a8\a8c8cdcf6b0cdabd1e882952f95e21b5a03285ec.js is not in module cache!
+2023-10-25 14:08:50-debug: [[Executor]] Register HallScene
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/a8/a8c8cdcf6b0cdabd1e882952f95e21b5a03285ec.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Register LoginScene
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/ce/cee94f8ed1a4ca86024139d425ca8771914d13f4.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Register NativeJSBridgeIns
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/ff/ff29a85c19a7651f0735c349a04d77e13b9ac522.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Register RedUtil
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/f6/f69071f2062809c6c105b659e2714dff788894dd.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/c1/c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js" loaded.
+2023-10-25 14:08:50-debug: [[Executor]] Module "pack:///chunks/57/57583dbc96f792bb6297552be81928cfbe57e450.js" loaded.
+2023-10-25 14:08:50-debug: // ---- build task 加载刷新项目脚本 ---- (26ms)
+2023-10-25 14:08:50-debug: run build task 加载刷新项目脚本 success in 26 ms √6%
+2023-10-25 14:08:50-debug: 查询 Asset Bundle start6%
+2023-10-25 14:08:50-debug: // ---- build task 查询 Asset Bundle ----
+2023-10-25 14:08:50-debug: Process: heapTotal 239.66MB heapUsed 215.09MB rss 345.93MB
+2023-10-25 14:08:50-debug: // ---- build task 查询 Asset Bundle ---- (12ms)
+2023-10-25 14:08:50-debug: run build task 查询 Asset Bundle success in 12 ms √7%
+2023-10-25 14:08:50-debug: 查询使用的资源以及资源包配置 start7%
+2023-10-25 14:08:50-debug: Process: heapTotal 239.66MB heapUsed 216.99MB rss 345.90MB
+2023-10-25 14:08:50-debug: // ---- build task 查询使用的资源以及资源包配置 ----
+2023-10-25 14:08:50-debug: init bundle assets
+2023-10-25 14:08:50-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2023-10-25 14:08:50-debug: Number of scenes: 2
+2023-10-25 14:08:50-debug: Start sort share asset in bundle
+2023-10-25 14:08:50-debug: Start sort share asset in bundle internal with assets 20}
+2023-10-25 14:08:50-debug: Start sort share asset in bundle resources with assets 3}
+2023-10-25 14:08:50-debug: Start sort share asset in bundle main with assets 4}
+2023-10-25 14:08:50-debug: Number of assets: 97
+2023-10-25 14:08:50-debug: Number of asset bundle: 3
+2023-10-25 14:08:50-debug: // ---- build task 查询使用的资源以及资源包配置 ---- (19ms)
+2023-10-25 14:08:50-debug: run build task 查询使用的资源以及资源包配置 success in 19 ms √8%
+2023-10-25 14:08:50-debug: 整理脚本分组与脚本数据 start8%
+2023-10-25 14:08:50-debug: // ---- build task 整理脚本分组与脚本数据 ----
+2023-10-25 14:08:50-debug: Process: heapTotal 239.66MB heapUsed 218.24MB rss 346.06MB
+2023-10-25 14:08:50-debug: sort script group...
+2023-10-25 14:08:50-debug: run build task 整理脚本分组与脚本数据 success in 0 ms √9%
+2023-10-25 14:08:50-debug: 整理纹理压缩任务 start9%
+2023-10-25 14:08:50-debug: // ---- build task 整理纹理压缩任务 ----
+2023-10-25 14:08:50-debug: Process: heapTotal 239.66MB heapUsed 218.33MB rss 346.06MB
+2023-10-25 14:08:50-debug: Number of image-compress task: 4
+2023-10-25 14:08:50-debug: // ---- build task 整理纹理压缩任务 ---- (17ms)
+2023-10-25 14:08:50-debug: run build task 整理纹理压缩任务 success in 17 ms √11%
+2023-10-25 14:08:50-debug: 初步划分 JSON 合并分组 start11%
+2023-10-25 14:08:50-debug: // ---- build task 初步划分 JSON 合并分组 ----
+2023-10-25 14:08:50-debug: Process: heapTotal 239.66MB heapUsed 218.61MB rss 346.06MB
+2023-10-25 14:08:50-debug: Number of json group with bundle(internal): 1
+2023-10-25 14:08:50-debug: Start sort the json group of bundle(resources)...
+2023-10-25 14:08:50-debug: Number of json group with bundle(resources) 1
+2023-10-25 14:08:50-debug: Start sort the json group of bundle(main)...
+2023-10-25 14:08:50-debug: Number of json group: 4
+2023-10-25 14:08:50-debug: Number of json group with bundle(main) 3
+2023-10-25 14:08:50-debug: // ---- build task 初步划分 JSON 合并分组 ---- (1ms)
+2023-10-25 14:08:50-debug: run build task 初步划分 JSON 合并分组 success in 1 ms √12%
+2023-10-25 14:08:50-debug: 整理合并压缩 Texture2D 的 JSON 数据 start12%
+2023-10-25 14:08:50-debug: // ---- build task 整理合并压缩 Texture2D 的 JSON 数据 ----
+2023-10-25 14:08:50-debug: Process: heapTotal 239.66MB heapUsed 218.78MB rss 346.07MB
+2023-10-25 14:08:50-debug: // ---- build task 整理合并压缩 Texture2D 的 JSON 数据 ---- (1ms)
+2023-10-25 14:08:50-debug: run build task 整理合并压缩 Texture2D 的 JSON 数据 success in 1 ms √13%
+2023-10-25 14:08:50-debug: 收集 importMap 信息 start13%
+2023-10-25 14:08:50-debug: // ---- build task 收集 importMap 信息 ----
+2023-10-25 14:08:50-debug: Process: heapTotal 239.66MB heapUsed 218.88MB rss 346.23MB
+2023-10-25 14:08:50-debug: run build task 收集 importMap 信息 success in 0 ms √14%
+2023-10-25 14:08:50-debug: native:(onBeforeBuildAssets) start...14%
+2023-10-25 14:08:50-debug: Process: heapTotal 239.66MB heapUsed 218.98MB rss 346.23MB
+2023-10-25 14:08:50-debug: // ---- build task native：onBeforeBuildAssets ----
+2023-10-25 14:08:50-debug: // ---- build task native：onBeforeBuildAssets ---- (1ms)
+2023-10-25 14:08:50-debug: 构建自动图集 start17%
+2023-10-25 14:08:50-debug: native:(onBeforeBuildAssets) in 1 ms17%
+2023-10-25 14:08:50-debug: // ---- build task 构建自动图集 ----
+2023-10-25 14:08:50-debug: Process: heapTotal 239.66MB heapUsed 219.07MB rss 346.24MB
+2023-10-25 14:08:50-debug: Start collect pack info from bundleds
+2023-10-25 14:08:50-debug: init texturePacker with packInfo 2
+2023-10-25 14:08:50-debug: start pack images
+2023-10-25 14:08:50-debug: Start pack atlas with cache.
+2023-10-25 14:08:50-debug: Use Cache of pack result about asset db://assets/textures/load/loading/AlatLoad.pac
+2023-10-25 14:08:50-debug: Use Cache of pack result about asset db://assets/textures/Hall/Hall/AlaHall.pac
+2023-10-25 14:08:50-debug: sort pack result
+2023-10-25 14:08:50-debug: remove spriteAtlas._uuid : {asset(ba770580-97db-4073-b0ff-79cd08163a8e)}
+2023-10-25 14:08:50-debug: remove spriteAtlas._uuid : {asset(ba770580-97db-4073-b0ff-79cd08163a8e)}
+2023-10-25 14:08:50-debug: pack atlas success
+2023-10-25 14:08:50-debug: remove spriteAtlas._uuid : {asset(ba770580-97db-4073-b0ff-79cd08163a8e)}
+2023-10-25 14:08:50-debug: // ---- build task 构建自动图集 ---- (52ms)
+2023-10-25 14:08:50-debug: builder: pack atlas (2ms)
+2023-10-25 14:08:50-debug: run build task 构建自动图集 success in 52 ms √23%
+2023-10-25 14:08:50-debug: 图片拷贝压缩任务 start23%
+2023-10-25 14:08:50-debug: // ---- build task 图片拷贝压缩任务 ----
+2023-10-25 14:08:50-debug: Process: heapTotal 239.66MB heapUsed 214.92MB rss 351.77MB
+2023-10-25 14:08:50-debug: Use cache compress image of {Asset(34af8651-e384-4c0f-9ca5-c1ae73e045ff)} ({link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.png)}). suffix: .astc@96,.pkm@72,.jpg
+2023-10-25 14:08:50-debug: Use cache compress image of {Asset(5845f5bf-1e37-4110-8dce-f4663fdd3edf)} ({link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.png)}). suffix: .astc@96,.pkm@72,.jpg
+2023-10-25 14:08:50-debug: Use cache compress image of {Asset(f2bf58a0-8f41-4ae3-bf32-72be2938b333)} ({link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.png)}). suffix: .astc@96,.pkm@72,.jpg
+2023-10-25 14:08:50-debug: Num of sorted image asset: 3
+2023-10-25 14:08:50-debug: // ---- build task 图片拷贝压缩任务 ---- (21ms)
+2023-10-25 14:08:50-debug: run build task 图片拷贝压缩任务 success in 21 ms √30%
+2023-10-25 14:08:50-debug: // ---- build task 将资源拷贝到指定位置 ----
+2023-10-25 14:08:50-debug: 将资源拷贝到指定位置 start30%
+2023-10-25 14:08:50-debug: Process: heapTotal 239.66MB heapUsed 215.19MB rss 351.81MB
+2023-10-25 14:08:50-debug: Asset Bundle(internal) handle assets: 20
+2023-10-25 14:08:50-debug: Asset Bundle(resources) handle assets: 6
+2023-10-25 14:08:50-debug: Asset Bundle(main) handle assets: 45
+2023-10-25 14:08:50-debug: run build task 将资源拷贝到指定位置 success in 25 ms √37%
+2023-10-25 14:08:50-debug: 将分组后的 json 与散文件构建到指定位置 start37%
+2023-10-25 14:08:50-debug: // ---- build task 将资源拷贝到指定位置 ---- (25ms)
+2023-10-25 14:08:50-debug: // ---- build task 将分组后的 json 与散文件构建到指定位置 ----
+2023-10-25 14:08:50-debug: Process: heapTotal 239.66MB heapUsed 217.22MB rss 353.69MB
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-alpha-test-material.mtl)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/default-clear-stencil.mtl)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/default-spine-material.mtl)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-effect-material.mtl)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-material.mtl)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-alpha-sep-material.mtl)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-base-material.mtl)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-material.mtl)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-graphics-material.mtl)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-alpha-sep-material.mtl)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-material.mtl)})
+2023-10-25 14:08:50-debug: Json group(0846c28f0) compile success，json number: 6
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite_splash.png/spriteFrame)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefab/common/Tip.prefab)})
+2023-10-25 14:08:50-debug: Json group(0c2dd4a30) compile success，json number: 6
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/btnEff1.wav)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite_splash.png)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite_splash.png/texture)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/bgm.mp3)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/R.jpg)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/Bg_Hall.jpg)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/scenes/Hall.scene)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/R.jpg/spriteFrame)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/Bg_Hall.jpg/spriteFrame)})
+2023-10-25 14:08:50-debug: Json group(0a453de53) compile success，json number: 6
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading05.png/spriteFrame)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading/loading05_shuom.png/spriteFrame)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading/AlatLoad.pac)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/scenes/Login.scene)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading06.png/spriteFrame)})
+2023-10-25 14:08:50-debug: Json group(06353a628) compile success，json number: 6
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading05.png/texture)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading/loading05_shuom.png/texture)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/R.jpg/texture)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/Bg_Hall.jpg/texture)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading06.png/texture)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading/AlatLoad.pac)})
+2023-10-25 14:08:50-debug: Json group(0c72fc00a) compile success，json number: 6
+2023-10-25 14:08:50-debug: Json group(0d33a9949) compile success，json number: 6
+2023-10-25 14:08:50-debug: Json group(0d212da1e) compile success，json number: 6
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/physics/default-physics-material.pmtl)})
+2023-10-25 14:08:50-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_renderpipeline/builtin-forward.rpp)})
+2023-10-25 14:08:50-debug: // ---- build task 将分组后的 json 与散文件构建到指定位置 ---- (48ms)
+2023-10-25 14:08:50-debug: run build task 将分组后的 json 与散文件构建到指定位置 success in 48 ms √43%
+2023-10-25 14:08:50-debug: 打包脚本 start43%
+2023-10-25 14:08:50-debug: // ---- build task 打包脚本 ----
+2023-10-25 14:08:50-debug: Process: heapTotal 239.66MB heapUsed 215.26MB rss 350.98MB
+2023-10-25 14:08:50-debug: Caught exception during build core-js: WebpackOptionsValidationError: Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema. - configuration.entry should be an non-empty array.   -> A non-empty array of non-empty stringsThis may indicates the core-js polyfill is not necessary. See https://github.com/zloirock/core-js/issues/822
+2023-10-25 14:08:53-debug: 构建项目脚本 start...43%
+2023-10-25 14:08:53-debug: Process: heapTotal 281.62MB heapUsed 258.73MB rss 394.96MB
+2023-10-25 14:08:53-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+2023-10-25 14:08:54-log: [build-script]enter sub process 17612, D:\AppData\cocos\editors\Creator\Creator\3.7.4\CocosCreator.exe,D:\AppData\cocos\editors\Creator\Creator\3.7.4\resources\app.asar\builtin\builder\static\sub-process-index
+2023-10-25 14:08:57-warn: [build-script][[Build.Script.Rollup]] Circular dependency: file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/manages/GameMgr.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts[warning][[Build.Script.Rollup]] Circular dependency: file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/manages/GameMgr.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/manages/AudioMgr.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts
+2023-10-25 14:08:59-debug: excute-script over with build-script 5666ms
+2023-10-25 14:08:59-debug: Copy externalScripts success!
+2023-10-25 14:08:59-debug: 构建项目脚本 in (5708 ms) √43%
+2023-10-25 14:08:59-debug: 构建引擎脚本 start...43%
+2023-10-25 14:08:59-debug: Process: heapTotal 281.62MB heapUsed 259.16MB rss 395.20MB
+2023-10-25 14:08:59-debug: Use cache engine: {link(C:\Users\admin\AppData\Local\Temp\CocosCreator\3.7.4\builder\engine\2e704eaf027ec619357f91bf28e3da61)}
+2023-10-25 14:08:59-debug: {"debug":false,"sourceMaps":false,"includeModules":["2d","animation","audio","base","dragon-bones","gfx-webgl","gfx-webgl2","intersection-2d","particle-2d","physics-2d-box2d","profiler","spine","tiled-map","tween","ui","video","webview"],"engineVersion":"3.7.4","platform":"NATIVE","md5Map":[],"engineName":"src/cocos-js","useCache":true,"targets":"chrome 80","flags":{"DEBUG":false},"entry":"D:\\AppData\\cocos\\editors\\Creator\\Creator\\3.7.4\\resources\\resources\\3d\\engine"}
+2023-10-25 14:08:59-debug: 构建引擎脚本 in (97 ms) √43%
+2023-10-25 14:08:59-debug: // ---- build task 打包脚本 ---- (8852ms)
+2023-10-25 14:08:59-debug: run build task 打包脚本 success in 8852 ms √50%
+2023-10-25 14:08:59-debug: // ---- build task 压缩 Zip Bundle ----
+2023-10-25 14:08:59-debug: 压缩 Zip Bundle start50%
+2023-10-25 14:08:59-debug: Process: heapTotal 281.62MB heapUsed 261.41MB rss 395.43MB
+2023-10-25 14:08:59-debug: // ---- build task 压缩 Zip Bundle ---- (1ms)
+2023-10-25 14:08:59-debug: run build task 压缩 Zip Bundle success in 1 ms √57%
+2023-10-25 14:08:59-debug: Process: heapTotal 281.62MB heapUsed 261.51MB rss 395.43MB
+2023-10-25 14:08:59-debug: native:(onAfterBuildAssets) start...57%
+2023-10-25 14:08:59-debug: // ---- build task native：onAfterBuildAssets ----
+2023-10-25 14:08:59-debug: native:(onAfterBuildAssets) in 0 ms59%
+2023-10-25 14:08:59-debug: 给所有的资源加上 MD5 后缀 start59%
+2023-10-25 14:08:59-debug: // ---- build task 给所有的资源加上 MD5 后缀 ----
+2023-10-25 14:08:59-debug: Process: heapTotal 281.62MB heapUsed 261.59MB rss 395.43MB
+2023-10-25 14:08:59-debug: run build task 给所有的资源加上 MD5 后缀 success in 0 ms √69%
+2023-10-25 14:08:59-debug: 初始化 settings.json 与 config.json start69%
+2023-10-25 14:08:59-debug: // ---- build task 初始化 settings.json 与 config.json ----
+2023-10-25 14:08:59-debug: Process: heapTotal 281.62MB heapUsed 261.66MB rss 395.44MB
+2023-10-25 14:08:59-debug: // ---- build task 初始化 settings.json 与 config.json ---- (1ms)
+2023-10-25 14:08:59-debug: run build task 初始化 settings.json 与 config.json success in 1 ms √69%
+2023-10-25 14:08:59-debug: builder.tasks.settings.macro 字段未在编辑器多语言内定义
+2023-10-25 14:08:59-debug: builder.tasks.settings.macro start69%
+2023-10-25 14:08:59-debug: Process: heapTotal 281.62MB heapUsed 261.75MB rss 395.44MB
+2023-10-25 14:08:59-debug: // ---- build task builder.tasks.settings.macro ----
+2023-10-25 14:08:59-debug: // ---- build task builder.tasks.settings.macro ---- (9ms)
+2023-10-25 14:08:59-debug: run build task builder.tasks.settings.macro success in 9 ms √70%
+2023-10-25 14:08:59-debug: 整理部分构建选项内数据到 settings.json start70%
+2023-10-25 14:08:59-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-10-25 14:08:59-debug: Process: heapTotal 281.62MB heapUsed 261.83MB rss 395.44MB
+2023-10-25 14:08:59-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (8ms)
+2023-10-25 14:08:59-debug: custom joint texture layouts start71%
+2023-10-25 14:08:59-debug: // ---- build task custom joint texture layouts ----
+2023-10-25 14:08:59-debug: run build task 整理部分构建选项内数据到 settings.json success in 8 ms √71%
+2023-10-25 14:08:59-debug: Process: heapTotal 282.08MB heapUsed 262.39MB rss 396.77MB
+2023-10-25 14:08:59-debug: // ---- build task custom joint texture layouts ---- (9ms)
+2023-10-25 14:08:59-debug: run build task custom joint texture layouts success in 9 ms √71%
+2023-10-25 14:08:59-debug: custom joint physics start71%
+2023-10-25 14:08:59-debug: // ---- build task custom joint physics ----
+2023-10-25 14:08:59-debug: Process: heapTotal 282.08MB heapUsed 262.47MB rss 396.77MB
+2023-10-25 14:08:59-debug: // ---- build task custom joint physics ---- (1ms)
+2023-10-25 14:08:59-debug: run build task custom joint physics success in 1 ms √72%
+2023-10-25 14:08:59-debug: 填充脚本数据到 settings.json start72%
+2023-10-25 14:08:59-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-10-25 14:08:59-debug: Process: heapTotal 282.08MB heapUsed 262.54MB rss 396.77MB
+2023-10-25 14:08:59-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2023-10-25 14:08:59-debug: run build task 填充脚本数据到 settings.json success in 1 ms √72%
+2023-10-25 14:08:59-debug: 填充场景数据到 settings.json start72%
+2023-10-25 14:08:59-debug: Process: heapTotal 282.08MB heapUsed 262.62MB rss 396.77MB
+2023-10-25 14:08:59-debug: // ---- build task 填充场景数据到 settings.json ----
+2023-10-25 14:08:59-debug: run build task 填充场景数据到 settings.json success in 0 ms √73%
+2023-10-25 14:08:59-debug: 整理资源分组，生成 packedAssets 以及 rawAssets 数据 start73%
+2023-10-25 14:08:59-debug: // ---- build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 ----
+2023-10-25 14:08:59-debug: Process: heapTotal 282.08MB heapUsed 262.69MB rss 396.78MB
+2023-10-25 14:08:59-debug: // ---- build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 ---- (1ms)
+2023-10-25 14:08:59-debug: run build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 success in 1 ms √73%
+2023-10-25 14:08:59-debug: 从 suffixMap 生成 md5AssetsMap 到 settings.json start73%
+2023-10-25 14:08:59-debug: // ---- build task 从 suffixMap 生成 md5AssetsMap 到 settings.json ----
+2023-10-25 14:08:59-debug: options.md5Cache is false.
+2023-10-25 14:08:59-debug: Process: heapTotal 282.08MB heapUsed 262.79MB rss 396.79MB
+2023-10-25 14:08:59-debug: run build task 从 suffixMap 生成 md5AssetsMap 到 settings.json success in 0 ms √74%
+2023-10-25 14:08:59-debug: cocos-service:(onBeforeCompressSettings) start...74%
+2023-10-25 14:08:59-debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+2023-10-25 14:08:59-debug: Process: heapTotal 282.08MB heapUsed 262.90MB rss 396.79MB
+2023-10-25 14:08:59-debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (353ms)
+2023-10-25 14:08:59-debug: cocos-service:(onBeforeCompressSettings) in 353 ms76%
+2023-10-25 14:08:59-debug: 生成 import-map.json start76%
+2023-10-25 14:08:59-debug: Process: heapTotal 267.58MB heapUsed 257.74MB rss 381.88MB
+2023-10-25 14:08:59-debug: // ---- build task 生成 import-map.json ----
+2023-10-25 14:08:59-debug: // ---- build task 生成 import-map.json ---- (4ms)
+2023-10-25 14:08:59-debug: run build task 生成 import-map.json success in 4 ms √77%
+2023-10-25 14:08:59-debug: 压缩 config.json 与 settings.json start77%
+2023-10-25 14:08:59-debug: // ---- build task 压缩 config.json 与 settings.json ----
+2023-10-25 14:08:59-debug: Process: heapTotal 267.58MB heapUsed 257.82MB rss 381.88MB
+2023-10-25 14:08:59-debug: // ---- build task 压缩 config.json 与 settings.json ---- (1ms)
+2023-10-25 14:08:59-debug: run build task 压缩 config.json 与 settings.json success in 1 ms √78%
+2023-10-25 14:08:59-debug: 保存 config.json start78%
+2023-10-25 14:08:59-debug: Process: heapTotal 267.58MB heapUsed 257.95MB rss 381.89MB
+2023-10-25 14:08:59-debug: // ---- build task 保存 config.json ----
+2023-10-25 14:08:59-debug: // ---- build task 保存 config.json ---- (1ms)
+2023-10-25 14:08:59-debug: run build task 保存 config.json success in 1 ms √79%
+2023-10-25 14:08:59-debug: 保存 settings.json start79%
+2023-10-25 14:08:59-debug: // ---- build task 保存 settings.json ----
+2023-10-25 14:08:59-debug: Process: heapTotal 267.58MB heapUsed 258.05MB rss 381.89MB
+2023-10-25 14:08:59-debug: // ---- build task 保存 settings.json ---- (4ms)
+2023-10-25 14:08:59-debug: run build task 保存 settings.json success in 4 ms √79%
+2023-10-25 14:08:59-debug: 保存 settings.json start79%
+2023-10-25 14:08:59-debug: Process: heapTotal 272.27MB heapUsed 259.01MB rss 383.93MB
+2023-10-25 14:08:59-debug: // ---- build task 保存 settings.json ----
+2023-10-25 14:08:59-debug: // ---- build task 保存 settings.json ---- (1ms)
+2023-10-25 14:08:59-debug: run build task 保存 settings.json success in 1 ms √80%
+2023-10-25 14:08:59-debug: 整理静态模板文件 start80%
+2023-10-25 14:08:59-debug: // ---- build task 整理静态模板文件 ----
+2023-10-25 14:08:59-debug: Process: heapTotal 272.27MB heapUsed 259.09MB rss 384.01MB
+2023-10-25 14:08:59-debug: // ---- build task 整理静态模板文件 ---- (20ms)
+2023-10-25 14:08:59-debug: run build task 整理静态模板文件 success in 20 ms √81%
+2023-10-25 14:08:59-debug: native:(onAfterCompressSettings) start...81%
+2023-10-25 14:08:59-debug: // ---- build task native：onAfterCompressSettings ----
+2023-10-25 14:08:59-debug: Process: heapTotal 272.27MB heapUsed 260.41MB rss 385.16MB
+2023-10-25 14:08:59-log: Checking template version...
+2023-10-25 14:08:59-log: Validating template consistency...
+2023-10-25 14:08:59-debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 ON)","CC_USE_GLES2":"set(CC_USE_GLES2 ON)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY OFF)","APP_NAME":"set(APP_NAME ROYALTEENPATTI)","COCOS_X_PATH":"set(COCOS_X_PATH \"D:/AppData/cocos/editors/Creator/Creator/3.7.4/resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_ANTIALIAS_FXAA":"set(ENABLE_ANTIALIAS_FXAA OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY OFF)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER OFF)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER OFF)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SOCKET":"set(USE_SOCKET OFF)","USE_WEBSOCKET_SERVER":"set(USE_WEBSOCKET_SERVER OFF)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_VULKAN":"set(CC_USE_VULKAN OFF)"}
+2023-10-25 14:08:59-log: While replace template content, file E:\Cocos\Project\ROYALTEENPATTI\build\android\proj\main.cpp
+2023-10-25 14:08:59-log: While replace template content, file E:\Cocos\Project\ROYALTEENPATTI\build\android\proj\main.m
+2023-10-25 14:08:59-log: While replace template content, file E:\Cocos\Project\ROYALTEENPATTI\native\engine\android/entry/src/main/config.json
+2023-10-25 14:08:59-debug: Start encrypte scripts...
+2023-10-25 14:09:00-debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 ON)","CC_USE_GLES2":"set(CC_USE_GLES2 ON)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"set(XXTEAKEY \"dd9k+YJ/tEo4C2Us\")","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY OFF)","APP_NAME":"set(APP_NAME ROYALTEENPATTI)","COCOS_X_PATH":"set(COCOS_X_PATH \"D:/AppData/cocos/editors/Creator/Creator/3.7.4/resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_ANTIALIAS_FXAA":"set(ENABLE_ANTIALIAS_FXAA OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY OFF)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER OFF)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER OFF)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SOCKET":"set(USE_SOCKET OFF)","USE_WEBSOCKET_SERVER":"set(USE_WEBSOCKET_SERVER OFF)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_VULKAN":"set(CC_USE_VULKAN OFF)"}
+2023-10-25 14:09:00-debug: Encrypte scriptes success
+2023-10-25 14:09:00-log: update settings.properties
+2023-10-25 14:09:00-log: update gradle.properties
+2023-10-25 14:09:00-log: AndroidAPI level 34
+2023-10-25 14:09:00-log: android instant not configured
+2023-10-25 14:09:00-debug: // ---- build task native：onAfterCompressSettings ---- (37ms)
+2023-10-25 14:09:00-debug: native:(onAfterCompressSettings) in 37 ms82%
+2023-10-25 14:09:00-debug: cocos-service:(onAfterCompressSettings) start...82%
+2023-10-25 14:09:00-debug: // ---- build task cocos-service：onAfterCompressSettings ----
+2023-10-25 14:09:00-debug: Process: heapTotal 271.80MB heapUsed 259.49MB rss 385.26MB
+2023-10-25 14:09:00-debug: // ---- build task cocos-service：onAfterCompressSettings ---- (202ms)
+2023-10-25 14:09:00-debug: cocos-service:(onAfterCompressSettings) in 202 ms83%
+2023-10-25 14:09:00-debug: native:(onAfterBuild) start...83%
+2023-10-25 14:09:00-debug: // ---- build task native：onAfterBuild ----
+2023-10-25 14:09:00-debug: Process: heapTotal 271.80MB heapUsed 259.92MB rss 385.69MB
+2023-10-25 14:09:00-debug: // ---- build task native：onAfterBuild ---- (11ms)
+2023-10-25 14:09:00-debug: native:(onAfterBuild) in 11 ms84%
+2023-10-25 14:09:00-debug: cocos-service:(onAfterBuild) start...84%
+2023-10-25 14:09:00-debug: // ---- build task cocos-service：onAfterBuild ----
+2023-10-25 14:09:00-debug: Process: heapTotal 271.80MB heapUsed 260.02MB rss 385.79MB
+2023-10-25 14:09:00-debug: // ---- build task cocos-service：onAfterBuild ---- (162ms)
+2023-10-25 14:09:00-debug: cocos-service:(onAfterBuild) in 162 ms86%
+2023-10-25 14:09:00-log: Asset DB is resume!
+2023-10-25 14:09:00-debug: builder:build-project-total (10611ms)
+2023-10-25 14:09:00-debug: build success in 10611 ms!
+2023-10-25 14:09:00-debug: ================================ build Task (android) Finished in (10616)ms ================================
+2023-10-25 14:09:00-debug: Stop record console. {file(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\log\android2023-10-25 12-05.log)}
+2023-10-25 14:09:57-debug: refresh db internal success
+2023-10-25 14:09:57-debug: asset-db:worker-effect-data-processing (173ms)
+2023-10-25 14:09:57-debug: %cImport%c: E:\Cocos\Project\ROYALTEENPATTI\assets\scripts\manages\GameMgr.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-25 14:09:57-debug: %cImport%c: E:\Cocos\Project\ROYALTEENPATTI\assets\scripts\module\HallScene.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-25 14:09:57-debug: refresh db assets success
+2023-10-25 14:09:57-debug: asset-db:refresh-all-database (216ms)
+2023-10-25 14:09:58-debug: =================================== build Task (android) Start ================================
+2023-10-25 14:09:58-debug: Start record console... {file(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\log\android2023-10-25 12-05.log)}
+2023-10-25 14:09:58-debug: Start build task, options:{"name":"ROYALTEENPATTI","platform":"android","buildPath":"project://build","debug":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"polyfills":{"asyncFunctions":false},"experimentalEraseModules":false,"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"packAutoAtlas":true,"startScene":"acfff64a-ba74-485d-a9c9-b2a9ac7a7c7c","outputName":"android","scenes":[{"url":"db://assets/scenes/Hall.scene","uuid":"17583d7f-c175-44b7-b4aa-e7e2cd0feac3","inBundle":false},{"url":"db://assets/scenes/Login.scene","uuid":"acfff64a-ba74-485d-a9c9-b2a9ac7a7c7c","inBundle":false}],"web-desktop":[],"packages":{"android":{"packageName":"cfzzejdpia.istmlomqz.msjmejkfb","orientation":{"portrait":false,"upsideDown":false,"landscapeRight":true,"landscapeLeft":true},"apiLevel":34,"appABIs":["arm64-v8a","armeabi-v7a"],"useDebugKeystore":true,"keystorePath":"","keystorePassword":"","keystoreAlias":"","keystoreAliasPassword":"","appBundle":false,"androidInstant":false,"remoteUrl":"","sdkPath":"","ndkPath":"","renderBackEnd":{"vulkan":false,"gles3":true,"gles2":true},"swappy":false,"__version__":"1.0.1"},"cocos-service":{"configID":"2c77c7","services":[]},"native":{"encrypted":true,"xxteaKey":"dd9k+YJ/tEo4C2Us","compressZip":false,"JobSystem":"none","__version__":"1.0.2"}},"__version__":"1.3.5","android":[]}
+2023-10-25 14:09:58-debug: Build with Cocos Creator 3.7.4
+2023-10-25 14:09:58-debug: cocos-service:(onBeforeBuild) start...0%
+2023-10-25 14:09:58-debug: // ---- build task cocos-service：onBeforeBuild ----
+2023-10-25 14:09:58-debug: Process: heapTotal 263.32MB heapUsed 218.03MB rss 369.20MB
+2023-10-25 14:09:59-debug: // ---- build task cocos-service：onBeforeBuild ---- (293ms)
+2023-10-25 14:09:59-debug: cocos-service:(onBeforeBuild) in 293 ms1%
+2023-10-25 14:09:59-debug: scene:(onBeforeBuild) start...1%
+2023-10-25 14:09:59-debug: // ---- build task scene：onBeforeBuild ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.32MB heapUsed 218.25MB rss 369.28MB
+2023-10-25 14:09:59-debug: // ---- build task scene：onBeforeBuild ---- (11ms)
+2023-10-25 14:09:59-debug: scene:(onBeforeBuild) in 11 ms2%
+2023-10-25 14:09:59-debug: Start lock asset db...2%
+2023-10-25 14:09:59-log: Asset DB is paused with build!
+2023-10-25 14:09:59-debug: Query all assets info in project
+2023-10-25 14:09:59-debug: BuildAssetLibrary query-assets with assets 538
+2023-10-25 14:09:59-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-10-25 14:09:59-debug:   Number of all scenes: 2
+2023-10-25 14:09:59-debug:   Number of all scripts: 15
+2023-10-25 14:09:59-debug:   Number of other assets: 378
+2023-10-25 14:09:59-debug: native:(onAfterInit) start...2%
+2023-10-25 14:09:59-debug: // ---- build task native：onAfterInit ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.32MB heapUsed 220.43MB rss 370.64MB
+2023-10-25 14:09:59-debug: Native engine root:D:\AppData\cocos\editors\Creator\Creator\3.7.4\resources\resources\3d\engine\native
+2023-10-25 14:09:59-debug: // ---- build task native：onAfterInit ---- (33ms)
+2023-10-25 14:09:59-debug: native:(onAfterInit) in 33 ms3%
+2023-10-25 14:09:59-debug: android:(onAfterInit) start...3%
+2023-10-25 14:09:59-debug: // ---- build task android：onAfterInit ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.32MB heapUsed 214.89MB rss 370.68MB
+2023-10-25 14:09:59-debug: // ---- build task android：onAfterInit ---- (11ms)
+2023-10-25 14:09:59-debug: android:(onAfterInit) in 11 ms4%
+2023-10-25 14:09:59-debug: cocos-service:(onAfterInit) start...4%
+2023-10-25 14:09:59-debug: // ---- build task cocos-service：onAfterInit ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.32MB heapUsed 214.99MB rss 370.69MB
+2023-10-25 14:09:59-debug: // ---- build task cocos-service：onAfterInit ---- (249ms)
+2023-10-25 14:09:59-debug: cocos-service:(onAfterInit) in 249 ms4%
+2023-10-25 14:09:59-debug: 加载刷新项目脚本 start4%
+2023-10-25 14:09:59-debug: // ---- build task 加载刷新项目脚本 ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.32MB heapUsed 215.09MB rss 370.70MB
+2023-10-25 14:09:59-debug: Incremental keys: 
+2023-10-25 14:09:59-debug: reload all scripts.
+2023-10-25 14:09:59-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-10-25 14:09:59-debug: Unregister DebugViewRuntimeControl
+2023-10-25 14:09:59-debug: Unregister HallScene
+2023-10-25 14:09:59-debug: Unregister LoginScene
+2023-10-25 14:09:59-debug: Unregister NativeJSBridgeIns
+2023-10-25 14:09:59-debug: Unregister RedUtil
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/c1/c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/0f/0ff6396fa839be48d7949beacf6bda2a657d69d2.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/22/22f10d931ca99dae7b16eb47e04bc6545b986c49.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/dc/dc470d400dc17fe44c04ed0c44faa0d1668fe9c3.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/9c/9ca722dc76d37cad5bc9823813cb73575723409e.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/06/06e91d62a192d81b90d0d4560fee8bed90dba712.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/16/16a99cd7bb7de009a2bf73102c7be015ed783d63.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/24/24b2f6d9cd82d4ad492ab0c2fa029a1c07aa850e.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/7e/7ef3ab5d2ead7c032ca0c01af984ee9b1236d386.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/48/48ff8936cc036d12fc397f987a78e3b40f7d04b9.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/b7/b7e0cc3bc063d80bda6da1505830495d92431ecf.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/ce/cee94f8ed1a4ca86024139d425ca8771914d13f4.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/a8/a8c8cdcf6b0cdabd1e882952f95e21b5a03285ec.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/ff/ff29a85c19a7651f0735c349a04d77e13b9ac522.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/f6/f69071f2062809c6c105b659e2714dff788894dd.js'
+2023-10-25 14:09:59-debug: Invalidating 'pack:///chunks/57/57583dbc96f792bb6297552be81928cfbe57e450.js'
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/c1/c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js" loaded.
+2023-10-25 14:09:59-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\c1\c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\c1\c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js is not in module cache!
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/0f/0ff6396fa839be48d7949beacf6bda2a657d69d2.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/dc/dc470d400dc17fe44c04ed0c44faa0d1668fe9c3.js" loaded.
+2023-10-25 14:09:59-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\c1\c1b101642c84a343823081c88d38e775121481cf.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\c1\c1b101642c84a343823081c88d38e775121481cf.js is not in module cache!
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/06/06e91d62a192d81b90d0d4560fee8bed90dba712.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/7e/7ef3ab5d2ead7c032ca0c01af984ee9b1236d386.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/b7/b7e0cc3bc063d80bda6da1505830495d92431ecf.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/48/48ff8936cc036d12fc397f987a78e3b40f7d04b9.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/c1/c1b101642c84a343823081c88d38e775121481cf.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/24/24b2f6d9cd82d4ad492ab0c2fa029a1c07aa850e.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/9c/9ca722dc76d37cad5bc9823813cb73575723409e.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/22/22f10d931ca99dae7b16eb47e04bc6545b986c49.js" loaded.
+2023-10-25 14:09:59-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\a8\a8c8cdcf6b0cdabd1e882952f95e21b5a03285ec.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\a8\a8c8cdcf6b0cdabd1e882952f95e21b5a03285ec.js is not in module cache!
+2023-10-25 14:09:59-debug: [[Executor]] Register HallScene
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/a8/a8c8cdcf6b0cdabd1e882952f95e21b5a03285ec.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Register LoginScene
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/ce/cee94f8ed1a4ca86024139d425ca8771914d13f4.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Register NativeJSBridgeIns
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/ff/ff29a85c19a7651f0735c349a04d77e13b9ac522.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Register RedUtil
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/57/57583dbc96f792bb6297552be81928cfbe57e450.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/f6/f69071f2062809c6c105b659e2714dff788894dd.js" loaded.
+2023-10-25 14:09:59-debug: [[Executor]] Module "pack:///chunks/c1/c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js" loaded.
+2023-10-25 14:09:59-debug: // ---- build task 加载刷新项目脚本 ---- (23ms)
+2023-10-25 14:09:59-debug: run build task 加载刷新项目脚本 success in 23 ms √6%
+2023-10-25 14:09:59-debug: // ---- build task 查询 Asset Bundle ----
+2023-10-25 14:09:59-debug: 查询 Asset Bundle start6%
+2023-10-25 14:09:59-debug: Process: heapTotal 263.47MB heapUsed 216.72MB rss 370.98MB
+2023-10-25 14:09:59-debug: run build task 查询 Asset Bundle success in 14 ms √7%
+2023-10-25 14:09:59-debug: // ---- build task 查询 Asset Bundle ---- (14ms)
+2023-10-25 14:09:59-debug: // ---- build task 查询使用的资源以及资源包配置 ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.47MB heapUsed 218.64MB rss 370.95MB
+2023-10-25 14:09:59-debug: 查询使用的资源以及资源包配置 start7%
+2023-10-25 14:09:59-debug: init bundle assets
+2023-10-25 14:09:59-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2023-10-25 14:09:59-debug: Number of scenes: 2
+2023-10-25 14:09:59-debug: Start sort share asset in bundle
+2023-10-25 14:09:59-debug: Start sort share asset in bundle internal with assets 20}
+2023-10-25 14:09:59-debug: Start sort share asset in bundle resources with assets 3}
+2023-10-25 14:09:59-debug: Start sort share asset in bundle main with assets 4}
+2023-10-25 14:09:59-debug: Number of assets: 97
+2023-10-25 14:09:59-debug: Number of asset bundle: 3
+2023-10-25 14:09:59-debug: // ---- build task 查询使用的资源以及资源包配置 ---- (18ms)
+2023-10-25 14:09:59-debug: run build task 查询使用的资源以及资源包配置 success in 18 ms √8%
+2023-10-25 14:09:59-debug: 整理脚本分组与脚本数据 start8%
+2023-10-25 14:09:59-debug: // ---- build task 整理脚本分组与脚本数据 ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.47MB heapUsed 219.87MB rss 371.94MB
+2023-10-25 14:09:59-debug: sort script group...
+2023-10-25 14:09:59-debug: run build task 整理脚本分组与脚本数据 success in 0 ms √9%
+2023-10-25 14:09:59-debug: 整理纹理压缩任务 start9%
+2023-10-25 14:09:59-debug: // ---- build task 整理纹理压缩任务 ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.47MB heapUsed 219.96MB rss 372.02MB
+2023-10-25 14:09:59-debug: Number of image-compress task: 4
+2023-10-25 14:09:59-debug: // ---- build task 整理纹理压缩任务 ---- (11ms)
+2023-10-25 14:09:59-debug: run build task 整理纹理压缩任务 success in 11 ms √11%
+2023-10-25 14:09:59-debug: 初步划分 JSON 合并分组 start11%
+2023-10-25 14:09:59-debug: // ---- build task 初步划分 JSON 合并分组 ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.47MB heapUsed 220.23MB rss 372.23MB
+2023-10-25 14:09:59-debug: Number of json group with bundle(internal): 1
+2023-10-25 14:09:59-debug: Start sort the json group of bundle(resources)...
+2023-10-25 14:09:59-debug: Number of json group with bundle(resources) 1
+2023-10-25 14:09:59-debug: Start sort the json group of bundle(main)...
+2023-10-25 14:09:59-debug: Number of json group: 4
+2023-10-25 14:09:59-debug: Number of json group with bundle(main) 3
+2023-10-25 14:09:59-debug: // ---- build task 初步划分 JSON 合并分组 ---- (1ms)
+2023-10-25 14:09:59-debug: run build task 初步划分 JSON 合并分组 success in 1 ms √12%
+2023-10-25 14:09:59-debug: 整理合并压缩 Texture2D 的 JSON 数据 start12%
+2023-10-25 14:09:59-debug: // ---- build task 整理合并压缩 Texture2D 的 JSON 数据 ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.47MB heapUsed 220.40MB rss 372.40MB
+2023-10-25 14:09:59-debug: run build task 整理合并压缩 Texture2D 的 JSON 数据 success in 1 ms √13%
+2023-10-25 14:09:59-debug: // ---- build task 整理合并压缩 Texture2D 的 JSON 数据 ---- (1ms)
+2023-10-25 14:09:59-debug: Process: heapTotal 263.47MB heapUsed 220.50MB rss 372.55MB
+2023-10-25 14:09:59-debug: 收集 importMap 信息 start13%
+2023-10-25 14:09:59-debug: // ---- build task 收集 importMap 信息 ----
+2023-10-25 14:09:59-debug: run build task 收集 importMap 信息 success in 0 ms √14%
+2023-10-25 14:09:59-debug: native:(onBeforeBuildAssets) start...14%
+2023-10-25 14:09:59-debug: // ---- build task native：onBeforeBuildAssets ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.47MB heapUsed 220.59MB rss 372.64MB
+2023-10-25 14:09:59-debug: native:(onBeforeBuildAssets) in 0 ms17%
+2023-10-25 14:09:59-debug: 构建自动图集 start17%
+2023-10-25 14:09:59-debug: // ---- build task 构建自动图集 ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.47MB heapUsed 220.68MB rss 372.72MB
+2023-10-25 14:09:59-debug: init texturePacker with packInfo 2
+2023-10-25 14:09:59-debug: Start collect pack info from bundleds
+2023-10-25 14:09:59-debug: Start pack atlas with cache.
+2023-10-25 14:09:59-debug: Use Cache of pack result about asset db://assets/textures/load/loading/AlatLoad.pac
+2023-10-25 14:09:59-debug: start pack images
+2023-10-25 14:09:59-debug: Use Cache of pack result about asset db://assets/textures/Hall/Hall/AlaHall.pac
+2023-10-25 14:09:59-debug: remove spriteAtlas._uuid : {asset(ba770580-97db-4073-b0ff-79cd08163a8e)}
+2023-10-25 14:09:59-debug: remove spriteAtlas._uuid : {asset(ba770580-97db-4073-b0ff-79cd08163a8e)}
+2023-10-25 14:09:59-debug: remove spriteAtlas._uuid : {asset(ba770580-97db-4073-b0ff-79cd08163a8e)}
+2023-10-25 14:09:59-debug: pack atlas success
+2023-10-25 14:09:59-debug: sort pack result
+2023-10-25 14:09:59-debug: builder: pack atlas (2ms)
+2023-10-25 14:09:59-debug: // ---- build task 构建自动图集 ---- (48ms)
+2023-10-25 14:09:59-debug: run build task 构建自动图集 success in 48 ms √23%
+2023-10-25 14:09:59-debug: 图片拷贝压缩任务 start23%
+2023-10-25 14:09:59-debug: // ---- build task 图片拷贝压缩任务 ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.47MB heapUsed 216.49MB rss 377.70MB
+2023-10-25 14:09:59-debug: Use cache compress image of {Asset(34af8651-e384-4c0f-9ca5-c1ae73e045ff)} ({link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.png)}). suffix: .astc@96,.pkm@72,.jpg
+2023-10-25 14:09:59-debug: Use cache compress image of {Asset(5845f5bf-1e37-4110-8dce-f4663fdd3edf)} ({link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.png)}). suffix: .astc@96,.pkm@72,.jpg
+2023-10-25 14:09:59-debug: Use cache compress image of {Asset(f2bf58a0-8f41-4ae3-bf32-72be2938b333)} ({link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.png)}). suffix: .astc@96,.pkm@72,.jpg
+2023-10-25 14:09:59-debug: Num of sorted image asset: 3
+2023-10-25 14:09:59-debug: // ---- build task 图片拷贝压缩任务 ---- (17ms)
+2023-10-25 14:09:59-debug: run build task 图片拷贝压缩任务 success in 17 ms √30%
+2023-10-25 14:09:59-debug: 将资源拷贝到指定位置 start30%
+2023-10-25 14:09:59-debug: // ---- build task 将资源拷贝到指定位置 ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.47MB heapUsed 216.75MB rss 377.73MB
+2023-10-25 14:09:59-debug: Asset Bundle(internal) handle assets: 20
+2023-10-25 14:09:59-debug: Asset Bundle(resources) handle assets: 6
+2023-10-25 14:09:59-debug: Asset Bundle(main) handle assets: 45
+2023-10-25 14:09:59-debug: // ---- build task 将资源拷贝到指定位置 ---- (12ms)
+2023-10-25 14:09:59-debug: run build task 将资源拷贝到指定位置 success in 12 ms √37%
+2023-10-25 14:09:59-debug: 将分组后的 json 与散文件构建到指定位置 start37%
+2023-10-25 14:09:59-debug: // ---- build task 将分组后的 json 与散文件构建到指定位置 ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.47MB heapUsed 218.70MB rss 378.32MB
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-alpha-test-material.mtl)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/default-clear-stencil.mtl)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/default-spine-material.mtl)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-effect-material.mtl)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-material.mtl)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-alpha-sep-material.mtl)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-base-material.mtl)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-material.mtl)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-graphics-material.mtl)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-alpha-sep-material.mtl)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-material.mtl)})
+2023-10-25 14:09:59-debug: Json group(0846c28f0) compile success，json number: 6
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite_splash.png/spriteFrame)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefab/common/Tip.prefab)})
+2023-10-25 14:09:59-debug: Json group(0c2dd4a30) compile success，json number: 6
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/btnEff1.wav)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite_splash.png)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite_splash.png/texture)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/bgm.mp3)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/R.jpg)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/Bg_Hall.jpg)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/scenes/Hall.scene)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/R.jpg/spriteFrame)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/Bg_Hall.jpg/spriteFrame)})
+2023-10-25 14:09:59-debug: Json group(0a453de53) compile success，json number: 6
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading05.png/spriteFrame)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading/loading05_shuom.png/spriteFrame)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading/AlatLoad.pac)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/scenes/Login.scene)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading06.png/spriteFrame)})
+2023-10-25 14:09:59-debug: Json group(06353a628) compile success，json number: 6
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading05.png/texture)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/R.jpg/texture)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading/loading05_shuom.png/texture)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/Bg_Hall.jpg/texture)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading06.png/texture)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading/AlatLoad.pac)})
+2023-10-25 14:09:59-debug: Json group(0c72fc00a) compile success，json number: 6
+2023-10-25 14:09:59-debug: Json group(0d33a9949) compile success，json number: 6
+2023-10-25 14:09:59-debug: Json group(0d212da1e) compile success，json number: 6
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/physics/default-physics-material.pmtl)})
+2023-10-25 14:09:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_renderpipeline/builtin-forward.rpp)})
+2023-10-25 14:09:59-debug: // ---- build task 将分组后的 json 与散文件构建到指定位置 ---- (41ms)
+2023-10-25 14:09:59-debug: run build task 将分组后的 json 与散文件构建到指定位置 success in 41 ms √43%
+2023-10-25 14:09:59-debug: 打包脚本 start43%
+2023-10-25 14:09:59-debug: // ---- build task 打包脚本 ----
+2023-10-25 14:09:59-debug: Process: heapTotal 263.47MB heapUsed 216.67MB rss 377.26MB
+2023-10-25 14:09:59-debug: Caught exception during build core-js: WebpackOptionsValidationError: Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema. - configuration.entry should be an non-empty array.   -> A non-empty array of non-empty stringsThis may indicates the core-js polyfill is not necessary. See https://github.com/zloirock/core-js/issues/822
+2023-10-25 14:10:01-debug: 构建项目脚本 start...43%
+2023-10-25 14:10:01-debug: Process: heapTotal 281.68MB heapUsed 257.60MB rss 397.24MB
+2023-10-25 14:10:01-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+2023-10-25 14:10:02-log: [build-script]enter sub process 35168, D:\AppData\cocos\editors\Creator\Creator\3.7.4\CocosCreator.exe,D:\AppData\cocos\editors\Creator\Creator\3.7.4\resources\app.asar\builtin\builder\static\sub-process-index
+2023-10-25 14:10:05-warn: [build-script][[Build.Script.Rollup]] Circular dependency: file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/manages/GameMgr.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts[warning][[Build.Script.Rollup]] Circular dependency: file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/manages/GameMgr.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/manages/AudioMgr.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts
+2023-10-25 14:10:07-debug: excute-script over with build-script 5433ms
+2023-10-25 14:10:07-debug: Copy externalScripts success!
+2023-10-25 14:10:07-debug: 构建项目脚本 in (5473 ms) √43%
+2023-10-25 14:10:07-debug: 构建引擎脚本 start...43%
+2023-10-25 14:10:07-debug: Process: heapTotal 222.63MB heapUsed 210.91MB rss 331.57MB
+2023-10-25 14:10:07-debug: Use cache engine: {link(C:\Users\admin\AppData\Local\Temp\CocosCreator\3.7.4\builder\engine\2e704eaf027ec619357f91bf28e3da61)}
+2023-10-25 14:10:07-debug: {"debug":false,"sourceMaps":false,"includeModules":["2d","animation","audio","base","dragon-bones","gfx-webgl","gfx-webgl2","intersection-2d","particle-2d","physics-2d-box2d","profiler","spine","tiled-map","tween","ui","video","webview"],"engineVersion":"3.7.4","platform":"NATIVE","md5Map":[],"engineName":"src/cocos-js","useCache":true,"targets":"chrome 80","flags":{"DEBUG":false},"entry":"D:\\AppData\\cocos\\editors\\Creator\\Creator\\3.7.4\\resources\\resources\\3d\\engine"}
+2023-10-25 14:10:07-debug: 构建引擎脚本 in (94 ms) √43%
+2023-10-25 14:10:07-debug: // ---- build task 打包脚本 ---- (7698ms)
+2023-10-25 14:10:07-debug: run build task 打包脚本 success in 7698 ms √50%
+2023-10-25 14:10:07-debug: 压缩 Zip Bundle start50%
+2023-10-25 14:10:07-debug: // ---- build task 压缩 Zip Bundle ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.13MB heapUsed 211.85MB rss 332.33MB
+2023-10-25 14:10:07-debug: run build task 压缩 Zip Bundle success in 0 ms √57%
+2023-10-25 14:10:07-debug: native:(onAfterBuildAssets) start...57%
+2023-10-25 14:10:07-debug: Process: heapTotal 222.13MB heapUsed 211.95MB rss 332.42MB
+2023-10-25 14:10:07-debug: // ---- build task native：onAfterBuildAssets ----
+2023-10-25 14:10:07-debug: native:(onAfterBuildAssets) in 0 ms59%
+2023-10-25 14:10:07-debug: 给所有的资源加上 MD5 后缀 start59%
+2023-10-25 14:10:07-debug: // ---- build task 给所有的资源加上 MD5 后缀 ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.13MB heapUsed 211.36MB rss 331.87MB
+2023-10-25 14:10:07-debug: // ---- build task 给所有的资源加上 MD5 后缀 ---- (1ms)
+2023-10-25 14:10:07-debug: run build task 给所有的资源加上 MD5 后缀 success in 1 ms √69%
+2023-10-25 14:10:07-debug: 初始化 settings.json 与 config.json start69%
+2023-10-25 14:10:07-debug: // ---- build task 初始化 settings.json 与 config.json ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.13MB heapUsed 211.44MB rss 331.95MB
+2023-10-25 14:10:07-debug: run build task 初始化 settings.json 与 config.json success in 0 ms √69%
+2023-10-25 14:10:07-debug: builder.tasks.settings.macro 字段未在编辑器多语言内定义
+2023-10-25 14:10:07-debug: builder.tasks.settings.macro start69%
+2023-10-25 14:10:07-debug: // ---- build task builder.tasks.settings.macro ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.13MB heapUsed 211.52MB rss 332.03MB
+2023-10-25 14:10:07-debug: // ---- build task builder.tasks.settings.macro ---- (7ms)
+2023-10-25 14:10:07-debug: run build task builder.tasks.settings.macro success in 7 ms √70%
+2023-10-25 14:10:07-debug: 整理部分构建选项内数据到 settings.json start70%
+2023-10-25 14:10:07-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.13MB heapUsed 211.60MB rss 332.12MB
+2023-10-25 14:10:07-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (11ms)
+2023-10-25 14:10:07-debug: run build task 整理部分构建选项内数据到 settings.json success in 11 ms √71%
+2023-10-25 14:10:07-debug: custom joint texture layouts start71%
+2023-10-25 14:10:07-debug: // ---- build task custom joint texture layouts ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.59MB heapUsed 212.16MB rss 333.50MB
+2023-10-25 14:10:07-debug: // ---- build task custom joint texture layouts ---- (7ms)
+2023-10-25 14:10:07-debug: run build task custom joint texture layouts success in 7 ms √71%
+2023-10-25 14:10:07-debug: custom joint physics start71%
+2023-10-25 14:10:07-debug: // ---- build task custom joint physics ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.59MB heapUsed 212.24MB rss 333.58MB
+2023-10-25 14:10:07-debug: run build task custom joint physics success in 0 ms √72%
+2023-10-25 14:10:07-debug: 填充脚本数据到 settings.json start72%
+2023-10-25 14:10:07-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.59MB heapUsed 212.31MB rss 333.66MB
+2023-10-25 14:10:07-debug: run build task 填充脚本数据到 settings.json success in 0 ms √72%
+2023-10-25 14:10:07-debug: 填充场景数据到 settings.json start72%
+2023-10-25 14:10:07-debug: // ---- build task 填充场景数据到 settings.json ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.59MB heapUsed 212.38MB rss 333.72MB
+2023-10-25 14:10:07-debug: // ---- build task 填充场景数据到 settings.json ---- (1ms)
+2023-10-25 14:10:07-debug: run build task 填充场景数据到 settings.json success in 1 ms √73%
+2023-10-25 14:10:07-debug: 整理资源分组，生成 packedAssets 以及 rawAssets 数据 start73%
+2023-10-25 14:10:07-debug: // ---- build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.59MB heapUsed 212.46MB rss 333.80MB
+2023-10-25 14:10:07-debug: // ---- build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 ---- (1ms)
+2023-10-25 14:10:07-debug: run build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 success in 1 ms √73%
+2023-10-25 14:10:07-debug: 从 suffixMap 生成 md5AssetsMap 到 settings.json start73%
+2023-10-25 14:10:07-debug: // ---- build task 从 suffixMap 生成 md5AssetsMap 到 settings.json ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.59MB heapUsed 212.56MB rss 333.91MB
+2023-10-25 14:10:07-debug: options.md5Cache is false.
+2023-10-25 14:10:07-debug: run build task 从 suffixMap 生成 md5AssetsMap 到 settings.json success in 0 ms √74%
+2023-10-25 14:10:07-debug: cocos-service:(onBeforeCompressSettings) start...74%
+2023-10-25 14:10:07-debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.59MB heapUsed 211.91MB rss 333.11MB
+2023-10-25 14:10:07-debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (157ms)
+2023-10-25 14:10:07-debug: cocos-service:(onBeforeCompressSettings) in 157 ms76%
+2023-10-25 14:10:07-debug: 生成 import-map.json start76%
+2023-10-25 14:10:07-debug: // ---- build task 生成 import-map.json ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.59MB heapUsed 212.01MB rss 333.21MB
+2023-10-25 14:10:07-debug: // ---- build task 生成 import-map.json ---- (1ms)
+2023-10-25 14:10:07-debug: run build task 生成 import-map.json success in 1 ms √77%
+2023-10-25 14:10:07-debug: 压缩 config.json 与 settings.json start77%
+2023-10-25 14:10:07-debug: // ---- build task 压缩 config.json 与 settings.json ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.59MB heapUsed 212.09MB rss 333.29MB
+2023-10-25 14:10:07-debug: // ---- build task 压缩 config.json 与 settings.json ---- (1ms)
+2023-10-25 14:10:07-debug: run build task 压缩 config.json 与 settings.json success in 1 ms √78%
+2023-10-25 14:10:07-debug: 保存 config.json start78%
+2023-10-25 14:10:07-debug: // ---- build task 保存 config.json ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.59MB heapUsed 212.23MB rss 333.44MB
+2023-10-25 14:10:07-debug: // ---- build task 保存 config.json ---- (2ms)
+2023-10-25 14:10:07-debug: run build task 保存 config.json success in 2 ms √79%
+2023-10-25 14:10:07-debug: 保存 settings.json start79%
+2023-10-25 14:10:07-debug: // ---- build task 保存 settings.json ----
+2023-10-25 14:10:07-debug: Process: heapTotal 222.59MB heapUsed 212.33MB rss 333.54MB
+2023-10-25 14:10:07-debug: // ---- build task 保存 settings.json ---- (3ms)
+2023-10-25 14:10:07-debug: run build task 保存 settings.json success in 3 ms √79%
+2023-10-25 14:10:07-debug: // ---- build task 保存 settings.json ----
+2023-10-25 14:10:07-debug: 保存 settings.json start79%
+2023-10-25 14:10:07-debug: Process: heapTotal 226.53MB heapUsed 213.35MB rss 335.55MB
+2023-10-25 14:10:07-debug: // ---- build task 保存 settings.json ---- (1ms)
+2023-10-25 14:10:07-debug: run build task 保存 settings.json success in 1 ms √80%
+2023-10-25 14:10:07-debug: 整理静态模板文件 start80%
+2023-10-25 14:10:07-debug: // ---- build task 整理静态模板文件 ----
+2023-10-25 14:10:07-debug: Process: heapTotal 226.53MB heapUsed 213.43MB rss 335.63MB
+2023-10-25 14:10:07-debug: // ---- build task 整理静态模板文件 ---- (18ms)
+2023-10-25 14:10:07-debug: run build task 整理静态模板文件 success in 18 ms √81%
+2023-10-25 14:10:07-debug: native:(onAfterCompressSettings) start...81%
+2023-10-25 14:10:07-debug: // ---- build task native：onAfterCompressSettings ----
+2023-10-25 14:10:07-debug: Process: heapTotal 226.06MB heapUsed 212.47MB rss 336.25MB
+2023-10-25 14:10:07-log: Checking template version...
+2023-10-25 14:10:07-log: Validating template consistency...
+2023-10-25 14:10:07-debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 ON)","CC_USE_GLES2":"set(CC_USE_GLES2 ON)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY OFF)","APP_NAME":"set(APP_NAME ROYALTEENPATTI)","COCOS_X_PATH":"set(COCOS_X_PATH \"D:/AppData/cocos/editors/Creator/Creator/3.7.4/resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_ANTIALIAS_FXAA":"set(ENABLE_ANTIALIAS_FXAA OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY OFF)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER OFF)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER OFF)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SOCKET":"set(USE_SOCKET OFF)","USE_WEBSOCKET_SERVER":"set(USE_WEBSOCKET_SERVER OFF)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_VULKAN":"set(CC_USE_VULKAN OFF)"}
+2023-10-25 14:10:07-log: While replace template content, file E:\Cocos\Project\ROYALTEENPATTI\build\android\proj\main.cpp
+2023-10-25 14:10:07-log: While replace template content, file E:\Cocos\Project\ROYALTEENPATTI\build\android\proj\main.m
+2023-10-25 14:10:07-log: While replace template content, file E:\Cocos\Project\ROYALTEENPATTI\native\engine\android/entry/src/main/config.json
+2023-10-25 14:10:07-debug: Start encrypte scripts...
+2023-10-25 14:10:07-debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 ON)","CC_USE_GLES2":"set(CC_USE_GLES2 ON)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"set(XXTEAKEY \"dd9k+YJ/tEo4C2Us\")","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY OFF)","APP_NAME":"set(APP_NAME ROYALTEENPATTI)","COCOS_X_PATH":"set(COCOS_X_PATH \"D:/AppData/cocos/editors/Creator/Creator/3.7.4/resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_ANTIALIAS_FXAA":"set(ENABLE_ANTIALIAS_FXAA OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY OFF)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER OFF)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER OFF)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SOCKET":"set(USE_SOCKET OFF)","USE_WEBSOCKET_SERVER":"set(USE_WEBSOCKET_SERVER OFF)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_VULKAN":"set(CC_USE_VULKAN OFF)"}
+2023-10-25 14:10:07-debug: Encrypte scriptes success
+2023-10-25 14:10:07-log: update settings.properties
+2023-10-25 14:10:07-log: update gradle.properties
+2023-10-25 14:10:07-log: AndroidAPI level 34
+2023-10-25 14:10:07-log: android instant not configured
+2023-10-25 14:10:07-debug: // ---- build task native：onAfterCompressSettings ---- (31ms)
+2023-10-25 14:10:07-debug: native:(onAfterCompressSettings) in 31 ms82%
+2023-10-25 14:10:07-debug: cocos-service:(onAfterCompressSettings) start...82%
+2023-10-25 14:10:07-debug: // ---- build task cocos-service：onAfterCompressSettings ----
+2023-10-25 14:10:07-debug: Process: heapTotal 226.06MB heapUsed 213.80MB rss 336.98MB
+2023-10-25 14:10:07-debug: // ---- build task cocos-service：onAfterCompressSettings ---- (229ms)
+2023-10-25 14:10:07-debug: cocos-service:(onAfterCompressSettings) in 229 ms83%
+2023-10-25 14:10:07-debug: native:(onAfterBuild) start...83%
+2023-10-25 14:10:07-debug: // ---- build task native：onAfterBuild ----
+2023-10-25 14:10:07-debug: Process: heapTotal 226.06MB heapUsed 214.20MB rss 337.43MB
+2023-10-25 14:10:08-debug: // ---- build task native：onAfterBuild ---- (11ms)
+2023-10-25 14:10:08-debug: native:(onAfterBuild) in 11 ms84%
+2023-10-25 14:10:08-debug: cocos-service:(onAfterBuild) start...84%
+2023-10-25 14:10:08-debug: Process: heapTotal 226.06MB heapUsed 212.56MB rss 336.99MB
+2023-10-25 14:10:08-debug: // ---- build task cocos-service：onAfterBuild ----
+2023-10-25 14:10:08-debug: // ---- build task cocos-service：onAfterBuild ---- (166ms)
+2023-10-25 14:10:08-debug: cocos-service:(onAfterBuild) in 166 ms86%
+2023-10-25 14:10:08-log: Asset DB is resume!
+2023-10-25 14:10:08-debug: builder:build-project-total (9324ms)
+2023-10-25 14:10:08-debug: build success in 9324 ms!
+2023-10-25 14:10:08-debug: ================================ build Task (android) Finished in (9328)ms ================================
+2023-10-25 14:10:08-debug: Stop record console. {file(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\log\android2023-10-25 12-05.log)}
+2023-10-25 14:30:57-debug: refresh db internal success
+2023-10-25 14:30:57-debug: asset-db:worker-effect-data-processing (149ms)
+2023-10-25 14:30:57-debug: %cImport%c: E:\Cocos\Project\ROYALTEENPATTI\assets\scripts\manages\GameMgr.tsbackground: #aaff85; color: #000;color: #000;
+2023-10-25 14:30:57-debug: refresh db assets success
+2023-10-25 14:30:57-debug: asset-db:refresh-all-database (191ms)
+2023-10-25 14:30:58-debug: Start record console... {file(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\log\android2023-10-25 12-05.log)}
+2023-10-25 14:30:58-debug: =================================== build Task (android) Start ================================
+2023-10-25 14:30:58-debug: Start build task, options:{"name":"ROYALTEENPATTI","platform":"android","buildPath":"project://build","debug":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"polyfills":{"asyncFunctions":false},"experimentalEraseModules":false,"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"packAutoAtlas":true,"startScene":"acfff64a-ba74-485d-a9c9-b2a9ac7a7c7c","outputName":"android","scenes":[{"url":"db://assets/scenes/Hall.scene","uuid":"17583d7f-c175-44b7-b4aa-e7e2cd0feac3","inBundle":false},{"url":"db://assets/scenes/Login.scene","uuid":"acfff64a-ba74-485d-a9c9-b2a9ac7a7c7c","inBundle":false}],"web-desktop":[],"packages":{"android":{"packageName":"cfzzejdpia.istmlomqz.msjmejkfb","orientation":{"portrait":false,"upsideDown":false,"landscapeRight":true,"landscapeLeft":true},"apiLevel":34,"appABIs":["arm64-v8a","armeabi-v7a"],"useDebugKeystore":true,"keystorePath":"","keystorePassword":"","keystoreAlias":"","keystoreAliasPassword":"","appBundle":false,"androidInstant":false,"remoteUrl":"","sdkPath":"","ndkPath":"","renderBackEnd":{"vulkan":false,"gles3":true,"gles2":true},"swappy":false,"__version__":"1.0.1"},"cocos-service":{"configID":"2c77c7","services":[]},"native":{"encrypted":true,"xxteaKey":"dd9k+YJ/tEo4C2Us","compressZip":false,"JobSystem":"none","__version__":"1.0.2"}},"__version__":"1.3.5","android":[]}
+2023-10-25 14:30:58-debug: Build with Cocos Creator 3.7.4
+2023-10-25 14:30:58-debug: cocos-service:(onBeforeBuild) start...0%
+2023-10-25 14:30:58-debug: Process: heapTotal 242.62MB heapUsed 219.54MB rss 237.53MB
+2023-10-25 14:30:58-debug: // ---- build task cocos-service：onBeforeBuild ----
+2023-10-25 14:30:59-debug: // ---- build task cocos-service：onBeforeBuild ---- (463ms)
+2023-10-25 14:30:59-debug: scene:(onBeforeBuild) start...1%
+2023-10-25 14:30:59-debug: cocos-service:(onBeforeBuild) in 463 ms1%
+2023-10-25 14:30:59-debug: // ---- build task scene：onBeforeBuild ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.62MB heapUsed 219.77MB rss 237.55MB
+2023-10-25 14:30:59-debug: // ---- build task scene：onBeforeBuild ---- (12ms)
+2023-10-25 14:30:59-debug: scene:(onBeforeBuild) in 12 ms2%
+2023-10-25 14:30:59-debug: Start lock asset db...2%
+2023-10-25 14:30:59-log: Asset DB is paused with build!
+2023-10-25 14:30:59-debug: Query all assets info in project
+2023-10-25 14:30:59-debug: BuildAssetLibrary query-assets with assets 538
+2023-10-25 14:30:59-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-10-25 14:30:59-debug:   Number of all scenes: 2
+2023-10-25 14:30:59-debug:   Number of other assets: 378
+2023-10-25 14:30:59-debug: // ---- build task native：onAfterInit ----
+2023-10-25 14:30:59-debug:   Number of all scripts: 15
+2023-10-25 14:30:59-debug: native:(onAfterInit) start...2%
+2023-10-25 14:30:59-debug: Process: heapTotal 242.62MB heapUsed 221.94MB rss 238.93MB
+2023-10-25 14:30:59-debug: Native engine root:D:\AppData\cocos\editors\Creator\Creator\3.7.4\resources\resources\3d\engine\native
+2023-10-25 14:30:59-debug: // ---- build task native：onAfterInit ---- (28ms)
+2023-10-25 14:30:59-debug: native:(onAfterInit) in 28 ms3%
+2023-10-25 14:30:59-debug: android:(onAfterInit) start...3%
+2023-10-25 14:30:59-debug: Process: heapTotal 242.62MB heapUsed 216.01MB rss 238.83MB
+2023-10-25 14:30:59-debug: // ---- build task android：onAfterInit ----
+2023-10-25 14:30:59-debug: // ---- build task android：onAfterInit ---- (12ms)
+2023-10-25 14:30:59-debug: cocos-service:(onAfterInit) start...4%
+2023-10-25 14:30:59-debug: android:(onAfterInit) in 12 ms4%
+2023-10-25 14:30:59-debug: // ---- build task cocos-service：onAfterInit ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.62MB heapUsed 216.11MB rss 238.86MB
+2023-10-25 14:30:59-debug: // ---- build task cocos-service：onAfterInit ---- (165ms)
+2023-10-25 14:30:59-debug: cocos-service:(onAfterInit) in 165 ms4%
+2023-10-25 14:30:59-debug: 加载刷新项目脚本 start4%
+2023-10-25 14:30:59-debug: // ---- build task 加载刷新项目脚本 ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.62MB heapUsed 216.21MB rss 238.86MB
+2023-10-25 14:30:59-debug: Incremental keys: 
+2023-10-25 14:30:59-debug: reload all scripts.
+2023-10-25 14:30:59-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-10-25 14:30:59-debug: Unregister DebugViewRuntimeControl
+2023-10-25 14:30:59-debug: Unregister HallScene
+2023-10-25 14:30:59-debug: Unregister LoginScene
+2023-10-25 14:30:59-debug: Unregister NativeJSBridgeIns
+2023-10-25 14:30:59-debug: Unregister RedUtil
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/dc/dc470d400dc17fe44c04ed0c44faa0d1668fe9c3.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/c1/c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/22/22f10d931ca99dae7b16eb47e04bc6545b986c49.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/0f/0ff6396fa839be48d7949beacf6bda2a657d69d2.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/9c/9ca722dc76d37cad5bc9823813cb73575723409e.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/06/06e91d62a192d81b90d0d4560fee8bed90dba712.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/24/24b2f6d9cd82d4ad492ab0c2fa029a1c07aa850e.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/c1/c1b101642c84a343823081c88d38e775121481cf.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/7e/7ef3ab5d2ead7c032ca0c01af984ee9b1236d386.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/b7/b7e0cc3bc063d80bda6da1505830495d92431ecf.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/48/48ff8936cc036d12fc397f987a78e3b40f7d04b9.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/a8/a8c8cdcf6b0cdabd1e882952f95e21b5a03285ec.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/ce/cee94f8ed1a4ca86024139d425ca8771914d13f4.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/57/57583dbc96f792bb6297552be81928cfbe57e450.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/ff/ff29a85c19a7651f0735c349a04d77e13b9ac522.js'
+2023-10-25 14:30:59-debug: Invalidating 'pack:///chunks/f6/f69071f2062809c6c105b659e2714dff788894dd.js'
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-10-25 14:30:59-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\c1\c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\c1\c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js is not in module cache!
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/dc/dc470d400dc17fe44c04ed0c44faa0d1668fe9c3.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/c1/c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/0f/0ff6396fa839be48d7949beacf6bda2a657d69d2.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-10-25 14:30:59-debug: E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\21\2189a1902ebad81842debe29191e39e28bf054e6.js resolved to E:\Cocos\Project\ROYALTEENPATTI\temp\programming\packer-driver\targets\editor\chunks\21\2189a1902ebad81842debe29191e39e28bf054e6.js is not in module cache!
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/06/06e91d62a192d81b90d0d4560fee8bed90dba712.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/7e/7ef3ab5d2ead7c032ca0c01af984ee9b1236d386.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/b7/b7e0cc3bc063d80bda6da1505830495d92431ecf.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/21/2189a1902ebad81842debe29191e39e28bf054e6.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/48/48ff8936cc036d12fc397f987a78e3b40f7d04b9.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/24/24b2f6d9cd82d4ad492ab0c2fa029a1c07aa850e.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/9c/9ca722dc76d37cad5bc9823813cb73575723409e.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/22/22f10d931ca99dae7b16eb47e04bc6545b986c49.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Register HallScene
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/a8/a8c8cdcf6b0cdabd1e882952f95e21b5a03285ec.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Register LoginScene
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/ce/cee94f8ed1a4ca86024139d425ca8771914d13f4.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Register NativeJSBridgeIns
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/ff/ff29a85c19a7651f0735c349a04d77e13b9ac522.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Register RedUtil
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/57/57583dbc96f792bb6297552be81928cfbe57e450.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/f6/f69071f2062809c6c105b659e2714dff788894dd.js" loaded.
+2023-10-25 14:30:59-debug: [[Executor]] Module "pack:///chunks/c1/c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js" loaded.
+2023-10-25 14:30:59-debug: // ---- build task 加载刷新项目脚本 ---- (23ms)
+2023-10-25 14:30:59-debug: run build task 加载刷新项目脚本 success in 23 ms √6%
+2023-10-25 14:30:59-debug: 查询 Asset Bundle start6%
+2023-10-25 14:30:59-debug: // ---- build task 查询 Asset Bundle ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.78MB heapUsed 217.79MB rss 239.05MB
+2023-10-25 14:30:59-debug: run build task 查询 Asset Bundle success in 12 ms √7%
+2023-10-25 14:30:59-debug: // ---- build task 查询 Asset Bundle ---- (12ms)
+2023-10-25 14:30:59-debug: 查询使用的资源以及资源包配置 start7%
+2023-10-25 14:30:59-debug: // ---- build task 查询使用的资源以及资源包配置 ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.78MB heapUsed 219.72MB rss 239.06MB
+2023-10-25 14:30:59-debug: init bundle assets
+2023-10-25 14:30:59-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2023-10-25 14:30:59-debug: Start sort share asset in bundle
+2023-10-25 14:30:59-debug: Start sort share asset in bundle internal with assets 20}
+2023-10-25 14:30:59-debug: Number of scenes: 2
+2023-10-25 14:30:59-debug: Start sort share asset in bundle resources with assets 3}
+2023-10-25 14:30:59-debug: Start sort share asset in bundle main with assets 4}
+2023-10-25 14:30:59-debug: Number of assets: 97
+2023-10-25 14:30:59-debug: Number of asset bundle: 3
+2023-10-25 14:30:59-debug: // ---- build task 查询使用的资源以及资源包配置 ---- (16ms)
+2023-10-25 14:30:59-debug: run build task 查询使用的资源以及资源包配置 success in 16 ms √8%
+2023-10-25 14:30:59-debug: 整理脚本分组与脚本数据 start8%
+2023-10-25 14:30:59-debug: // ---- build task 整理脚本分组与脚本数据 ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.78MB heapUsed 220.90MB rss 239.18MB
+2023-10-25 14:30:59-debug: sort script group...
+2023-10-25 14:30:59-debug: run build task 整理脚本分组与脚本数据 success in 0 ms √9%
+2023-10-25 14:30:59-debug: 整理纹理压缩任务 start9%
+2023-10-25 14:30:59-debug: // ---- build task 整理纹理压缩任务 ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.78MB heapUsed 220.98MB rss 239.18MB
+2023-10-25 14:30:59-debug: Number of image-compress task: 4
+2023-10-25 14:30:59-debug: // ---- build task 整理纹理压缩任务 ---- (13ms)
+2023-10-25 14:30:59-debug: 初步划分 JSON 合并分组 start11%
+2023-10-25 14:30:59-debug: // ---- build task 初步划分 JSON 合并分组 ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.78MB heapUsed 221.26MB rss 239.21MB
+2023-10-25 14:30:59-debug: Number of json group with bundle(internal): 1
+2023-10-25 14:30:59-debug: Number of json group with bundle(resources) 1
+2023-10-25 14:30:59-debug: run build task 整理纹理压缩任务 success in 13 ms √11%
+2023-10-25 14:30:59-debug: Start sort the json group of bundle(resources)...
+2023-10-25 14:30:59-debug: Number of json group with bundle(main) 3
+2023-10-25 14:30:59-debug: Start sort the json group of bundle(main)...
+2023-10-25 14:30:59-debug: Number of json group: 4
+2023-10-25 14:30:59-debug: // ---- build task 初步划分 JSON 合并分组 ---- (1ms)
+2023-10-25 14:30:59-debug: run build task 初步划分 JSON 合并分组 success in 1 ms √12%
+2023-10-25 14:30:59-debug: 整理合并压缩 Texture2D 的 JSON 数据 start12%
+2023-10-25 14:30:59-debug: // ---- build task 整理合并压缩 Texture2D 的 JSON 数据 ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.78MB heapUsed 221.43MB rss 239.21MB
+2023-10-25 14:30:59-debug: run build task 整理合并压缩 Texture2D 的 JSON 数据 success in 0 ms √13%
+2023-10-25 14:30:59-debug: 收集 importMap 信息 start13%
+2023-10-25 14:30:59-debug: // ---- build task 收集 importMap 信息 ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.78MB heapUsed 221.52MB rss 239.27MB
+2023-10-25 14:30:59-debug: run build task 收集 importMap 信息 success in 1 ms √14%
+2023-10-25 14:30:59-debug: native:(onBeforeBuildAssets) start...14%
+2023-10-25 14:30:59-debug: // ---- build task 收集 importMap 信息 ---- (1ms)
+2023-10-25 14:30:59-debug: Process: heapTotal 242.78MB heapUsed 221.62MB rss 239.27MB
+2023-10-25 14:30:59-debug: // ---- build task native：onBeforeBuildAssets ----
+2023-10-25 14:30:59-debug: native:(onBeforeBuildAssets) in 0 ms17%
+2023-10-25 14:30:59-debug: 构建自动图集 start17%
+2023-10-25 14:30:59-debug: // ---- build task 构建自动图集 ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.78MB heapUsed 221.70MB rss 239.27MB
+2023-10-25 14:30:59-debug: init texturePacker with packInfo 2
+2023-10-25 14:30:59-debug: Start collect pack info from bundleds
+2023-10-25 14:30:59-debug: start pack images
+2023-10-25 14:30:59-debug: Start pack atlas with cache.
+2023-10-25 14:30:59-debug: Use Cache of pack result about asset db://assets/textures/load/loading/AlatLoad.pac
+2023-10-25 14:30:59-debug: sort pack result
+2023-10-25 14:30:59-debug: Use Cache of pack result about asset db://assets/textures/Hall/Hall/AlaHall.pac
+2023-10-25 14:30:59-debug: remove spriteAtlas._uuid : {asset(ba770580-97db-4073-b0ff-79cd08163a8e)}
+2023-10-25 14:30:59-debug: remove spriteAtlas._uuid : {asset(ba770580-97db-4073-b0ff-79cd08163a8e)}
+2023-10-25 14:30:59-debug: remove spriteAtlas._uuid : {asset(ba770580-97db-4073-b0ff-79cd08163a8e)}
+2023-10-25 14:30:59-debug: pack atlas success
+2023-10-25 14:30:59-debug: builder: pack atlas (2ms)
+2023-10-25 14:30:59-debug: // ---- build task 构建自动图集 ---- (59ms)
+2023-10-25 14:30:59-debug: run build task 构建自动图集 success in 59 ms √23%
+2023-10-25 14:30:59-debug: 图片拷贝压缩任务 start23%
+2023-10-25 14:30:59-debug: // ---- build task 图片拷贝压缩任务 ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.78MB heapUsed 217.57MB rss 243.59MB
+2023-10-25 14:30:59-debug: Use cache compress image of {Asset(34af8651-e384-4c0f-9ca5-c1ae73e045ff)} ({link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\34\34af8651-e384-4c0f-9ca5-c1ae73e045ff.png)}). suffix: .astc@96,.pkm@72,.jpg
+2023-10-25 14:30:59-debug: Use cache compress image of {Asset(5845f5bf-1e37-4110-8dce-f4663fdd3edf)} ({link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\58\5845f5bf-1e37-4110-8dce-f4663fdd3edf.png)}). suffix: .astc@96,.pkm@72,.jpg
+2023-10-25 14:30:59-debug: Use cache compress image of {Asset(f2bf58a0-8f41-4ae3-bf32-72be2938b333)} ({link(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\CompressTexture\f2\f2bf58a0-8f41-4ae3-bf32-72be2938b333.png)}). suffix: .astc@96,.pkm@72,.jpg
+2023-10-25 14:30:59-debug: Num of sorted image asset: 3
+2023-10-25 14:30:59-debug: // ---- build task 图片拷贝压缩任务 ---- (21ms)
+2023-10-25 14:30:59-debug: run build task 图片拷贝压缩任务 success in 21 ms √30%
+2023-10-25 14:30:59-debug: 将资源拷贝到指定位置 start30%
+2023-10-25 14:30:59-debug: // ---- build task 将资源拷贝到指定位置 ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.78MB heapUsed 217.85MB rss 243.71MB
+2023-10-25 14:30:59-debug: Asset Bundle(internal) handle assets: 20
+2023-10-25 14:30:59-debug: Asset Bundle(resources) handle assets: 6
+2023-10-25 14:30:59-debug: Asset Bundle(main) handle assets: 45
+2023-10-25 14:30:59-debug: // ---- build task 将资源拷贝到指定位置 ---- (14ms)
+2023-10-25 14:30:59-debug: run build task 将资源拷贝到指定位置 success in 14 ms √37%
+2023-10-25 14:30:59-debug: 将分组后的 json 与散文件构建到指定位置 start37%
+2023-10-25 14:30:59-debug: // ---- build task 将分组后的 json 与散文件构建到指定位置 ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.78MB heapUsed 219.81MB rss 244.75MB
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-alpha-test-material.mtl)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/default-clear-stencil.mtl)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/default-spine-material.mtl)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-effect-material.mtl)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-material.mtl)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-alpha-sep-material.mtl)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-base-material.mtl)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-material.mtl)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-graphics-material.mtl)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-alpha-sep-material.mtl)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-material.mtl)})
+2023-10-25 14:30:59-debug: Json group(0846c28f0) compile success，json number: 6
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite_splash.png/spriteFrame)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/prefab/common/Tip.prefab)})
+2023-10-25 14:30:59-debug: Json group(0c2dd4a30) compile success，json number: 6
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/btnEff1.wav)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite_splash.png)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_sprite_splash.png/texture)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/audio/bgm.mp3)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/R.jpg)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/Bg_Hall.jpg)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/scenes/Hall.scene)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/R.jpg/spriteFrame)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/Bg_Hall.jpg/spriteFrame)})
+2023-10-25 14:30:59-debug: Json group(0a453de53) compile success，json number: 6
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading05.png/spriteFrame)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading/loading05_shuom.png/spriteFrame)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading/AlatLoad.pac)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/scenes/Login.scene)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading06.png/spriteFrame)})
+2023-10-25 14:30:59-debug: Json group(06353a628) compile success，json number: 6
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading05.png/texture)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading/loading05_shuom.png/texture)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/R.jpg/texture)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/Hall/Bg_Hall.jpg/texture)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading06.png/texture)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/textures/load/loading/AlatLoad.pac)})
+2023-10-25 14:30:59-debug: Json group(0c72fc00a) compile success，json number: 6
+2023-10-25 14:30:59-debug: Json group(0d33a9949) compile success，json number: 6
+2023-10-25 14:30:59-debug: Json group(0d212da1e) compile success，json number: 6
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/physics/default-physics-material.pmtl)})
+2023-10-25 14:30:59-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_renderpipeline/builtin-forward.rpp)})
+2023-10-25 14:30:59-debug: // ---- build task 将分组后的 json 与散文件构建到指定位置 ---- (58ms)
+2023-10-25 14:30:59-debug: run build task 将分组后的 json 与散文件构建到指定位置 success in 58 ms √43%
+2023-10-25 14:30:59-debug: 打包脚本 start43%
+2023-10-25 14:30:59-debug: // ---- build task 打包脚本 ----
+2023-10-25 14:30:59-debug: Process: heapTotal 242.78MB heapUsed 217.67MB rss 242.48MB
+2023-10-25 14:30:59-debug: Caught exception during build core-js: WebpackOptionsValidationError: Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema. - configuration.entry should be an non-empty array.   -> A non-empty array of non-empty stringsThis may indicates the core-js polyfill is not necessary. See https://github.com/zloirock/core-js/issues/822
+2023-10-25 14:31:01-debug: 构建项目脚本 start...43%
+2023-10-25 14:31:01-debug: Process: heapTotal 283.98MB heapUsed 261.30MB rss 283.86MB
+2023-10-25 14:31:01-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+2023-10-25 14:31:02-log: [build-script]enter sub process 12692, D:\AppData\cocos\editors\Creator\Creator\3.7.4\CocosCreator.exe,D:\AppData\cocos\editors\Creator\Creator\3.7.4\resources\app.asar\builtin\builder\static\sub-process-index
+2023-10-25 14:31:05-warn: [build-script][[Build.Script.Rollup]] Circular dependency: file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/manages/GameMgr.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts[warning][[Build.Script.Rollup]] Circular dependency: file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/manages/GameMgr.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/manages/AudioMgr.ts -> file:///E:/Cocos/Project/ROYALTEENPATTI/assets/scripts/tools/Appic.ts
+2023-10-25 14:31:06-debug: excute-script over with build-script 5080ms
+2023-10-25 14:31:06-debug: Copy externalScripts success!
+2023-10-25 14:31:06-debug: 构建项目脚本 in (5111 ms) √43%
+2023-10-25 14:31:06-debug: 构建引擎脚本 start...43%
+2023-10-25 14:31:06-debug: Process: heapTotal 283.98MB heapUsed 261.75MB rss 283.85MB
+2023-10-25 14:31:06-debug: Use cache engine: {link(C:\Users\admin\AppData\Local\Temp\CocosCreator\3.7.4\builder\engine\2e704eaf027ec619357f91bf28e3da61)}
+2023-10-25 14:31:06-debug: {"debug":false,"sourceMaps":false,"includeModules":["2d","animation","audio","base","dragon-bones","gfx-webgl","gfx-webgl2","intersection-2d","particle-2d","physics-2d-box2d","profiler","spine","tiled-map","tween","ui","video","webview"],"engineVersion":"3.7.4","platform":"NATIVE","md5Map":[],"engineName":"src/cocos-js","useCache":true,"targets":"chrome 80","flags":{"DEBUG":false},"entry":"D:\\AppData\\cocos\\editors\\Creator\\Creator\\3.7.4\\resources\\resources\\3d\\engine"}
+2023-10-25 14:31:06-debug: 构建引擎脚本 in (58 ms) √43%
+2023-10-25 14:31:06-debug: // ---- build task 打包脚本 ---- (7346ms)
+2023-10-25 14:31:06-debug: run build task 打包脚本 success in 7346 ms √50%
+2023-10-25 14:31:06-debug: 压缩 Zip Bundle start50%
+2023-10-25 14:31:06-debug: Process: heapTotal 283.98MB heapUsed 264.19MB rss 284.06MB
+2023-10-25 14:31:06-debug: // ---- build task 压缩 Zip Bundle ----
+2023-10-25 14:31:06-debug: // ---- build task 压缩 Zip Bundle ---- (1ms)
+2023-10-25 14:31:06-debug: run build task 压缩 Zip Bundle success in 1 ms √57%
+2023-10-25 14:31:06-debug: native:(onAfterBuildAssets) start...57%
+2023-10-25 14:31:06-debug: // ---- build task native：onAfterBuildAssets ----
+2023-10-25 14:31:06-debug: Process: heapTotal 283.98MB heapUsed 264.29MB rss 284.06MB
+2023-10-25 14:31:06-debug: native:(onAfterBuildAssets) in 0 ms59%
+2023-10-25 14:31:06-debug: 给所有的资源加上 MD5 后缀 start59%
+2023-10-25 14:31:06-debug: // ---- build task 给所有的资源加上 MD5 后缀 ----
+2023-10-25 14:31:06-debug: Process: heapTotal 283.98MB heapUsed 264.37MB rss 284.06MB
+2023-10-25 14:31:06-debug: run build task 给所有的资源加上 MD5 后缀 success in 0 ms √69%
+2023-10-25 14:31:06-debug: 初始化 settings.json 与 config.json start69%
+2023-10-25 14:31:06-debug: // ---- build task 初始化 settings.json 与 config.json ----
+2023-10-25 14:31:06-debug: Process: heapTotal 283.98MB heapUsed 264.44MB rss 284.06MB
+2023-10-25 14:31:06-debug: run build task 初始化 settings.json 与 config.json success in 0 ms √69%
+2023-10-25 14:31:06-debug: builder.tasks.settings.macro 字段未在编辑器多语言内定义
+2023-10-25 14:31:06-debug: builder.tasks.settings.macro start69%
+2023-10-25 14:31:06-debug: // ---- build task builder.tasks.settings.macro ----
+2023-10-25 14:31:06-debug: Process: heapTotal 283.98MB heapUsed 264.53MB rss 284.06MB
+2023-10-25 14:31:06-debug: // ---- build task builder.tasks.settings.macro ---- (7ms)
+2023-10-25 14:31:06-debug: run build task builder.tasks.settings.macro success in 7 ms √70%
+2023-10-25 14:31:06-debug: 整理部分构建选项内数据到 settings.json start70%
+2023-10-25 14:31:06-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-10-25 14:31:06-debug: Process: heapTotal 283.98MB heapUsed 264.61MB rss 284.06MB
+2023-10-25 14:31:06-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (11ms)
+2023-10-25 14:31:06-debug: run build task 整理部分构建选项内数据到 settings.json success in 11 ms √71%
+2023-10-25 14:31:06-debug: custom joint texture layouts start71%
+2023-10-25 14:31:06-debug: // ---- build task custom joint texture layouts ----
+2023-10-25 14:31:06-debug: Process: heapTotal 284.45MB heapUsed 265.16MB rss 285.30MB
+2023-10-25 14:31:06-debug: // ---- build task custom joint texture layouts ---- (8ms)
+2023-10-25 14:31:06-debug: run build task custom joint texture layouts success in 8 ms √71%
+2023-10-25 14:31:06-debug: custom joint physics start71%
+2023-10-25 14:31:06-debug: // ---- build task custom joint physics ----
+2023-10-25 14:31:06-debug: Process: heapTotal 284.45MB heapUsed 265.24MB rss 285.30MB
+2023-10-25 14:31:06-debug: run build task custom joint physics success in 0 ms √72%
+2023-10-25 14:31:06-debug: 填充脚本数据到 settings.json start72%
+2023-10-25 14:31:06-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-10-25 14:31:06-debug: Process: heapTotal 284.45MB heapUsed 265.31MB rss 285.30MB
+2023-10-25 14:31:06-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2023-10-25 14:31:06-debug: 填充场景数据到 settings.json start72%
+2023-10-25 14:31:06-debug: run build task 填充脚本数据到 settings.json success in 1 ms √72%
+2023-10-25 14:31:06-debug: // ---- build task 填充场景数据到 settings.json ----
+2023-10-25 14:31:06-debug: Process: heapTotal 284.45MB heapUsed 265.39MB rss 285.30MB
+2023-10-25 14:31:06-debug: // ---- build task 填充场景数据到 settings.json ---- (1ms)
+2023-10-25 14:31:06-debug: run build task 填充场景数据到 settings.json success in 1 ms √73%
+2023-10-25 14:31:06-debug: 整理资源分组，生成 packedAssets 以及 rawAssets 数据 start73%
+2023-10-25 14:31:06-debug: // ---- build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 ----
+2023-10-25 14:31:06-debug: Process: heapTotal 284.95MB heapUsed 261.05MB rss 285.34MB
+2023-10-25 14:31:06-debug: run build task 整理资源分组，生成 packedAssets 以及 rawAssets 数据 success in 0 ms √73%
+2023-10-25 14:31:06-debug: 从 suffixMap 生成 md5AssetsMap 到 settings.json start73%
+2023-10-25 14:31:06-debug: // ---- build task 从 suffixMap 生成 md5AssetsMap 到 settings.json ----
+2023-10-25 14:31:06-debug: Process: heapTotal 284.95MB heapUsed 261.14MB rss 285.34MB
+2023-10-25 14:31:06-debug: options.md5Cache is false.
+2023-10-25 14:31:06-debug: // ---- build task 从 suffixMap 生成 md5AssetsMap 到 settings.json ---- (1ms)
+2023-10-25 14:31:06-debug: run build task 从 suffixMap 生成 md5AssetsMap 到 settings.json success in 1 ms √74%
+2023-10-25 14:31:06-debug: cocos-service:(onBeforeCompressSettings) start...74%
+2023-10-25 14:31:06-debug: Process: heapTotal 284.95MB heapUsed 261.26MB rss 285.34MB
+2023-10-25 14:31:06-debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+2023-10-25 14:31:07-debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (208ms)
+2023-10-25 14:31:07-debug: cocos-service:(onBeforeCompressSettings) in 208 ms76%
+2023-10-25 14:31:07-debug: 生成 import-map.json start76%
+2023-10-25 14:31:07-debug: // ---- build task 生成 import-map.json ----
+2023-10-25 14:31:07-debug: Process: heapTotal 284.95MB heapUsed 261.35MB rss 284.68MB
+2023-10-25 14:31:07-debug: // ---- build task 生成 import-map.json ---- (1ms)
+2023-10-25 14:31:07-debug: run build task 生成 import-map.json success in 1 ms √77%
+2023-10-25 14:31:07-debug: 压缩 config.json 与 settings.json start77%
+2023-10-25 14:31:07-debug: // ---- build task 压缩 config.json 与 settings.json ----
+2023-10-25 14:31:07-debug: Process: heapTotal 284.95MB heapUsed 261.43MB rss 284.68MB
+2023-10-25 14:31:07-debug: // ---- build task 压缩 config.json 与 settings.json ---- (1ms)
+2023-10-25 14:31:07-debug: run build task 压缩 config.json 与 settings.json success in 1 ms √78%
+2023-10-25 14:31:07-debug: 保存 config.json start78%
+2023-10-25 14:31:07-debug: // ---- build task 保存 config.json ----
+2023-10-25 14:31:07-debug: Process: heapTotal 284.95MB heapUsed 261.57MB rss 284.69MB
+2023-10-25 14:31:07-debug: // ---- build task 保存 config.json ---- (1ms)
+2023-10-25 14:31:07-debug: run build task 保存 config.json success in 1 ms √79%
+2023-10-25 14:31:07-debug: 保存 settings.json start79%
+2023-10-25 14:31:07-debug: // ---- build task 保存 settings.json ----
+2023-10-25 14:31:07-debug: Process: heapTotal 284.95MB heapUsed 261.67MB rss 284.69MB
+2023-10-25 14:31:07-debug: // ---- build task 保存 settings.json ---- (3ms)
+2023-10-25 14:31:07-debug: run build task 保存 settings.json success in 3 ms √79%
+2023-10-25 14:31:07-debug: 保存 settings.json start79%
+2023-10-25 14:31:07-debug: // ---- build task 保存 settings.json ----
+2023-10-25 14:31:07-debug: Process: heapTotal 285.88MB heapUsed 263.16MB rss 286.09MB
+2023-10-25 14:31:07-debug: run build task 保存 settings.json success in 0 ms √80%
+2023-10-25 14:31:07-debug: 整理静态模板文件 start80%
+2023-10-25 14:31:07-debug: // ---- build task 整理静态模板文件 ----
+2023-10-25 14:31:07-debug: Process: heapTotal 285.88MB heapUsed 263.23MB rss 286.09MB
+2023-10-25 14:31:07-debug: // ---- build task 整理静态模板文件 ---- (20ms)
+2023-10-25 14:31:07-debug: run build task 整理静态模板文件 success in 20 ms √81%
+2023-10-25 14:31:07-debug: native:(onAfterCompressSettings) start...81%
+2023-10-25 14:31:07-debug: Process: heapTotal 285.88MB heapUsed 264.49MB rss 286.38MB
+2023-10-25 14:31:07-debug: // ---- build task native：onAfterCompressSettings ----
+2023-10-25 14:31:07-log: Checking template version...
+2023-10-25 14:31:07-log: Validating template consistency...
+2023-10-25 14:31:07-debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 ON)","CC_USE_GLES2":"set(CC_USE_GLES2 ON)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY OFF)","APP_NAME":"set(APP_NAME ROYALTEENPATTI)","COCOS_X_PATH":"set(COCOS_X_PATH \"D:/AppData/cocos/editors/Creator/Creator/3.7.4/resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_ANTIALIAS_FXAA":"set(ENABLE_ANTIALIAS_FXAA OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY OFF)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER OFF)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER OFF)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SOCKET":"set(USE_SOCKET OFF)","USE_WEBSOCKET_SERVER":"set(USE_WEBSOCKET_SERVER OFF)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_VULKAN":"set(CC_USE_VULKAN OFF)"}
+2023-10-25 14:31:07-log: While replace template content, file E:\Cocos\Project\ROYALTEENPATTI\build\android\proj\main.cpp
+2023-10-25 14:31:07-log: While replace template content, file E:\Cocos\Project\ROYALTEENPATTI\build\android\proj\main.m
+2023-10-25 14:31:07-log: While replace template content, file E:\Cocos\Project\ROYALTEENPATTI\native\engine\android/entry/src/main/config.json
+2023-10-25 14:31:07-debug: Start encrypte scripts...
+2023-10-25 14:31:07-debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 ON)","CC_USE_GLES2":"set(CC_USE_GLES2 ON)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"set(XXTEAKEY \"dd9k+YJ/tEo4C2Us\")","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY OFF)","APP_NAME":"set(APP_NAME ROYALTEENPATTI)","COCOS_X_PATH":"set(COCOS_X_PATH \"D:/AppData/cocos/editors/Creator/Creator/3.7.4/resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_ANTIALIAS_FXAA":"set(ENABLE_ANTIALIAS_FXAA OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY OFF)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER OFF)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER OFF)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SOCKET":"set(USE_SOCKET OFF)","USE_WEBSOCKET_SERVER":"set(USE_WEBSOCKET_SERVER OFF)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_VULKAN":"set(CC_USE_VULKAN OFF)"}
+2023-10-25 14:31:07-debug: Encrypte scriptes success
+2023-10-25 14:31:07-log: update settings.properties
+2023-10-25 14:31:07-log: update gradle.properties
+2023-10-25 14:31:07-log: AndroidAPI level 34
+2023-10-25 14:31:07-log: android instant not configured
+2023-10-25 14:31:07-debug: // ---- build task native：onAfterCompressSettings ---- (30ms)
+2023-10-25 14:31:07-debug: native:(onAfterCompressSettings) in 30 ms82%
+2023-10-25 14:31:07-debug: cocos-service:(onAfterCompressSettings) start...82%
+2023-10-25 14:31:07-debug: // ---- build task cocos-service：onAfterCompressSettings ----
+2023-10-25 14:31:07-debug: Process: heapTotal 285.88MB heapUsed 265.73MB rss 286.63MB
+2023-10-25 14:31:07-debug: // ---- build task cocos-service：onAfterCompressSettings ---- (217ms)
+2023-10-25 14:31:07-debug: cocos-service:(onAfterCompressSettings) in 217 ms83%
+2023-10-25 14:31:07-debug: native:(onAfterBuild) start...83%
+2023-10-25 14:31:07-debug: // ---- build task native：onAfterBuild ----
+2023-10-25 14:31:07-debug: Process: heapTotal 285.88MB heapUsed 266.16MB rss 286.60MB
+2023-10-25 14:31:07-debug: // ---- build task native：onAfterBuild ---- (9ms)
+2023-10-25 14:31:07-debug: native:(onAfterBuild) in 9 ms84%
+2023-10-25 14:31:07-debug: cocos-service:(onAfterBuild) start...84%
+2023-10-25 14:31:07-debug: Process: heapTotal 285.88MB heapUsed 266.26MB rss 286.59MB
+2023-10-25 14:31:07-debug: // ---- build task cocos-service：onAfterBuild ----
+2023-10-25 14:31:07-debug: // ---- build task cocos-service：onAfterBuild ---- (167ms)
+2023-10-25 14:31:07-debug: cocos-service:(onAfterBuild) in 167 ms86%
+2023-10-25 14:31:07-log: Asset DB is resume!
+2023-10-25 14:31:07-debug: builder:build-project-total (9111ms)
+2023-10-25 14:31:07-debug: build success in 9111 ms!
+2023-10-25 14:31:07-debug: ================================ build Task (android) Finished in (9116)ms ================================
+2023-10-25 14:31:07-debug: Stop record console. {file(E:\Cocos\Project\ROYALTEENPATTI\temp\builder\log\android2023-10-25 12-05.log)}
+2023-10-25 14:32:48-debug: refresh db internal success
+2023-10-25 14:32:48-debug: asset-db:worker-effect-data-processing (188ms)
+2023-10-25 14:32:48-debug: refresh db assets success
+2023-10-25 14:32:48-debug: asset-db:refresh-all-database (224ms)

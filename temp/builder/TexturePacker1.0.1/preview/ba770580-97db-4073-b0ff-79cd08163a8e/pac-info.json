@@ -1,0 +1,521 @@
+{
+  "cacheFiles": {
+    "ba770580-97db-4073-b0ff-79cd08163a8e": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\ba\\ba770580-97db-4073-b0ff-79cd08163a8e\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "2b32bafd-eab2-4462-bc4f-fabb728745db@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\2b\\2b32bafd-eab2-4462-bc4f-fabb728745db@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "38d491ee-a7cc-455c-9b22-e7c03333622a@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\38\\38d491ee-a7cc-455c-9b22-e7c03333622a@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "392bb7a6-53c3-4536-a4f3-168210151823@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\39\\392bb7a6-53c3-4536-a4f3-168210151823@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "3e3d6dd7-4de2-4abc-8665-01d75f7924a2@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\3e\\3e3d6dd7-4de2-4abc-8665-01d75f7924a2@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "42b010e0-2f84-45f4-b382-c2405aa79e6a@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\42\\42b010e0-2f84-45f4-b382-c2405aa79e6a@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "5b7fc240-08aa-439b-87ec-6bf20a288daf@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\5b\\5b7fc240-08aa-439b-87ec-6bf20a288daf@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "6a61b697-8131-49b4-8701-26de3510750d@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\6a\\6a61b697-8131-49b4-8701-26de3510750d@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "782b39f7-25af-4f9b-b35c-a9d00d42fbc9@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\78\\782b39f7-25af-4f9b-b35c-a9d00d42fbc9@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "94e0bed2-170e-4298-9209-7f53ba507056@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\94\\94e0bed2-170e-4298-9209-7f53ba507056@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "99e381f0-844f-4cfa-8bb1-ad67e32734e8@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\99\\99e381f0-844f-4cfa-8bb1-ad67e32734e8@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "b6b98e5e-56a2-4901-9323-e6246404665f@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\b6\\b6b98e5e-56a2-4901-9323-e6246404665f@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "c6348a46-ed33-418a-a303-bf8ea2d2e1c9@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\c6\\c6348a46-ed33-418a-a303-bf8ea2d2e1c9@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "c7875cb1-ecfd-435e-9ee9-c5c67925c152@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\c7\\c7875cb1-ecfd-435e-9ee9-c5c67925c152@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "ca2cfaaa-752a-4486-9d29-8a20519949bc@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\ca\\ca2cfaaa-752a-4486-9d29-8a20519949bc@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "d602c6c4-903c-4beb-9045-339545828e30@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\d6\\d602c6c4-903c-4beb-9045-339545828e30@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e",
+    "d6b389fe-7d8c-4055-9be5-7efff4a0d1ff@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\d6\\d6b389fe-7d8c-4055-9be5-7efff4a0d1ff@f9941\\build\\ba770580-97db-4073-b0ff-79cd08163a8e"
+  },
+  "sharpMd5": "8c10c",
+  "md5": "d21d7",
+  "versionDev": "1.0.2",
+  "result": {
+    "atlases": [
+      {
+        "imageUuid": "1b025cf12",
+        "textureUuid": "1b025cf12@6c48a",
+        "compressed": {
+          "imagePathNoExt": "",
+          "suffixs": [
+            ".png"
+          ]
+        },
+        "spriteFrameInfos": [
+          {
+            "name": "india_rukou_teen",
+            "uuid": "99e381f0-844f-4cfa-8bb1-ad67e32734e8@f9941",
+            "imageUuid": "99e381f0-844f-4cfa-8bb1-ad67e32734e8",
+            "textureUuid": "99e381f0-844f-4cfa-8bb1-ad67e32734e8@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_rukou_teen.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_99e381f0-844f-4cfa-8bb1-ad67e32734e8@f9941_image_9.png",
+            "trim": {
+              "rotatedWidth": 433,
+              "rotatedHeight": 668,
+              "x": 3,
+              "y": 3,
+              "width": 433,
+              "height": 668
+            },
+            "rawWidth": 433,
+            "rawHeight": 668,
+            "width": 439,
+            "height": 674,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/99/99e381f0-844f-4cfa-8bb1-ad67e32734e8.png",
+            "rotated": false,
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 439,
+            "rotatedHeight": 674
+          },
+          {
+            "name": "india_touxiang_bg",
+            "uuid": "ca2cfaaa-752a-4486-9d29-8a20519949bc@f9941",
+            "imageUuid": "ca2cfaaa-752a-4486-9d29-8a20519949bc",
+            "textureUuid": "ca2cfaaa-752a-4486-9d29-8a20519949bc@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_touxiang_bg.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_ca2cfaaa-752a-4486-9d29-8a20519949bc@f9941_image_13.png",
+            "trim": {
+              "rotatedWidth": 426,
+              "rotatedHeight": 160,
+              "x": 3,
+              "y": 677,
+              "width": 426,
+              "height": 160
+            },
+            "rawWidth": 426,
+            "rawHeight": 160,
+            "width": 432,
+            "height": 166,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/ca/ca2cfaaa-752a-4486-9d29-8a20519949bc.png",
+            "rotated": false,
+            "x": 0,
+            "y": 674,
+            "rotatedWidth": 432,
+            "rotatedHeight": 166
+          },
+          {
+            "name": "india_anniu_fx",
+            "uuid": "3e3d6dd7-4de2-4abc-8665-01d75f7924a2@f9941",
+            "imageUuid": "3e3d6dd7-4de2-4abc-8665-01d75f7924a2",
+            "textureUuid": "3e3d6dd7-4de2-4abc-8665-01d75f7924a2@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_anniu_fx.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_3e3d6dd7-4de2-4abc-8665-01d75f7924a2@f9941_image_3.png",
+            "trim": {
+              "rotatedWidth": 120,
+              "rotatedHeight": 142,
+              "x": 3,
+              "y": 843,
+              "width": 142,
+              "height": 120
+            },
+            "rawWidth": 142,
+            "rawHeight": 120,
+            "width": 148,
+            "height": 126,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/3e/3e3d6dd7-4de2-4abc-8665-01d75f7924a2.png",
+            "rotated": true,
+            "x": 0,
+            "y": 840,
+            "rotatedWidth": 126,
+            "rotatedHeight": 148
+          },
+          {
+            "name": "indiahongdian_bg",
+            "uuid": "2b32bafd-eab2-4462-bc4f-fabb728745db@f9941",
+            "imageUuid": "2b32bafd-eab2-4462-bc4f-fabb728745db",
+            "textureUuid": "2b32bafd-eab2-4462-bc4f-fabb728745db@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\indiahongdian_bg.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_2b32bafd-eab2-4462-bc4f-fabb728745db@f9941_image_0.png",
+            "trim": {
+              "rotatedWidth": 128,
+              "rotatedHeight": 130,
+              "x": 129,
+              "y": 843,
+              "width": 128,
+              "height": 130
+            },
+            "rawWidth": 128,
+            "rawHeight": 130,
+            "width": 134,
+            "height": 136,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/2b/2b32bafd-eab2-4462-bc4f-fabb728745db.png",
+            "rotated": false,
+            "x": 126,
+            "y": 840,
+            "rotatedWidth": 134,
+            "rotatedHeight": 136
+          },
+          {
+            "name": "india_anniu_lxqd",
+            "uuid": "392bb7a6-53c3-4536-a4f3-168210151823@f9941",
+            "imageUuid": "392bb7a6-53c3-4536-a4f3-168210151823",
+            "textureUuid": "392bb7a6-53c3-4536-a4f3-168210151823@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_anniu_lxqd.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_392bb7a6-53c3-4536-a4f3-168210151823@f9941_image_2.png",
+            "trim": {
+              "rotatedWidth": 121,
+              "rotatedHeight": 128,
+              "x": 263,
+              "y": 843,
+              "width": 128,
+              "height": 121
+            },
+            "rawWidth": 128,
+            "rawHeight": 121,
+            "width": 134,
+            "height": 127,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/39/392bb7a6-53c3-4536-a4f3-168210151823.png",
+            "rotated": true,
+            "x": 260,
+            "y": 840,
+            "rotatedWidth": 127,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "india_anniu_sz",
+            "uuid": "42b010e0-2f84-45f4-b382-c2405aa79e6a@f9941",
+            "imageUuid": "42b010e0-2f84-45f4-b382-c2405aa79e6a",
+            "textureUuid": "42b010e0-2f84-45f4-b382-c2405aa79e6a@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_anniu_sz.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_42b010e0-2f84-45f4-b382-c2405aa79e6a@f9941_image_4.png",
+            "trim": {
+              "rotatedWidth": 117,
+              "rotatedHeight": 117,
+              "x": 390,
+              "y": 843,
+              "width": 117,
+              "height": 117
+            },
+            "rawWidth": 117,
+            "rawHeight": 117,
+            "width": 123,
+            "height": 123,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/42/42b010e0-2f84-45f4-b382-c2405aa79e6a.png",
+            "rotated": false,
+            "x": 387,
+            "y": 840,
+            "rotatedWidth": 123,
+            "rotatedHeight": 123
+          },
+          {
+            "name": "india_jinbidi_bg",
+            "uuid": "6a61b697-8131-49b4-8701-26de3510750d@f9941",
+            "imageUuid": "6a61b697-8131-49b4-8701-26de3510750d",
+            "textureUuid": "6a61b697-8131-49b4-8701-26de3510750d@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_jinbidi_bg.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_6a61b697-8131-49b4-8701-26de3510750d@f9941_image_6.png",
+            "trim": {
+              "rotatedWidth": 259,
+              "rotatedHeight": 47,
+              "x": 390,
+              "y": 966,
+              "width": 259,
+              "height": 47
+            },
+            "rawWidth": 259,
+            "rawHeight": 47,
+            "width": 265,
+            "height": 53,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/6a/6a61b697-8131-49b4-8701-26de3510750d.png",
+            "rotated": false,
+            "x": 387,
+            "y": 963,
+            "rotatedWidth": 265,
+            "rotatedHeight": 53
+          },
+          {
+            "name": "india_anniu_kf",
+            "uuid": "782b39f7-25af-4f9b-b35c-a9d00d42fbc9@f9941",
+            "imageUuid": "782b39f7-25af-4f9b-b35c-a9d00d42fbc9",
+            "textureUuid": "782b39f7-25af-4f9b-b35c-a9d00d42fbc9@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_anniu_kf.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_782b39f7-25af-4f9b-b35c-a9d00d42fbc9@f9941_image_7.png",
+            "trim": {
+              "rotatedWidth": 117,
+              "rotatedHeight": 117,
+              "x": 435,
+              "y": 677,
+              "width": 117,
+              "height": 117
+            },
+            "rawWidth": 117,
+            "rawHeight": 117,
+            "width": 123,
+            "height": 123,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/78/782b39f7-25af-4f9b-b35c-a9d00d42fbc9.png",
+            "rotated": false,
+            "x": 432,
+            "y": 674,
+            "rotatedWidth": 123,
+            "rotatedHeight": 123
+          },
+          {
+            "name": "india_anniu_yj",
+            "uuid": "c6348a46-ed33-418a-a303-bf8ea2d2e1c9@f9941",
+            "imageUuid": "c6348a46-ed33-418a-a303-bf8ea2d2e1c9",
+            "textureUuid": "c6348a46-ed33-418a-a303-bf8ea2d2e1c9@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_anniu_yj.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_c6348a46-ed33-418a-a303-bf8ea2d2e1c9@f9941_image_11.png",
+            "trim": {
+              "rotatedWidth": 111,
+              "rotatedHeight": 112,
+              "x": 513,
+              "y": 800,
+              "width": 111,
+              "height": 112
+            },
+            "rawWidth": 111,
+            "rawHeight": 112,
+            "width": 117,
+            "height": 118,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/c6/c6348a46-ed33-418a-a303-bf8ea2d2e1c9.png",
+            "rotated": false,
+            "x": 510,
+            "y": 797,
+            "rotatedWidth": 117,
+            "rotatedHeight": 118
+          },
+          {
+            "name": "india_rukou_dntg",
+            "uuid": "94e0bed2-170e-4298-9209-7f53ba507056@f9941",
+            "imageUuid": "94e0bed2-170e-4298-9209-7f53ba507056",
+            "textureUuid": "94e0bed2-170e-4298-9209-7f53ba507056@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_rukou_dntg.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_94e0bed2-170e-4298-9209-7f53ba507056@f9941_image_8.png",
+            "trim": {
+              "rotatedWidth": 383,
+              "rotatedHeight": 685,
+              "x": 558,
+              "y": 3,
+              "width": 383,
+              "height": 685
+            },
+            "rawWidth": 383,
+            "rawHeight": 685,
+            "width": 389,
+            "height": 691,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/94/94e0bed2-170e-4298-9209-7f53ba507056.png",
+            "rotated": false,
+            "x": 555,
+            "y": 0,
+            "rotatedWidth": 389,
+            "rotatedHeight": 691
+          },
+          {
+            "name": "india_jinbi_bg",
+            "uuid": "d602c6c4-903c-4beb-9045-339545828e30@f9941",
+            "imageUuid": "d602c6c4-903c-4beb-9045-339545828e30",
+            "textureUuid": "d602c6c4-903c-4beb-9045-339545828e30@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_jinbi_bg.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_d602c6c4-903c-4beb-9045-339545828e30@f9941_image_14.png",
+            "trim": {
+              "rotatedWidth": 51,
+              "rotatedHeight": 53,
+              "x": 558,
+              "y": 694,
+              "width": 51,
+              "height": 53
+            },
+            "rawWidth": 51,
+            "rawHeight": 53,
+            "width": 57,
+            "height": 59,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/d6/d602c6c4-903c-4beb-9045-339545828e30.png",
+            "rotated": false,
+            "x": 555,
+            "y": 691,
+            "rotatedWidth": 57,
+            "rotatedHeight": 59
+          },
+          {
+            "name": "india_jiahao_kf",
+            "uuid": "d6b389fe-7d8c-4055-9be5-7efff4a0d1ff@f9941",
+            "imageUuid": "d6b389fe-7d8c-4055-9be5-7efff4a0d1ff",
+            "textureUuid": "d6b389fe-7d8c-4055-9be5-7efff4a0d1ff@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_jiahao_kf.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_d6b389fe-7d8c-4055-9be5-7efff4a0d1ff@f9941_image_15.png",
+            "trim": {
+              "rotatedWidth": 50,
+              "rotatedHeight": 50,
+              "x": 615,
+              "y": 694,
+              "width": 50,
+              "height": 50
+            },
+            "rawWidth": 50,
+            "rawHeight": 50,
+            "width": 56,
+            "height": 56,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/d6/d6b389fe-7d8c-4055-9be5-7efff4a0d1ff.png",
+            "rotated": false,
+            "x": 612,
+            "y": 691,
+            "rotatedWidth": 56,
+            "rotatedHeight": 56
+          }
+        ],
+        "width": 944,
+        "height": 1016,
+        "name": "AlaHall-0",
+        "imagePath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\preview\\ba770580-97db-4073-b0ff-79cd08163a8e\\1b025cf12.png"
+      },
+      {
+        "imageUuid": "1d212da1e",
+        "textureUuid": "1d212da1e@6c48a",
+        "compressed": {
+          "imagePathNoExt": "",
+          "suffixs": [
+            ".png"
+          ]
+        },
+        "spriteFrameInfos": [
+          {
+            "name": "india_rukou_cs",
+            "uuid": "b6b98e5e-56a2-4901-9323-e6246404665f@f9941",
+            "imageUuid": "b6b98e5e-56a2-4901-9323-e6246404665f",
+            "textureUuid": "b6b98e5e-56a2-4901-9323-e6246404665f@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_rukou_cs.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_b6b98e5e-56a2-4901-9323-e6246404665f@f9941_image_10.png",
+            "trim": {
+              "rotatedWidth": 373,
+              "rotatedHeight": 689,
+              "x": 3,
+              "y": 3,
+              "width": 373,
+              "height": 689
+            },
+            "rawWidth": 373,
+            "rawHeight": 689,
+            "width": 379,
+            "height": 695,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/b6/b6b98e5e-56a2-4901-9323-e6246404665f.png",
+            "rotated": false,
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 379,
+            "rotatedHeight": 695
+          },
+          {
+            "name": "india_rukou_tmfk",
+            "uuid": "c7875cb1-ecfd-435e-9ee9-c5c67925c152@f9941",
+            "imageUuid": "c7875cb1-ecfd-435e-9ee9-c5c67925c152",
+            "textureUuid": "c7875cb1-ecfd-435e-9ee9-c5c67925c152@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_rukou_tmfk.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_c7875cb1-ecfd-435e-9ee9-c5c67925c152@f9941_image_12.png",
+            "trim": {
+              "rotatedWidth": 346,
+              "rotatedHeight": 667,
+              "x": 382,
+              "y": 3,
+              "width": 346,
+              "height": 667
+            },
+            "rawWidth": 346,
+            "rawHeight": 667,
+            "width": 352,
+            "height": 673,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/c7/c7875cb1-ecfd-435e-9ee9-c5c67925c152.png",
+            "rotated": false,
+            "x": 379,
+            "y": 0,
+            "rotatedWidth": 352,
+            "rotatedHeight": 673
+          }
+        ],
+        "width": 731,
+        "height": 695,
+        "name": "AlaHall-1",
+        "imagePath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\preview\\ba770580-97db-4073-b0ff-79cd08163a8e\\1d212da1e.png"
+      },
+      {
+        "imageUuid": "146b7e2b9",
+        "textureUuid": "146b7e2b9@6c48a",
+        "compressed": {
+          "imagePathNoExt": "",
+          "suffixs": [
+            ".png"
+          ]
+        },
+        "spriteFrameInfos": [
+          {
+            "name": "india_rukou_mlcs",
+            "uuid": "38d491ee-a7cc-455c-9b22-e7c03333622a@f9941",
+            "imageUuid": "38d491ee-a7cc-455c-9b22-e7c03333622a",
+            "textureUuid": "38d491ee-a7cc-455c-9b22-e7c03333622a@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_rukou_mlcs.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_38d491ee-a7cc-455c-9b22-e7c03333622a@f9941_image_1.png",
+            "trim": {
+              "rotatedWidth": 347,
+              "rotatedHeight": 657,
+              "x": 3,
+              "y": 3,
+              "width": 347,
+              "height": 657
+            },
+            "rawWidth": 347,
+            "rawHeight": 657,
+            "width": 353,
+            "height": 663,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/38/38d491ee-a7cc-455c-9b22-e7c03333622a.png",
+            "rotated": false,
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 353,
+            "rotatedHeight": 663
+          }
+        ],
+        "width": 353,
+        "height": 663,
+        "name": "AlaHall-2",
+        "imagePath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\preview\\ba770580-97db-4073-b0ff-79cd08163a8e\\146b7e2b9.png"
+      }
+    ],
+    "options": {
+      "name": "AlaHall",
+      "width": 1024,
+      "height": 1024,
+      "destDir": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\preview\\ba770580-97db-4073-b0ff-79cd08163a8e",
+      "maxWidth": 1024,
+      "maxHeight": 1024,
+      "padding": 2,
+      "allowRotation": true,
+      "forceSquared": false,
+      "powerOfTwo": false,
+      "algorithm": "MaxRects",
+      "format": "png",
+      "quality": 80,
+      "contourBleed": true,
+      "paddingBleed": true,
+      "filterUnused": true,
+      "removeTextureInBundle": true,
+      "removeImageInBundle": true,
+      "removeSpriteAtlasInBundle": true,
+      "compressSettings": {},
+      "textureSetting": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "bleed": 1
+    },
+    "unpackedImages": [
+      {
+        "name": "india_di_bg",
+        "uuid": "5b7fc240-08aa-439b-87ec-6bf20a288daf@f9941",
+        "imageUuid": "5b7fc240-08aa-439b-87ec-6bf20a288daf",
+        "textureUuid": "5b7fc240-08aa-439b-87ec-6bf20a288daf@6c48a",
+        "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\Hall\\Hall\\india_di_bg.png",
+        "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_5b7fc240-08aa-439b-87ec-6bf20a288daf@f9941_image_5.png",
+        "trim": {
+          "rotatedWidth": 2081,
+          "rotatedHeight": 119,
+          "x": 0,
+          "y": 0,
+          "width": 2081,
+          "height": 119
+        },
+        "rawWidth": 2081,
+        "rawHeight": 119,
+        "width": 2087,
+        "height": 125,
+        "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/5b/5b7fc240-08aa-439b-87ec-6bf20a288daf.png",
+        "rotated": false
+      }
+    ]
+  }
+}

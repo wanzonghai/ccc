@@ -1,0 +1,227 @@
+{
+  "cacheFiles": {
+    "95674462-e831-4900-aa0a-e9d47f68beb2": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\95\\95674462-e831-4900-aa0a-e9d47f68beb2\\build\\95674462-e831-4900-aa0a-e9d47f68beb2",
+    "38d491ee-a7cc-455c-9b22-e7c03333622a@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\38\\38d491ee-a7cc-455c-9b22-e7c03333622a@f9941\\build\\95674462-e831-4900-aa0a-e9d47f68beb2",
+    "94e0bed2-170e-4298-9209-7f53ba507056@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\94\\94e0bed2-170e-4298-9209-7f53ba507056@f9941\\build\\95674462-e831-4900-aa0a-e9d47f68beb2",
+    "99e381f0-844f-4cfa-8bb1-ad67e32734e8@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\99\\99e381f0-844f-4cfa-8bb1-ad67e32734e8@f9941\\build\\95674462-e831-4900-aa0a-e9d47f68beb2",
+    "b6b98e5e-56a2-4901-9323-e6246404665f@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\b6\\b6b98e5e-56a2-4901-9323-e6246404665f@f9941\\build\\95674462-e831-4900-aa0a-e9d47f68beb2",
+    "c7875cb1-ecfd-435e-9ee9-c5c67925c152@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\c7\\c7875cb1-ecfd-435e-9ee9-c5c67925c152@f9941\\build\\95674462-e831-4900-aa0a-e9d47f68beb2"
+  },
+  "sharpMd5": "8c10c",
+  "md5": "40462",
+  "versionDev": "1.0.2",
+  "result": {
+    "atlases": [
+      {
+        "imageUuid": "1e2620826",
+        "textureUuid": "1e2620826@6c48a",
+        "compressed": {
+          "imagePathNoExt": "",
+          "suffixs": [
+            ".png"
+          ]
+        },
+        "spriteFrameInfos": [
+          {
+            "name": "india_rukou_teen",
+            "uuid": "99e381f0-844f-4cfa-8bb1-ad67e32734e8@f9941",
+            "imageUuid": "99e381f0-844f-4cfa-8bb1-ad67e32734e8",
+            "textureUuid": "99e381f0-844f-4cfa-8bb1-ad67e32734e8@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\resources\\texture\\hall\\india_rukou_teen.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_99e381f0-844f-4cfa-8bb1-ad67e32734e8@f9941_image_2.png",
+            "trim": {
+              "rotatedWidth": 433,
+              "rotatedHeight": 668,
+              "x": 3,
+              "y": 3,
+              "width": 433,
+              "height": 668
+            },
+            "rawWidth": 433,
+            "rawHeight": 668,
+            "width": 439,
+            "height": 674,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/99/99e381f0-844f-4cfa-8bb1-ad67e32734e8.png",
+            "rotated": false,
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 439,
+            "rotatedHeight": 674
+          },
+          {
+            "name": "india_rukou_dntg",
+            "uuid": "94e0bed2-170e-4298-9209-7f53ba507056@f9941",
+            "imageUuid": "94e0bed2-170e-4298-9209-7f53ba507056",
+            "textureUuid": "94e0bed2-170e-4298-9209-7f53ba507056@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\resources\\texture\\hall\\india_rukou_dntg.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_94e0bed2-170e-4298-9209-7f53ba507056@f9941_image_1.png",
+            "trim": {
+              "rotatedWidth": 383,
+              "rotatedHeight": 685,
+              "x": 442,
+              "y": 3,
+              "width": 383,
+              "height": 685
+            },
+            "rawWidth": 383,
+            "rawHeight": 685,
+            "width": 389,
+            "height": 691,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/94/94e0bed2-170e-4298-9209-7f53ba507056.png",
+            "rotated": false,
+            "x": 439,
+            "y": 0,
+            "rotatedWidth": 389,
+            "rotatedHeight": 691
+          }
+        ],
+        "width": 828,
+        "height": 691,
+        "name": "hallAltals-0",
+        "imagePath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\preview\\95674462-e831-4900-aa0a-e9d47f68beb2\\1e2620826.png"
+      },
+      {
+        "imageUuid": "1d212da1e",
+        "textureUuid": "1d212da1e@6c48a",
+        "compressed": {
+          "imagePathNoExt": "",
+          "suffixs": [
+            ".png"
+          ]
+        },
+        "spriteFrameInfos": [
+          {
+            "name": "india_rukou_cs",
+            "uuid": "b6b98e5e-56a2-4901-9323-e6246404665f@f9941",
+            "imageUuid": "b6b98e5e-56a2-4901-9323-e6246404665f",
+            "textureUuid": "b6b98e5e-56a2-4901-9323-e6246404665f@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\resources\\texture\\hall\\india_rukou_cs.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_b6b98e5e-56a2-4901-9323-e6246404665f@f9941_image_3.png",
+            "trim": {
+              "rotatedWidth": 373,
+              "rotatedHeight": 689,
+              "x": 3,
+              "y": 3,
+              "width": 373,
+              "height": 689
+            },
+            "rawWidth": 373,
+            "rawHeight": 689,
+            "width": 379,
+            "height": 695,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/b6/b6b98e5e-56a2-4901-9323-e6246404665f.png",
+            "rotated": false,
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 379,
+            "rotatedHeight": 695
+          },
+          {
+            "name": "india_rukou_tmfk",
+            "uuid": "c7875cb1-ecfd-435e-9ee9-c5c67925c152@f9941",
+            "imageUuid": "c7875cb1-ecfd-435e-9ee9-c5c67925c152",
+            "textureUuid": "c7875cb1-ecfd-435e-9ee9-c5c67925c152@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\resources\\texture\\hall\\india_rukou_tmfk.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_c7875cb1-ecfd-435e-9ee9-c5c67925c152@f9941_image_4.png",
+            "trim": {
+              "rotatedWidth": 346,
+              "rotatedHeight": 667,
+              "x": 382,
+              "y": 3,
+              "width": 346,
+              "height": 667
+            },
+            "rawWidth": 346,
+            "rawHeight": 667,
+            "width": 352,
+            "height": 673,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/c7/c7875cb1-ecfd-435e-9ee9-c5c67925c152.png",
+            "rotated": false,
+            "x": 379,
+            "y": 0,
+            "rotatedWidth": 352,
+            "rotatedHeight": 673
+          }
+        ],
+        "width": 731,
+        "height": 695,
+        "name": "hallAltals-1",
+        "imagePath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\preview\\95674462-e831-4900-aa0a-e9d47f68beb2\\1d212da1e.png"
+      },
+      {
+        "imageUuid": "146b7e2b9",
+        "textureUuid": "146b7e2b9@6c48a",
+        "compressed": {
+          "imagePathNoExt": "",
+          "suffixs": [
+            ".png"
+          ]
+        },
+        "spriteFrameInfos": [
+          {
+            "name": "india_rukou_mlcs",
+            "uuid": "38d491ee-a7cc-455c-9b22-e7c03333622a@f9941",
+            "imageUuid": "38d491ee-a7cc-455c-9b22-e7c03333622a",
+            "textureUuid": "38d491ee-a7cc-455c-9b22-e7c03333622a@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\resources\\texture\\hall\\india_rukou_mlcs.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_38d491ee-a7cc-455c-9b22-e7c03333622a@f9941_image_0.png",
+            "trim": {
+              "rotatedWidth": 347,
+              "rotatedHeight": 657,
+              "x": 3,
+              "y": 3,
+              "width": 347,
+              "height": 657
+            },
+            "rawWidth": 347,
+            "rawHeight": 657,
+            "width": 353,
+            "height": 663,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/38/38d491ee-a7cc-455c-9b22-e7c03333622a.png",
+            "rotated": false,
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 353,
+            "rotatedHeight": 663
+          }
+        ],
+        "width": 353,
+        "height": 663,
+        "name": "hallAltals-2",
+        "imagePath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\preview\\95674462-e831-4900-aa0a-e9d47f68beb2\\146b7e2b9.png"
+      }
+    ],
+    "options": {
+      "name": "hallAltals",
+      "width": 1024,
+      "height": 1024,
+      "destDir": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\preview\\95674462-e831-4900-aa0a-e9d47f68beb2",
+      "maxWidth": 1024,
+      "maxHeight": 1024,
+      "padding": 2,
+      "allowRotation": true,
+      "forceSquared": false,
+      "powerOfTwo": false,
+      "algorithm": "MaxRects",
+      "format": "png",
+      "quality": 80,
+      "contourBleed": true,
+      "paddingBleed": true,
+      "filterUnused": true,
+      "removeTextureInBundle": true,
+      "removeImageInBundle": true,
+      "removeSpriteAtlasInBundle": true,
+      "compressSettings": {},
+      "textureSetting": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "bleed": 1
+    },
+    "unpackedImages": []
+  }
+}

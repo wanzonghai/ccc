@@ -1,0 +1,165 @@
+{
+  "cacheFiles": {
+    "64374f03-34e8-4ca8-9ba1-2660893dc175": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\64\\64374f03-34e8-4ca8-9ba1-2660893dc175\\build\\64374f03-34e8-4ca8-9ba1-2660893dc175",
+    "0b6dc853-77fc-46e9-a546-e53720bb0c7e@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\0b\\0b6dc853-77fc-46e9-a546-e53720bb0c7e@f9941\\build\\64374f03-34e8-4ca8-9ba1-2660893dc175",
+    "5845f5bf-1e37-4110-8dce-f4663fdd3edf@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\58\\5845f5bf-1e37-4110-8dce-f4663fdd3edf@f9941\\build\\64374f03-34e8-4ca8-9ba1-2660893dc175",
+    "93477df3-9177-4377-a8cb-4b2196b62465@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\93\\93477df3-9177-4377-a8cb-4b2196b62465@f9941\\build\\64374f03-34e8-4ca8-9ba1-2660893dc175",
+    "b4e0f30f-e700-4096-963e-05f932f08f6c@f9941": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\asset-db\\assets\\b4\\b4e0f30f-e700-4096-963e-05f932f08f6c@f9941\\build\\64374f03-34e8-4ca8-9ba1-2660893dc175"
+  },
+  "sharpMd5": "8c10c",
+  "md5": "a59d6",
+  "versionDev": "1.0.2",
+  "result": {
+    "atlases": [
+      {
+        "imageUuid": "110ef0ae6",
+        "textureUuid": "110ef0ae6@6c48a",
+        "compressed": {
+          "imagePathNoExt": "",
+          "suffixs": [
+            ".png"
+          ]
+        },
+        "spriteFrameInfos": [
+          {
+            "name": "loading05_logo",
+            "uuid": "b4e0f30f-e700-4096-963e-05f932f08f6c@f9941",
+            "imageUuid": "b4e0f30f-e700-4096-963e-05f932f08f6c",
+            "textureUuid": "b4e0f30f-e700-4096-963e-05f932f08f6c@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\load\\loading\\loading05_logo.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_b4e0f30f-e700-4096-963e-05f932f08f6c@f9941_image_3.png",
+            "trim": {
+              "rotatedWidth": 755,
+              "rotatedHeight": 421,
+              "x": 3,
+              "y": 3,
+              "width": 755,
+              "height": 421
+            },
+            "rawWidth": 755,
+            "rawHeight": 421,
+            "width": 761,
+            "height": 427,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/b4/b4e0f30f-e700-4096-963e-05f932f08f6c.png",
+            "rotated": false,
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 761,
+            "rotatedHeight": 427
+          },
+          {
+            "name": "loading05_bt01",
+            "uuid": "0b6dc853-77fc-46e9-a546-e53720bb0c7e@f9941",
+            "imageUuid": "0b6dc853-77fc-46e9-a546-e53720bb0c7e",
+            "textureUuid": "0b6dc853-77fc-46e9-a546-e53720bb0c7e@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\load\\loading\\loading05_bt01.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_0b6dc853-77fc-46e9-a546-e53720bb0c7e@f9941_image_0.png",
+            "trim": {
+              "rotatedWidth": 629,
+              "rotatedHeight": 117,
+              "x": 3,
+              "y": 430,
+              "width": 629,
+              "height": 117
+            },
+            "rawWidth": 629,
+            "rawHeight": 117,
+            "width": 635,
+            "height": 123,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/0b/0b6dc853-77fc-46e9-a546-e53720bb0c7e.png",
+            "rotated": false,
+            "x": 0,
+            "y": 427,
+            "rotatedWidth": 635,
+            "rotatedHeight": 123
+          },
+          {
+            "name": "loading05_bt02",
+            "uuid": "93477df3-9177-4377-a8cb-4b2196b62465@f9941",
+            "imageUuid": "93477df3-9177-4377-a8cb-4b2196b62465",
+            "textureUuid": "93477df3-9177-4377-a8cb-4b2196b62465@6c48a",
+            "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\load\\loading\\loading05_bt02.png",
+            "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_93477df3-9177-4377-a8cb-4b2196b62465@f9941_image_2.png",
+            "trim": {
+              "rotatedWidth": 629,
+              "rotatedHeight": 117,
+              "x": 3,
+              "y": 553,
+              "width": 629,
+              "height": 117
+            },
+            "rawWidth": 629,
+            "rawHeight": 117,
+            "width": 635,
+            "height": 123,
+            "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/93/93477df3-9177-4377-a8cb-4b2196b62465.png",
+            "rotated": false,
+            "x": 0,
+            "y": 550,
+            "rotatedWidth": 635,
+            "rotatedHeight": 123
+          }
+        ],
+        "width": 761,
+        "height": 673,
+        "name": "AlatLoad-0",
+        "imagePath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\64374f03-34e8-4ca8-9ba1-2660893dc175\\110ef0ae6.png"
+      }
+    ],
+    "options": {
+      "name": "AlatLoad",
+      "width": 1024,
+      "height": 1024,
+      "destDir": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\64374f03-34e8-4ca8-9ba1-2660893dc175",
+      "maxWidth": 1024,
+      "maxHeight": 1024,
+      "padding": 2,
+      "allowRotation": true,
+      "forceSquared": false,
+      "powerOfTwo": false,
+      "algorithm": "MaxRects",
+      "format": "png",
+      "quality": 80,
+      "contourBleed": true,
+      "paddingBleed": true,
+      "filterUnused": true,
+      "removeTextureInBundle": true,
+      "removeImageInBundle": true,
+      "removeSpriteAtlasInBundle": true,
+      "compressSettings": {},
+      "textureSetting": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "bleed": 1
+    },
+    "unpackedImages": [
+      {
+        "name": "loading05_shuom",
+        "uuid": "5845f5bf-1e37-4110-8dce-f4663fdd3edf@f9941",
+        "imageUuid": "5845f5bf-1e37-4110-8dce-f4663fdd3edf",
+        "textureUuid": "5845f5bf-1e37-4110-8dce-f4663fdd3edf@6c48a",
+        "file": "E:\\Cocos\\Project\\ROYALTEENPATTI\\assets\\textures\\load\\loading\\loading05_shuom.png",
+        "libraryPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\temp\\builder\\TexturePacker1.0.1\\build\\trimImages\\spritesheet_js_5845f5bf-1e37-4110-8dce-f4663fdd3edf@f9941_image_1.png",
+        "trim": {
+          "rotatedWidth": 1574,
+          "rotatedHeight": 184,
+          "x": 0,
+          "y": 0,
+          "width": 1574,
+          "height": 184
+        },
+        "rawWidth": 1574,
+        "rawHeight": 184,
+        "width": 1580,
+        "height": 190,
+        "originalPath": "E:\\Cocos\\Project\\ROYALTEENPATTI\\library/58/5845f5bf-1e37-4110-8dce-f4663fdd3edf.png",
+        "rotated": false
+      }
+    ]
+  }
+}

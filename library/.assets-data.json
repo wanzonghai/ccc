@@ -1,0 +1,907 @@
+{
+  "8d37846a-7d64-45ba-9f4c-61b781e2f608": {
+    "url": "db://assets/textures",
+    "value": {}
+  },
+  "e22d7adf-050d-47b2-bc9f-bee26edf2553": {
+    "url": "db://assets/textures/Hall",
+    "value": {}
+  },
+  "de09037c-0e5c-4172-b97b-3d1cc71b543b": {
+    "url": "db://assets/textures/load",
+    "value": {}
+  },
+  "e971855b-8eae-404b-8952-0321162c04c6": {
+    "url": "db://assets/textures/load/loading",
+    "value": {}
+  },
+  "ccbc1da9-b141-442e-9d6e-a206482be470": {
+    "url": "db://assets/textures/Hall/Bg_Hall.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "2b32bafd-eab2-4462-bc4f-fabb728745db": {
+    "url": "db://assets/textures/Hall/Hall/indiahongdian_bg.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3e3d6dd7-4de2-4abc-8665-01d75f7924a2": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_fx.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "782b39f7-25af-4f9b-b35c-a9d00d42fbc9": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_kf.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "392bb7a6-53c3-4536-a4f3-168210151823": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_lxqd.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ccbc1da9-b141-442e-9d6e-a206482be470@6c48a": {
+    "url": "db://assets/textures/Hall/Bg_Hall.jpg@6c48a",
+    "value": {
+      "depends": [
+        "ccbc1da9-b141-442e-9d6e-a206482be470"
+      ]
+    }
+  },
+  "3e3d6dd7-4de2-4abc-8665-01d75f7924a2@6c48a": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_fx.png@6c48a",
+    "value": {
+      "depends": [
+        "3e3d6dd7-4de2-4abc-8665-01d75f7924a2"
+      ]
+    }
+  },
+  "782b39f7-25af-4f9b-b35c-a9d00d42fbc9@6c48a": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_kf.png@6c48a",
+    "value": {
+      "depends": [
+        "782b39f7-25af-4f9b-b35c-a9d00d42fbc9"
+      ]
+    }
+  },
+  "392bb7a6-53c3-4536-a4f3-168210151823@6c48a": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_lxqd.png@6c48a",
+    "value": {
+      "depends": [
+        "392bb7a6-53c3-4536-a4f3-168210151823"
+      ]
+    }
+  },
+  "2b32bafd-eab2-4462-bc4f-fabb728745db@6c48a": {
+    "url": "db://assets/textures/Hall/Hall/indiahongdian_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "2b32bafd-eab2-4462-bc4f-fabb728745db"
+      ]
+    }
+  },
+  "3e3d6dd7-4de2-4abc-8665-01d75f7924a2@f9941": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_fx.png@f9941",
+    "value": {
+      "depends": [
+        "3e3d6dd7-4de2-4abc-8665-01d75f7924a2@6c48a"
+      ]
+    }
+  },
+  "42b010e0-2f84-45f4-b382-c2405aa79e6a": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_sz.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "782b39f7-25af-4f9b-b35c-a9d00d42fbc9@f9941": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_kf.png@f9941",
+    "value": {
+      "depends": [
+        "782b39f7-25af-4f9b-b35c-a9d00d42fbc9@6c48a"
+      ]
+    }
+  },
+  "c6348a46-ed33-418a-a303-bf8ea2d2e1c9": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_yj.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "392bb7a6-53c3-4536-a4f3-168210151823@f9941": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_lxqd.png@f9941",
+    "value": {
+      "depends": [
+        "392bb7a6-53c3-4536-a4f3-168210151823@6c48a"
+      ]
+    }
+  },
+  "5b7fc240-08aa-439b-87ec-6bf20a288daf": {
+    "url": "db://assets/textures/Hall/Hall/india_di_bg.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2b32bafd-eab2-4462-bc4f-fabb728745db@f9941": {
+    "url": "db://assets/textures/Hall/Hall/indiahongdian_bg.png@f9941",
+    "value": {
+      "depends": [
+        "2b32bafd-eab2-4462-bc4f-fabb728745db@6c48a"
+      ]
+    }
+  },
+  "d6b389fe-7d8c-4055-9be5-7efff4a0d1ff": {
+    "url": "db://assets/textures/Hall/Hall/india_jiahao_kf.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ccbc1da9-b141-442e-9d6e-a206482be470@f9941": {
+    "url": "db://assets/textures/Hall/Bg_Hall.jpg@f9941",
+    "value": {
+      "depends": [
+        "ccbc1da9-b141-442e-9d6e-a206482be470@6c48a"
+      ]
+    }
+  },
+  "6a61b697-8131-49b4-8701-26de3510750d": {
+    "url": "db://assets/textures/Hall/Hall/india_jinbidi_bg.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "42b010e0-2f84-45f4-b382-c2405aa79e6a@6c48a": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_sz.png@6c48a",
+    "value": {
+      "depends": [
+        "42b010e0-2f84-45f4-b382-c2405aa79e6a"
+      ]
+    }
+  },
+  "c6348a46-ed33-418a-a303-bf8ea2d2e1c9@6c48a": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_yj.png@6c48a",
+    "value": {
+      "depends": [
+        "c6348a46-ed33-418a-a303-bf8ea2d2e1c9"
+      ]
+    }
+  },
+  "d6b389fe-7d8c-4055-9be5-7efff4a0d1ff@6c48a": {
+    "url": "db://assets/textures/Hall/Hall/india_jiahao_kf.png@6c48a",
+    "value": {
+      "depends": [
+        "d6b389fe-7d8c-4055-9be5-7efff4a0d1ff"
+      ]
+    }
+  },
+  "5b7fc240-08aa-439b-87ec-6bf20a288daf@6c48a": {
+    "url": "db://assets/textures/Hall/Hall/india_di_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "5b7fc240-08aa-439b-87ec-6bf20a288daf"
+      ]
+    }
+  },
+  "c6348a46-ed33-418a-a303-bf8ea2d2e1c9@f9941": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_yj.png@f9941",
+    "value": {
+      "depends": [
+        "c6348a46-ed33-418a-a303-bf8ea2d2e1c9@6c48a"
+      ]
+    }
+  },
+  "d602c6c4-903c-4beb-9045-339545828e30": {
+    "url": "db://assets/textures/Hall/Hall/india_jinbi_bg.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "42b010e0-2f84-45f4-b382-c2405aa79e6a@f9941": {
+    "url": "db://assets/textures/Hall/Hall/india_anniu_sz.png@f9941",
+    "value": {
+      "depends": [
+        "42b010e0-2f84-45f4-b382-c2405aa79e6a@6c48a"
+      ]
+    }
+  },
+  "b6b98e5e-56a2-4901-9323-e6246404665f": {
+    "url": "db://assets/resources/texture/hall/1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d6b389fe-7d8c-4055-9be5-7efff4a0d1ff@f9941": {
+    "url": "db://assets/textures/Hall/Hall/india_jiahao_kf.png@f9941",
+    "value": {
+      "depends": [
+        "d6b389fe-7d8c-4055-9be5-7efff4a0d1ff@6c48a"
+      ]
+    }
+  },
+  "94e0bed2-170e-4298-9209-7f53ba507056": {
+    "url": "db://assets/resources/texture/hall/2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6a61b697-8131-49b4-8701-26de3510750d@6c48a": {
+    "url": "db://assets/textures/Hall/Hall/india_jinbidi_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "6a61b697-8131-49b4-8701-26de3510750d"
+      ]
+    }
+  },
+  "5b7fc240-08aa-439b-87ec-6bf20a288daf@f9941": {
+    "url": "db://assets/textures/Hall/Hall/india_di_bg.png@f9941",
+    "value": {
+      "depends": [
+        "5b7fc240-08aa-439b-87ec-6bf20a288daf@6c48a"
+      ]
+    }
+  },
+  "38d491ee-a7cc-455c-9b22-e7c03333622a": {
+    "url": "db://assets/resources/texture/hall/3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6a61b697-8131-49b4-8701-26de3510750d@f9941": {
+    "url": "db://assets/textures/Hall/Hall/india_jinbidi_bg.png@f9941",
+    "value": {
+      "depends": [
+        "6a61b697-8131-49b4-8701-26de3510750d@6c48a"
+      ]
+    }
+  },
+  "99e381f0-844f-4cfa-8bb1-ad67e32734e8": {
+    "url": "db://assets/resources/texture/hall/4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d602c6c4-903c-4beb-9045-339545828e30@6c48a": {
+    "url": "db://assets/textures/Hall/Hall/india_jinbi_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "d602c6c4-903c-4beb-9045-339545828e30"
+      ]
+    }
+  },
+  "d602c6c4-903c-4beb-9045-339545828e30@f9941": {
+    "url": "db://assets/textures/Hall/Hall/india_jinbi_bg.png@f9941",
+    "value": {
+      "depends": [
+        "d602c6c4-903c-4beb-9045-339545828e30@6c48a"
+      ]
+    }
+  },
+  "c7875cb1-ecfd-435e-9ee9-c5c67925c152": {
+    "url": "db://assets/resources/texture/hall/5.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b6b98e5e-56a2-4901-9323-e6246404665f@6c48a": {
+    "url": "db://assets/resources/texture/hall/1.png@6c48a",
+    "value": {
+      "depends": [
+        "b6b98e5e-56a2-4901-9323-e6246404665f"
+      ]
+    }
+  },
+  "94e0bed2-170e-4298-9209-7f53ba507056@6c48a": {
+    "url": "db://assets/resources/texture/hall/2.png@6c48a",
+    "value": {
+      "depends": [
+        "94e0bed2-170e-4298-9209-7f53ba507056"
+      ]
+    }
+  },
+  "99e381f0-844f-4cfa-8bb1-ad67e32734e8@6c48a": {
+    "url": "db://assets/resources/texture/hall/4.png@6c48a",
+    "value": {
+      "depends": [
+        "99e381f0-844f-4cfa-8bb1-ad67e32734e8"
+      ]
+    }
+  },
+  "38d491ee-a7cc-455c-9b22-e7c03333622a@6c48a": {
+    "url": "db://assets/resources/texture/hall/3.png@6c48a",
+    "value": {
+      "depends": [
+        "38d491ee-a7cc-455c-9b22-e7c03333622a"
+      ]
+    }
+  },
+  "b6b98e5e-56a2-4901-9323-e6246404665f@f9941": {
+    "url": "db://assets/resources/texture/hall/1.png@f9941",
+    "value": {
+      "depends": [
+        "b6b98e5e-56a2-4901-9323-e6246404665f@6c48a"
+      ]
+    }
+  },
+  "ca2cfaaa-752a-4486-9d29-8a20519949bc": {
+    "url": "db://assets/textures/Hall/Hall/india_touxiang_bg.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "94e0bed2-170e-4298-9209-7f53ba507056@f9941": {
+    "url": "db://assets/resources/texture/hall/2.png@f9941",
+    "value": {
+      "depends": [
+        "94e0bed2-170e-4298-9209-7f53ba507056@6c48a"
+      ]
+    }
+  },
+  "58680ebf-84a4-4dd3-baeb-6669d17b01dc": {
+    "url": "db://assets/textures/Hall/xiaoguotu.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "99e381f0-844f-4cfa-8bb1-ad67e32734e8@f9941": {
+    "url": "db://assets/resources/texture/hall/4.png@f9941",
+    "value": {
+      "depends": [
+        "99e381f0-844f-4cfa-8bb1-ad67e32734e8@6c48a"
+      ]
+    }
+  },
+  "b20d3a28-80d3-4ba2-b0f6-017b446ba73a": {
+    "url": "db://assets/textures/Hall/印度A面.psb",
+    "value": {}
+  },
+  "38d491ee-a7cc-455c-9b22-e7c03333622a@f9941": {
+    "url": "db://assets/resources/texture/hall/3.png@f9941",
+    "value": {
+      "depends": [
+        "38d491ee-a7cc-455c-9b22-e7c03333622a@6c48a"
+      ]
+    }
+  },
+  "34af8651-e384-4c0f-9ca5-c1ae73e045ff": {
+    "url": "db://assets/textures/load/loading05.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c7875cb1-ecfd-435e-9ee9-c5c67925c152@6c48a": {
+    "url": "db://assets/resources/texture/hall/5.png@6c48a",
+    "value": {
+      "depends": [
+        "c7875cb1-ecfd-435e-9ee9-c5c67925c152"
+      ]
+    }
+  },
+  "ca2cfaaa-752a-4486-9d29-8a20519949bc@6c48a": {
+    "url": "db://assets/textures/Hall/Hall/india_touxiang_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "ca2cfaaa-752a-4486-9d29-8a20519949bc"
+      ]
+    }
+  },
+  "c7875cb1-ecfd-435e-9ee9-c5c67925c152@f9941": {
+    "url": "db://assets/resources/texture/hall/5.png@f9941",
+    "value": {
+      "depends": [
+        "c7875cb1-ecfd-435e-9ee9-c5c67925c152@6c48a"
+      ]
+    }
+  },
+  "4a77d0b2-d463-4ec5-a16c-23458fbb7d9f": {
+    "url": "db://assets/textures/load/loading05.psb",
+    "value": {}
+  },
+  "ca2cfaaa-752a-4486-9d29-8a20519949bc@f9941": {
+    "url": "db://assets/textures/Hall/Hall/india_touxiang_bg.png@f9941",
+    "value": {
+      "depends": [
+        "ca2cfaaa-752a-4486-9d29-8a20519949bc@6c48a"
+      ]
+    }
+  },
+  "f2bf58a0-8f41-4ae3-bf32-72be2938b333": {
+    "url": "db://assets/textures/load/loading06.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "0b6dc853-77fc-46e9-a546-e53720bb0c7e": {
+    "url": "db://assets/textures/load/loading/loading05_bt01.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "34af8651-e384-4c0f-9ca5-c1ae73e045ff@6c48a": {
+    "url": "db://assets/textures/load/loading05.png@6c48a",
+    "value": {
+      "depends": [
+        "34af8651-e384-4c0f-9ca5-c1ae73e045ff"
+      ]
+    }
+  },
+  "0b6dc853-77fc-46e9-a546-e53720bb0c7e@6c48a": {
+    "url": "db://assets/textures/load/loading/loading05_bt01.png@6c48a",
+    "value": {
+      "depends": [
+        "0b6dc853-77fc-46e9-a546-e53720bb0c7e"
+      ]
+    }
+  },
+  "f2bf58a0-8f41-4ae3-bf32-72be2938b333@6c48a": {
+    "url": "db://assets/textures/load/loading06.png@6c48a",
+    "value": {
+      "depends": [
+        "f2bf58a0-8f41-4ae3-bf32-72be2938b333"
+      ]
+    }
+  },
+  "58680ebf-84a4-4dd3-baeb-6669d17b01dc@6c48a": {
+    "url": "db://assets/textures/Hall/xiaoguotu.png@6c48a",
+    "value": {
+      "depends": [
+        "58680ebf-84a4-4dd3-baeb-6669d17b01dc"
+      ]
+    }
+  },
+  "0b6dc853-77fc-46e9-a546-e53720bb0c7e@f9941": {
+    "url": "db://assets/textures/load/loading/loading05_bt01.png@f9941",
+    "value": {
+      "depends": [
+        "0b6dc853-77fc-46e9-a546-e53720bb0c7e@6c48a"
+      ]
+    }
+  },
+  "93477df3-9177-4377-a8cb-4b2196b62465": {
+    "url": "db://assets/textures/load/loading/loading05_bt02.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "34af8651-e384-4c0f-9ca5-c1ae73e045ff@f9941": {
+    "url": "db://assets/textures/load/loading05.png@f9941",
+    "value": {
+      "depends": [
+        "34af8651-e384-4c0f-9ca5-c1ae73e045ff@6c48a"
+      ]
+    }
+  },
+  "f2bf58a0-8f41-4ae3-bf32-72be2938b333@f9941": {
+    "url": "db://assets/textures/load/loading06.png@f9941",
+    "value": {
+      "depends": [
+        "f2bf58a0-8f41-4ae3-bf32-72be2938b333@6c48a"
+      ]
+    }
+  },
+  "b4e0f30f-e700-4096-963e-05f932f08f6c": {
+    "url": "db://assets/textures/load/loading/loading05_logo.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5845f5bf-1e37-4110-8dce-f4663fdd3edf": {
+    "url": "db://assets/textures/load/loading/loading05_shuom.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "58680ebf-84a4-4dd3-baeb-6669d17b01dc@f9941": {
+    "url": "db://assets/textures/Hall/xiaoguotu.png@f9941",
+    "value": {
+      "depends": [
+        "58680ebf-84a4-4dd3-baeb-6669d17b01dc@6c48a"
+      ]
+    }
+  },
+  "93477df3-9177-4377-a8cb-4b2196b62465@6c48a": {
+    "url": "db://assets/textures/load/loading/loading05_bt02.png@6c48a",
+    "value": {
+      "depends": [
+        "93477df3-9177-4377-a8cb-4b2196b62465"
+      ]
+    }
+  },
+  "5845f5bf-1e37-4110-8dce-f4663fdd3edf@6c48a": {
+    "url": "db://assets/textures/load/loading/loading05_shuom.png@6c48a",
+    "value": {
+      "depends": [
+        "5845f5bf-1e37-4110-8dce-f4663fdd3edf"
+      ]
+    }
+  },
+  "93477df3-9177-4377-a8cb-4b2196b62465@f9941": {
+    "url": "db://assets/textures/load/loading/loading05_bt02.png@f9941",
+    "value": {
+      "depends": [
+        "93477df3-9177-4377-a8cb-4b2196b62465@6c48a"
+      ]
+    }
+  },
+  "5845f5bf-1e37-4110-8dce-f4663fdd3edf@f9941": {
+    "url": "db://assets/textures/load/loading/loading05_shuom.png@f9941",
+    "value": {
+      "depends": [
+        "5845f5bf-1e37-4110-8dce-f4663fdd3edf@6c48a"
+      ]
+    }
+  },
+  "b4e0f30f-e700-4096-963e-05f932f08f6c@6c48a": {
+    "url": "db://assets/textures/load/loading/loading05_logo.png@6c48a",
+    "value": {
+      "depends": [
+        "b4e0f30f-e700-4096-963e-05f932f08f6c"
+      ]
+    }
+  },
+  "b4e0f30f-e700-4096-963e-05f932f08f6c@f9941": {
+    "url": "db://assets/textures/load/loading/loading05_logo.png@f9941",
+    "value": {
+      "depends": [
+        "b4e0f30f-e700-4096-963e-05f932f08f6c@6c48a"
+      ]
+    }
+  },
+  "1478e570-edba-4783-9f2a-37048f6c0f13": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "c54e6e59-7aa2-4e21-a24a-dd7c02032a62": {
+    "url": "db://assets/scenes",
+    "value": {}
+  },
+  "7182bc11-be81-4aa8-bab2-5bbd7626caaf": {
+    "url": "db://assets/scripts",
+    "value": {}
+  },
+  "acfff64a-ba74-485d-a9c9-b2a9ac7a7c7c": {
+    "url": "db://assets/scenes/Login.scene",
+    "value": {
+      "depends": [
+        "acfff64a-ba74-485d-a9c9-b2a9ac7a7c7c",
+        "f2bf58a0-8f41-4ae3-bf32-72be2938b333@f9941",
+        "34af8651-e384-4c0f-9ca5-c1ae73e045ff@f9941",
+        "5845f5bf-1e37-4110-8dce-f4663fdd3edf@f9941",
+        "64374f03-34e8-4ca8-9ba1-2660893dc175",
+        "b4e0f30f-e700-4096-963e-05f932f08f6c@f9941",
+        "64374f03-34e8-4ca8-9ba1-2660893dc175",
+        "0b6dc853-77fc-46e9-a546-e53720bb0c7e@f9941",
+        "64374f03-34e8-4ca8-9ba1-2660893dc175",
+        "0b6dc853-77fc-46e9-a546-e53720bb0c7e@f9941",
+        "93477df3-9177-4377-a8cb-4b2196b62465@f9941",
+        "64374f03-34e8-4ca8-9ba1-2660893dc175",
+        "93477df3-9177-4377-a8cb-4b2196b62465@f9941"
+      ]
+    }
+  },
+  "34af8651-e384-4c0f-9ca5-c1ae73e045ff@b47c0": {
+    "url": "db://assets/textures/load/loading05.png@b47c0",
+    "value": {
+      "depends": [
+        "34af8651-e384-4c0f-9ca5-c1ae73e045ff@b47c0@e9a6d",
+        "34af8651-e384-4c0f-9ca5-c1ae73e045ff@b47c0@40c10",
+        "34af8651-e384-4c0f-9ca5-c1ae73e045ff@b47c0@8fd34",
+        "34af8651-e384-4c0f-9ca5-c1ae73e045ff@b47c0@74afd",
+        "34af8651-e384-4c0f-9ca5-c1ae73e045ff@b47c0@bb97f",
+        "34af8651-e384-4c0f-9ca5-c1ae73e045ff@b47c0@7d38f"
+      ]
+    }
+  },
+  "34af8651-e384-4c0f-9ca5-c1ae73e045ff@b47c0@74afd": {
+    "url": "db://assets/textures/load/loading05.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "34af8651-e384-4c0f-9ca5-c1ae73e045ff@b47c0@8fd34": {
+    "url": "db://assets/textures/load/loading05.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "34af8651-e384-4c0f-9ca5-c1ae73e045ff@b47c0@bb97f": {
+    "url": "db://assets/textures/load/loading05.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "34af8651-e384-4c0f-9ca5-c1ae73e045ff@b47c0@7d38f": {
+    "url": "db://assets/textures/load/loading05.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "34af8651-e384-4c0f-9ca5-c1ae73e045ff@b47c0@e9a6d": {
+    "url": "db://assets/textures/load/loading05.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "34af8651-e384-4c0f-9ca5-c1ae73e045ff@b47c0@40c10": {
+    "url": "db://assets/textures/load/loading05.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "b4e0f30f-e700-4096-963e-05f932f08f6c@b47c0": {
+    "url": "db://assets/textures/load/loading/loading05_logo.png@b47c0",
+    "value": {
+      "depends": [
+        "b4e0f30f-e700-4096-963e-05f932f08f6c@b47c0@e9a6d",
+        "b4e0f30f-e700-4096-963e-05f932f08f6c@b47c0@40c10",
+        "b4e0f30f-e700-4096-963e-05f932f08f6c@b47c0@8fd34",
+        "b4e0f30f-e700-4096-963e-05f932f08f6c@b47c0@74afd",
+        "b4e0f30f-e700-4096-963e-05f932f08f6c@b47c0@bb97f",
+        "b4e0f30f-e700-4096-963e-05f932f08f6c@b47c0@7d38f"
+      ]
+    }
+  },
+  "b4e0f30f-e700-4096-963e-05f932f08f6c@b47c0@74afd": {
+    "url": "db://assets/textures/load/loading/loading05_logo.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "b4e0f30f-e700-4096-963e-05f932f08f6c@b47c0@8fd34": {
+    "url": "db://assets/textures/load/loading/loading05_logo.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "b4e0f30f-e700-4096-963e-05f932f08f6c@b47c0@bb97f": {
+    "url": "db://assets/textures/load/loading/loading05_logo.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "b4e0f30f-e700-4096-963e-05f932f08f6c@b47c0@7d38f": {
+    "url": "db://assets/textures/load/loading/loading05_logo.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "b4e0f30f-e700-4096-963e-05f932f08f6c@b47c0@e9a6d": {
+    "url": "db://assets/textures/load/loading/loading05_logo.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "b4e0f30f-e700-4096-963e-05f932f08f6c@b47c0@40c10": {
+    "url": "db://assets/textures/load/loading/loading05_logo.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "e5910146-6000-4e2b-abdd-e31f740069ef": {
+    "url": "db://assets/resources/prefab",
+    "value": {}
+  },
+  "919d41d6-e951-49f1-a48c-ceeef51ffbaf": {
+    "url": "db://assets/resources/prefab/common/Tip.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+      ]
+    }
+  },
+  "d3886888-1d7e-4bf5-92ec-3bed30561a1b": {
+    "url": "db://assets/resources/prefab/common",
+    "value": {}
+  },
+  "e8b98b1a-5923-41c6-b621-df3f7a4c0862": {
+    "url": "db://assets/scripts/commons",
+    "value": {}
+  },
+  "d32ebb94-a75c-48f1-b692-79590b4a54f6": {
+    "url": "db://assets/scripts/manages",
+    "value": {}
+  },
+  "3e9d7c02-e57b-4325-94bc-700c883ff609": {
+    "url": "db://assets/scripts/tools",
+    "value": {}
+  },
+  "575595f6-cc4a-4494-b964-0c67f4c11391": {
+    "url": "db://assets/scripts/module",
+    "value": {}
+  },
+  "e4f71340-c225-4dce-82c7-5642084f5865": {
+    "url": "db://assets/scripts/module/LoginScene.ts",
+    "value": {}
+  },
+  "8b8b1ef3-5f8b-4fa8-84d6-0ae17cfcd6f6": {
+    "url": "db://assets/scripts/bases",
+    "value": {}
+  },
+  "61a9bbe3-9cd8-4dd6-8920-20d707699bae": {
+    "url": "db://assets/scripts/bases/Singleton.ts",
+    "value": {}
+  },
+  "cb6fbbbc-d383-4d27-ad20-29d607e8ccfd": {
+    "url": "db://assets/scripts/manages/DynamicAssetMgr.ts",
+    "value": {}
+  },
+  "7753715b-9c4b-44fa-8cec-a652ac521010": {
+    "url": "db://assets/scripts/manages/EveMgr.ts",
+    "value": {}
+  },
+  "c6bf085a-ced9-40b8-9ff0-b1d254cc0dd5": {
+    "url": "db://assets/scripts/manages/ResMgr.ts",
+    "value": {}
+  },
+  "b9734002-62a9-411b-a0a8-9716f1f62159": {
+    "url": "db://assets/scripts/tools/interface.ts",
+    "value": {}
+  },
+  "531fd72f-422c-42c4-8fb4-5993f5798845": {
+    "url": "db://assets/scripts/tools/RedUtil.ts",
+    "value": {}
+  },
+  "88a4356f-5655-4129-ae26-deb2c87447ce": {
+    "url": "db://assets/scripts/manages/AudioMgr.ts",
+    "value": {}
+  },
+  "390cd3b0-23c2-423b-a671-fb2ceafc52a7": {
+    "url": "db://assets/scripts/manages/GameMgr.ts",
+    "value": {}
+  },
+  "a2e46168-0bff-4fb3-880d-91940a7dd393": {
+    "url": "db://assets/scripts/tools/Appic.ts",
+    "value": {}
+  },
+  "20ac3d02-4a03-439f-8050-b810c3d1f08a": {
+    "url": "db://assets/scripts/tools/enumes.ts",
+    "value": {}
+  },
+  "004595f9-defb-442d-ab9c-2ff77ca6851d": {
+    "url": "db://assets/resources/audio",
+    "value": {}
+  },
+  "c320edf9-8fd3-41e7-ab77-4a549112ba50": {
+    "url": "db://assets/resources/audio/bgm.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "5f37010d-ca83-4cf7-9779-51f76a3f37f6": {
+    "url": "db://assets/resources/audio/btnEff1.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "a570cbb5-22cd-4661-bab6-2937eb0e62fc": {
+    "url": "db://assets/scripts/tools/Until.ts",
+    "value": {}
+  },
+  "17583d7f-c175-44b7-b4aa-e7e2cd0feac3": {
+    "url": "db://assets/scenes/Hall.scene",
+    "value": {
+      "depends": [
+        "17583d7f-c175-44b7-b4aa-e7e2cd0feac3",
+        "ccbc1da9-b141-442e-9d6e-a206482be470@f9941",
+        "d602c6c4-903c-4beb-9045-339545828e30@f9941",
+        "6a61b697-8131-49b4-8701-26de3510750d@f9941",
+        "c8701a5c-1376-4204-84bd-e21adba925ed@f9941",
+        "d6b389fe-7d8c-4055-9be5-7efff4a0d1ff@f9941",
+        "d6b389fe-7d8c-4055-9be5-7efff4a0d1ff@f9941",
+        "ca2cfaaa-752a-4486-9d29-8a20519949bc@f9941",
+        "782b39f7-25af-4f9b-b35c-a9d00d42fbc9@f9941",
+        "782b39f7-25af-4f9b-b35c-a9d00d42fbc9@f9941",
+        "42b010e0-2f84-45f4-b382-c2405aa79e6a@f9941",
+        "42b010e0-2f84-45f4-b382-c2405aa79e6a@f9941",
+        "392bb7a6-53c3-4536-a4f3-168210151823@f9941",
+        "392bb7a6-53c3-4536-a4f3-168210151823@f9941",
+        "c6348a46-ed33-418a-a303-bf8ea2d2e1c9@f9941",
+        "c6348a46-ed33-418a-a303-bf8ea2d2e1c9@f9941",
+        "3e3d6dd7-4de2-4abc-8665-01d75f7924a2@f9941",
+        "3e3d6dd7-4de2-4abc-8665-01d75f7924a2@f9941",
+        "17583d7f-c175-44b7-b4aa-e7e2cd0feac3"
+      ]
+    }
+  },
+  "ba770580-97db-4073-b0ff-79cd08163a8e": {
+    "url": "db://assets/textures/Hall/Hall/AlaHall.pac",
+    "value": {
+      "depends": []
+    }
+  },
+  "1ded40d0-032f-4b02-b062-166ade6357da": {
+    "url": "db://assets/textures/Hall/Hall",
+    "value": {}
+  },
+  "64374f03-34e8-4ca8-9ba1-2660893dc175": {
+    "url": "db://assets/textures/load/loading/AlatLoad.pac",
+    "value": {
+      "depends": []
+    }
+  },
+  "fc836390-188f-4915-abad-2431b5867203": {
+    "url": "db://assets/textures/Hall/R.jfif",
+    "value": {}
+  },
+  "c8701a5c-1376-4204-84bd-e21adba925ed": {
+    "url": "db://assets/textures/Hall/R.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "c8701a5c-1376-4204-84bd-e21adba925ed@6c48a": {
+    "url": "db://assets/textures/Hall/R.jpg@6c48a",
+    "value": {
+      "depends": [
+        "c8701a5c-1376-4204-84bd-e21adba925ed"
+      ]
+    }
+  },
+  "c8701a5c-1376-4204-84bd-e21adba925ed@f9941": {
+    "url": "db://assets/textures/Hall/R.jpg@f9941",
+    "value": {
+      "depends": [
+        "c8701a5c-1376-4204-84bd-e21adba925ed@6c48a"
+      ]
+    }
+  },
+  "66a2d523-cbcd-4568-9514-af6b20ce740f": {
+    "url": "db://assets/scripts/module/HallScene.ts",
+    "value": {}
+  },
+  "957ae012-e29e-4b87-886a-3205b78fa339": {
+    "url": "db://assets/scripts/commons/uiComponent",
+    "value": {}
+  },
+  "4cd67420-63df-49fe-af3e-869694423b74": {
+    "url": "db://assets/scripts/commons/uiComponent/list-view-ctrl.ts",
+    "value": {}
+  },
+  "9a19dee9-d9d6-4739-b8ec-c83d6e7d39aa": {
+    "url": "db://assets/scripts/tools/NativeJSBridgeIns.ts",
+    "value": {}
+  },
+  "fabaed22-4d90-4dd9-8ebc-0840618bea09": {
+    "url": "db://assets/scripts/commons/uiComponent/RecycleScroll.ts",
+    "value": {}
+  },
+  "26bdda74-7058-42df-a44d-870a4252c2c9": {
+    "url": "db://assets/resources/prefab/hall",
+    "value": {}
+  },
+  "2ae0bdb2-1f0a-478f-a389-c81250814eb1": {
+    "url": "db://assets/resources/prefab/hall/ItemPass.prefab",
+    "value": {
+      "depends": [
+        "c7875cb1-ecfd-435e-9ee9-c5c67925c152@f9941",
+        "c7875cb1-ecfd-435e-9ee9-c5c67925c152@f9941"
+      ]
+    }
+  },
+  "8e94fe37-731e-4d97-bfd0-45bdfcb232fa": {
+    "url": "db://assets/scripts/module/Hall",
+    "value": {}
+  },
+  "47787a17-a7a0-4e3f-bc20-ca376d0a9639": {
+    "url": "db://assets/scripts/module/Hall/ScrollItem.ts",
+    "value": {}
+  },
+  "80fdb3ac-07b0-43f5-be92-511f5e57c260": {
+    "url": "db://assets/resources/texture",
+    "value": {}
+  },
+  "63d39a5d-6fc1-4404-8d05-54430b705b77": {
+    "url": "db://assets/resources/texture/hall",
+    "value": {}
+  },
+  "95674462-e831-4900-aa0a-e9d47f68beb2": {
+    "url": "db://assets/resources/texture/hall/hallAltals.pac",
+    "value": {
+      "depends": []
+    }
+  }
+}
