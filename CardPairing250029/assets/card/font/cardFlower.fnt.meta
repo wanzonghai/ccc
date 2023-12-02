@@ -1,0 +1,77 @@
+{
+  "ver": "1.0.6",
+  "importer": "bitmap-font",
+  "imported": true,
+  "uuid": "9dbe18a8-515f-4095-abc6-f2636d32e5ad",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "_fntConfig": {
+      "commonHeight": 82,
+      "fontSize": 82,
+      "atlasName": "cardFlower.png",
+      "fontDefDictionary": {
+        "49": {
+          "rect": {
+            "x": 157,
+            "y": 2,
+            "width": 44,
+            "height": 47
+          },
+          "xOffset": 0,
+          "yOffset": 15,
+          "xAdvance": 44
+        },
+        "50": {
+          "rect": {
+            "x": 107,
+            "y": 2,
+            "width": 48,
+            "height": 44
+          },
+          "xOffset": 0,
+          "yOffset": 15,
+          "xAdvance": 48
+        },
+        "51": {
+          "rect": {
+            "x": 2,
+            "y": 2,
+            "width": 46,
+            "height": 47
+          },
+          "xOffset": 0,
+          "yOffset": 15,
+          "xAdvance": 46
+        },
+        "52": {
+          "rect": {
+            "x": 203,
+            "y": 2,
+            "width": 42,
+            "height": 50
+          },
+          "xOffset": 0,
+          "yOffset": 15,
+          "xAdvance": 42
+        },
+        "53": {
+          "rect": {
+            "x": 50,
+            "y": 2,
+            "width": 55,
+            "height": 82
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 55
+        }
+      },
+      "kerningDict": {}
+    },
+    "fontSize": 82,
+    "textureUuid": "a986ef3d-94d8-4c8a-9490-5e0708ec2f88"
+  }
+}

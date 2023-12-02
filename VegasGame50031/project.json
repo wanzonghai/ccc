@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.9",
+  "name": "magicNumbersGame",
+  "id": "5bc85380-effd-4f5e-a289-06d16686854d",
+  "isNew": false
+}

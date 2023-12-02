@@ -1,0 +1,14 @@
+巴西真金
+应  用 名：Zoe Fun And Happy Life  
+渠   道   号: 20335
+包     名：uhrmmazb.gunwswopq.aamifmolk
+签名文件名：dpgsmrbpsusuko.jks
+签名 密码：200335
+签名 别名：dpgsmrbpsusuko
+别名 密码：200335
+宝塔域名URL:
+本地地址：\\172.17.19.82\团队共享\美术资源\AFUN_mjb\xiaowang\Zoe Fun and Happy Life-横版休闲-cocos-2.4.12（zongzi已使用）
+测试规则:
+归因方式：
+当前版本：1（1.5）
+更新测试日期：20231202

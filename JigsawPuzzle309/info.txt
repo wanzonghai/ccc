@@ -1,0 +1,11 @@
+应  用 名：Jigsaw Puzzle
+包    名：qiaaacsjv.yxumlitk.gvcfmrfmsv
+Dev  key:764EphCL4Wzjbo395JxBLX
+签名 密码：309309
+签名 别名：fzvobzqkfto
+别名 密码：309309
+宝塔域名URL:http://qliahdrk.top/okrjgqqb.json
+测试规则:
+归因方式：af后台页面的归因二维码形式，
+当前版本：2（2.2）
+更新测试日期：20231202

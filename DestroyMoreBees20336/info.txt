@@ -1,0 +1,15 @@
+巴西真金
+应  用 名：Destroy More Bees
+渠   道   号: 20336
+包     名：rdthtcuf.owhih.hdreyfj
+签名文件名：hcmeuqjyy.jks
+签名 密码：200336
+签名 别名：hcmeuqjyy
+别名 密码：200336
+宝塔域名URL:\\172.17.19.82\团队共享\美术资源\AFUN_mjb\xiaoyu\Destroy more bees-横版休闲-cocos-2.4.9（zongzi已使用）
+本地地址：
+测试规则:
+归因方式：
+当前版本：1（1.6）
+更新测试日期：20231202
+

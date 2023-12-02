@@ -1,0 +1,10 @@
+{
+  "start-scene": "77bda10a-9977-4a26-a664-6f41bc7b3912",
+  "migrate-history": [
+    "cloud-function"
+  ],
+  "group-list": [
+    "default"
+  ],
+  "last-module-event-record-time": 1699511886284
+}
