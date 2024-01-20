@@ -45,7 +45,6 @@ export default class WebSocketService {
     /** 保存重连延迟函数*/
     private websocketTimeout: number = 0;
     private reconnectTimeOut: number = 0;
-    private restart: boolean = false;
 
     private heartChecker: HeartChecker;
 
@@ -67,6 +66,8 @@ export default class WebSocketService {
     public close(): void {
         if (this.websocket) {
             this.websocket.close();
+        } else {
+            console.error('WebSocket is not connected.');
         }
     }
 
@@ -85,20 +86,33 @@ export default class WebSocketService {
                 console.log('--websocketTimeout--', this.websocketTimeout);
                 clearTimeout(this.websocketTimeout);
             }
+
+            // 在这里将 client 赋值给 this.websocket
+            this.websocket = client;
+
             resolve();
         };
 
         client.onmessage = (data: any) => {
             this.reconnectTimeOut = 0;
             this.heartCheck();
-            console.log('-onmessage-收到的消息为--', JSON.parse(data.data));
-            // 处理消息
-            let JsonData = JSON.parse(data.data);
-            if (JsonData.type == 'message') {
+            let JsonData;
+            try {
+                // 处理消息
+                JsonData = JSON.parse(data.data);
+                console.log('-onmessage-收到的消息为--', JsonData);
+                if (JsonData.type == 'message') {
+                }
+                if (JsonData.type == 'close') {
+                    client.onclose(data);
+                }
+            } catch (error) {
+                // 解析失败，将消息视为普通文本消息
+                console.error('Error parsing JSON:', error);
+                // 处理非 JSON 格式的消息
+                console.log('-onmessage-收到的消息为--', data.data);
             }
-            if (JsonData.type == 'close') {
-                client.onclose(data);
-            }
+
             // ...
         };
 
@@ -167,10 +181,13 @@ export default class WebSocketService {
      * 处理收到的数据
      * @param data
      * @returns
+     *  action: 'ping', type: 'ping',
      */
     public sendMessage(data: any): void {
         if (this.websocket) {
-            this.websocket.send(JSON.stringify({ action: 'ping', type: 'ping', data }));
+            this.websocket.send(JSON.stringify({ action: 'sendUserData', type: 'user_data', data }));
+        } else {
+            console.error('WebSocket is not connected.');
         }
     }
 
@@ -195,18 +212,18 @@ export default class WebSocketService {
     }
 }
 
-// 调用方式
-const wsService = new WebSocketService('StaticManager.wsUrl');
+// // 调用方式
+// const wsService = new WebSocketService('StaticManager.wsUrl');
 
-async function initializeWebSocket(): Promise<void> {
-    try {
-        await wsService.connect();
-        // WebSocket 连接成功，可以进行后续操作
-    } catch (error) {
-        // 处理连接错误
-    }
-}
+// async function initializeWebSocket(): Promise<void> {
+//     try {
+//         await wsService.connect();
+//         // WebSocket 连接成功，可以进行后续操作
+//     } catch (error) {
+//         // 处理连接错误
+//     }
+// }
 
-function closeWebSocket(): void {
-    wsService.close();
-}
+// function closeWebSocket(): void {
+//     wsService.close();
+// }
